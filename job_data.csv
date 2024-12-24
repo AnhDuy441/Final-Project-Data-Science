@@ -1,334 +1,401 @@
 ﻿STT,Trang thu thập,Tên công ty,Tên công việc,Vị trí ứng tuyển,Yêu cầu bằng cấp,Yêu cầu kinh nghiệm,Địa điểm,Ngày đăng tuyển,Lương tối thiểu,Lương tối đa,Lương TB
-0,CareerLink,VIETNAM CONCENTRIX SERVICES COMPANY LIMITED,Nhà phân tích dữ liệu,Nhân viên,Trung học,Senior,Hồ Chí Minh,2024-12-20 18:04:05.617214,,,
-1,CareerLink,CareerLink's Client,Chuyên viên tư vấn CNTT,Nhân viên,Cử nhân,Middle,Hà Nội,2024-12-20 17:04:08.438388,,,25000000
-2,CareerLink,CÔNG TY CỔ PHẦN DỊCH VỤ KỸ THUẬT MOBIFONE,nhân viên vận hành mạng truyền dẫn (đắk nông),Kỹ thuật viên / Kỹ sư,kỹ sư,Fresher,Đăk Nông,2024-12-20 16:04:11.188391,6000000,6500000,6250000
-3,CareerLink,CareerLink's Client,Lập trình viên,Nhân viên,Cử nhân,Middle,Hà Nội,2024-12-20 17:04:14.047836,,,
-4,CareerLink,CareerLink's Client,Nhà thiết kế đồ họa,Nhân viên,Cử nhân,Middle,Hồ Chí Minh,2024-12-20 15:04:16.865382,25000000,35000000,30000000
-5,CareerLink,Công Ty TNHH Thương Mại Công Nghệ Anh Minh,Lập trình viên,Kỹ thuật viên / Kỹ sư,Cử nhân,Junior,Hồ Chí Minh,2024-12-20 17:04:19.839363,0,0,0
-6,CareerLink,CÔNG TY TNHH CLOUDLAB VINA,Lập trình viên,Nhân viên,Cử nhân,Junior,Hồ Chí Minh,2024-12-20 10:04:22.440694,,,
-7,CareerLink,Công ty TNHH Elentec Việt Nam,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Cử nhân,Junior,Hà Nội,2024-12-20 10:04:25.249675,,,
-8,CareerLink,CÔNG TY TNHH THƯƠNG MẠI VÀ DỊCH VỤ NINA,Kinh doanh,Nhân viên,Trung cấp,Fresher,Hồ Chí Minh,2024-12-20 10:04:28.231935,10000000,15000000,12500000
-9,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Trung học,Fresher,Hà Nội,2024-12-20 10:04:31.042877,7000000,10000000,8500000
-10,CareerLink,Công Ty Cổ Phần Tập Đoàn Omi (OmiGroup),Lập trình viên,Nhân viên,Cử nhân,Junior,Hà Nội,2024-12-20 10:04:33.892717,,,
-11,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Trung học,Fresher,Kiên Giang,2024-12-20 10:04:36.642542,8000000,12000000,10000000
-12,CareerLink,Công Ty Cổ Phần Funtap,vận hành cộng đồng game,Nhân viên,Cử nhân,Fresher,Hà Nội,2024-12-20 10:04:39.677422,,,
-13,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,nhân viên cài đặt phần mềm ios/macos [f.studio đồng hới - quảng bình],Nhân viên,Trung cấp,Fresher,Quảng Bình,2024-12-20 10:04:42.477103,8000000,15000000,11500000
-14,CareerLink,Công Ty TNHH Taixin Printing Vina,nhân viên thiết kế chế bản,Nhân viên,Cử nhân,Middle,Bắc Ninh,2024-12-20 10:04:45.356551,,,
-15,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Trung học,Fresher,Kiên Giang,2024-12-20 10:04:48.079036,8000000,12000000,10000000
-16,CareerLink,Công Ty TNHH Sản Xuất Thương Mại Kỹ Thuật Á Châu,Kinh doanh,Nhân viên,Cử nhân,Middle,Hồ Chí Minh,2024-12-20 10:04:50.979808,15000000,18000000,16500000
-17,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Trung học,Fresher,Kiên Giang,2024-12-20 10:04:53.954419,8000000,12000000,10000000
-18,CareerLink,TRƯỜNG ĐẠI HỌC KINH TẾ TÀI CHÍNH TP.HCM,nhân viên phụ trách hoạt động xây dựng học liệu,Nhân viên,Cử nhân,Junior,Hồ Chí Minh,2024-12-20 10:04:56.820817,,,
-19,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Trung cấp,Fresher,Hà Nội,2024-12-20 10:04:59.729336,8000000,15000000,11500000
-20,CareerLink,Công Ty Cổ Phần Funtap,Kinh doanh,Mới đi làm,Cử nhân,Fresher,Hà Nội,2024-12-20 10:05:02.517545,,,
-21,CareerLink,TRƯỜNG ĐẠI HỌC YERSIN ĐÀ LẠT,Công nghệ thông tin (tổng quát),Nhân viên,thạc sĩ,Junior,Lâm Đồng,2024-12-20 10:05:05.568669,7000000,,
-22,CareerLink,Công Ty Cổ Phần Funtap,qa manager (fintech),Quản lý / Trưởng phòng,Cử nhân,Senior,Hà Nội,2024-12-20 10:05:08.790946,,,
-23,CareerLink,Công ty TNHH Sản xuất Toàn Cầu LIXIL Việt Nam,Công nghệ thông tin (tổng quát),Nhân viên,Cử nhân,Fresher,Đồng Nai,2024-12-20 10:05:11.404329,0,0,0
-24,CareerLink,CareerLink's Client,Lập trình viên,Nhân viên,Cử nhân,Middle,Hồ Chí Minh,2024-12-20 10:05:14.226952,10000000,15000000,12500000
-25,CareerLink,Thời Trang Adidas - Công Ty Cổ Phần Đầu Tư Thương Mại Phượng Hoàng,Kinh doanh,Quản lý / Trưởng phòng,Cử nhân,Senior,Hà Nội,2024-12-20 10:05:17.051013,35000000,45000000,40000000
-26,CareerLink,CareerLink's Client,Chuyên viên tư vấn CNTT,Kỹ thuật viên / Kỹ sư,Cử nhân,Middle,Hồ Chí Minh,2024-12-20 15:05:19.720859,50000000,57000000,53500000
-27,CareerLink,CÔNG TY TNHH DAIWA VIỆT NAM,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Cử nhân,Fresher,Đà Nẵng,2024-12-19 10:05:22.596764,7000000,10000000,8500000
-28,CareerLink,FPT Telecom,Nhà phân tích dữ liệu,Sinh viên / Thực tập sinh,Cử nhân,Junior,Hồ Chí Minh,2024-12-20 13:05:25.567012,7000000,10000000,8500000
-29,CareerLink,Công Ty Cổ Phần Tập Đoàn Omi (OmiGroup),Lập trình viên,Nhân viên,Cử nhân,Junior,Hà Nội,2024-12-19 10:05:28.479590,,,
-30,CareerLink,VIETNAM CONCENTRIX SERVICES COMPANY LIMITED,web delivery leader (wdl),Trưởng nhóm / Giám sát,Trung học,Junior,Hồ Chí Minh,2024-12-19 10:05:31.352015,,,
-31,CareerLink,Công Ty Cổ Phần Tập Đoàn Omi (OmiGroup),Lập trình viên,Nhân viên,Cử nhân,Senior,Hà Nội,2024-12-19 10:05:34.249628,,,
-32,CareerLink,PILGRIMAGE VILLAGE HUẾ BOUTIQUE RESORT & SPA,Công nghệ thông tin (tổng quát),Trưởng nhóm / Giám sát,Cử nhân,Middle,Thừa Thiên - Huế,2024-12-19 10:05:36.770081,10000000,15000000,12500000
-33,CareerLink,Công Ty Cổ Phần Tập Đoàn Omi (OmiGroup),Lập trình viên,Nhân viên,Cử nhân,Middle,Hà Nội,2024-12-19 10:05:39.573149,,,
-34,CareerLink,CÔNG TY CỔ PHẦN TẬP ĐOÀN KHOA HỌC CÔNG NGHỆ BÁCH KHOA,Nhà phát triển web,Nhân viên,kỹ sư,Middle,Hồ Chí Minh,2024-12-20 10:05:42.109397,,,
-35,CareerLink,Công Ty Cổ Phần Tập Đoàn Omi (OmiGroup),Lập trình viên,Nhân viên,Cử nhân,Middle,Hà Nội,2024-12-19 10:05:45.124928,,,
-36,CareerLink,VIETNAM CONCENTRIX SERVICES COMPANY LIMITED,web builder (aem authoring team member),Nhân viên,Trung học,Junior,Hồ Chí Minh,2024-12-19 10:05:47.929364,,,
-37,CareerLink,PILGRIMAGE VILLAGE HUẾ BOUTIQUE RESORT & SPA,Công nghệ thông tin (tổng quát),Trưởng nhóm / Giám sát,Cử nhân,Middle,Thừa Thiên - Huế,2024-12-19 10:05:50.858889,10000000,15000000,12500000
-38,CareerLink,CÔNG TY CỔ PHẦN TẬP ĐOÀN KHOA HỌC CÔNG NGHỆ BÁCH KHOA,Lập trình viên,Nhân viên,Cử nhân,Middle,Hồ Chí Minh,2024-12-19 10:05:53.810397,,,
-39,CareerLink,CareerLink's Client,Kinh doanh,Nhân viên,Cử nhân,Junior,Hồ Chí Minh,2024-12-19 10:05:56.511233,,,
-40,CareerLink,CÔNG TY CỔ PHẦN TẬP ĐOÀN KHOA HỌC CÔNG NGHỆ BÁCH KHOA,Công nghệ thông tin (tổng quát),Nhân viên,kỹ sư,Middle,Hồ Chí Minh,2024-12-19 10:05:59.471060,,,
-41,CareerLink,Công Ty Cổ Phần Dược Phẩm FPT Long Châu,Nhà thiết kế đồ họa,Nhân viên,Cử nhân,Middle,Hồ Chí Minh,2024-12-21 01:06:01.971866,,,
-42,CareerLink,CareerLink's Client,"kỹ sư thiết kế mạch (cơ hội làm việc tại nhật) - tiếng anh - quận 3, tp.hcm",Nhân viên,Cử nhân,Middle,Hồ Chí Minh Nhật Bản,2024-12-19 10:06:04.810501,,,
-43,CareerLink,CÔNG TY CỔ PHẦN NÔNG NGHIỆP TRƯỜNG HẢI,Công nghệ thông tin (tổng quát),Nhân viên,Cử nhân,Middle,Gia Lai,2024-12-19 10:06:07.371547,0,0,0
-44,CareerLink,CÔNG TY TNHH THỜI TRANG SÀI GÒN XUÂN HOÀ,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Trung cấp,Junior,Hồ Chí Minh,2024-12-20 18:06:10.223938,,,
-45,CareerLink,CÔNG TY CỔ PHẦN THƯƠNG MẠI VÀ DỊCH VỤ EMALL,nhân viên công nghệ ứng dụng ai,Mới đi làm,Cử nhân,Fresher,Hồ Chí Minh,2024-12-20 10:06:12.828574,,,
-46,CareerLink,CareerLink's Client,Kỹ sư cơ sở dữ liệu,Nhân viên,Cử nhân,Middle,Hà Nội,2024-12-18 10:06:15.843422,,,
-47,CareerLink,CÔNG TY TNHH QUICK VIỆT NAM,Lập trình viên,Nhân viên,Cử nhân,Middle,Hồ Chí Minh,2024-12-20 14:06:18.687572,15000000,25000000,20000000
-48,CareerLink,CareerLink's Client,Chuyên viên tư vấn CNTT,Trưởng nhóm / Giám sát,Cử nhân,Senior,Hải Phòng,2024-12-18 10:06:21.558110,,,
-49,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Trung học,Fresher,Ninh Thuận,2024-12-20 10:06:24.105818,6000000,10000000,8000000
-50,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Trung học,Fresher,Tiền Giang,2024-12-18 10:06:30.260706,8000000,12000000,10000000
-51,CareerLink,CÔNG TY CỔ PHẦN SUN.STUDIO,Nhà thiết kế đồ họa,Nhân viên,Cử nhân,Middle,Hồ Chí Minh,2024-12-19 10:06:33.453028,14000000,25000000,19500000
-52,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Trung học,Fresher,Gia Lai,2024-12-18 10:06:36.429912,5000000,9000000,7000000
-53,CareerLink,CÔNG TY CỔ PHẦN SYNOPEX VIỆT NAM,Lập trình viên,Nhân viên,Cử nhân,Junior,Bắc Ninh,2024-12-18 10:06:39.359096,,,
-54,CareerLink,Công ty TNHH May Mặc Alliance One,Kỹ sư kiểm thử phần mềm,Nhân viên,Cử nhân,Junior,Bến Tre,2024-12-19 10:06:42.016336,,,
-55,CareerLink,Công ty TNHH May Mặc Alliance One,Kinh doanh,Nhân viên,Cử nhân,Junior,Bến Tre,2024-12-18 10:06:44.878400,,,
-56,CareerLink,CÔNG TY CỔ PHẦN TRUYỀN THÔNG VÀNG CHÂU Á,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Cử nhân,Junior,Hồ Chí Minh,2024-12-19 10:06:47.664420,12000000,15000000,13500000
-57,CareerLink,CÔNG TY TNHH QUICK VIỆT NAM,Lập trình viên,Quản lý / Trưởng phòng,Cử nhân,Middle,Hồ Chí Minh,2024-12-20 10:06:50.659318,62000000,75000000,68500000
-58,CareerLink,Công Ty Cổ Phần Funtap,Lập trình viên,Nhân viên,Cử nhân,Senior,Hà Nội,2024-12-18 10:06:53.412608,,,
-59,CareerLink,Công Ty Cổ Phần Funtap,Kinh doanh,Nhân viên,Cử nhân,Middle,Hà Nội,2024-12-17 10:06:56.387927,,,
-60,CareerLink,CÔNG TY TNHH BOK VIỆT NAM,Lập trình viên,Kỹ thuật viên / Kỹ sư,Cử nhân,Middle,Hà Nội,2024-12-19 10:06:59.410260,,,
-61,CareerLink,Công Ty Cổ Phần Funtap,nhân viên vận hành games (yêu cầu kinh nghiệm),Nhân viên,Cử nhân,Fresher,Hà Nội,2024-12-17 10:07:02.124537,10000000,,
-62,CareerLink,CÔNG TY TRÁCH NHIỆM HỮU HẠN SÀI GÒN PRECISION,Nhà phân tích dữ liệu,Quản lý / Trưởng phòng,Cử nhân,Junior,Hồ Chí Minh,2024-12-18 10:07:05.084450,,,
-63,CareerLink,Công Ty Cổ Phần Funtap,Quản trị viên hệ thống,Nhân viên,Cử nhân,Middle,Hà Nội,2024-12-17 10:07:08.139632,,,
-64,CareerLink,CareerLink's Client,Chuyên viên tư vấn CNTT,Nhân viên,Cử nhân,Junior,Hồ Chí Minh,2024-12-17 10:07:10.987367,32000000,37000000,34500000
-65,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Trung học,Fresher,Đồng Tháp,2024-12-18 10:07:13.851451,8000000,12000000,10000000
-66,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Trung học,Fresher,Quảng Nam,2024-12-20 10:07:16.677453,6000000,11000000,8500000
-67,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Trung học,Fresher,Bắc Giang,2024-12-17 10:07:19.473315,7000000,10000000,8500000
-68,CareerLink,CÔNG TY CỔ PHẦN CTS,Kinh doanh,Nhân viên,Trung cấp,Middle,Hồ Chí Minh,2024-12-17 10:07:22.358285,15000000,30000000,22500000
-69,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Trung học,Fresher,Bắc Giang,2024-12-17 10:07:25.295490,7000000,12000000,9500000
-70,CareerLink,Công Ty Bánh Đồng Tiến Đà Nẵng,chuyên viên ai,Kỹ thuật viên / Kỹ sư,Cử nhân,Middle,Đà Nẵng,2024-12-20 10:07:28.189899,,,
-71,CareerLink,Công Ty Cổ Phần Funtap,game market research,Nhân viên,Cử nhân,Junior,Hà Nội,2024-12-17 10:07:31.033978,,,
-72,CareerLink,Công Ty Bánh Đồng Tiến Đà Nẵng,Lập trình viên,Nhân viên,Cử nhân,Middle,Đà Nẵng,2024-12-20 10:07:33.998498,10000000,12000000,11000000
-73,CareerLink,Công Ty TNHH Taixin Printing Vina,nhân viên nhập liệu hệ thống (oppsheet),Nhân viên,Cử nhân,Junior,Bắc Ninh,2024-12-17 10:07:36.938216,,,
-74,CareerLink,FPT Telecom,Lập trình viên,Nhân viên,Cử nhân,Middle,Hồ Chí Minh,2024-12-18 10:07:39.957895,,,
-75,CareerLink,CareerLink's Client,Lập trình viên,Nhân viên,Cử nhân,Middle,Hồ Chí Minh,2024-12-17 10:07:42.759083,19000000,25000000,22000000
-76,CareerLink,FPT Telecom,Lập trình viên,Sinh viên / Thực tập sinh,Cử nhân,Fresher,Hồ Chí Minh,2024-12-19 10:07:45.638251,7000000,10000000,8500000
-77,CareerLink,CÔNG TY TNHH QUICK VIỆT NAM,Lập trình viên,Nhân viên,Cử nhân,Middle,Hồ Chí Minh,2024-12-19 10:07:48.563427,25000000,35000000,30000000
-78,CareerLink,Công Ty TNHH Khóa Huy Hoàng,Quản trị viên hệ thống,Nhân viên,Cử nhân,Junior,Hà Nội,2024-12-17 10:07:51.409839,15000000,18000000,16500000
-79,CareerLink,CÔNG TY TNHH SEOJIN AUTO,Chuyên viên bảo mật thông tin,Nhân viên,Cử nhân,Junior,Bắc Ninh,2024-12-19 10:07:54.275960,,,
-80,CareerLink,CÔNG TY TNHH SEOJIN AUTO,Chuyên viên bảo mật thông tin,Nhân viên,Cử nhân,Junior,Bắc Ninh,2024-12-16 10:07:57.114883,,,
-81,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Trung học,Fresher,Bắc Giang,2024-12-16 10:08:00.017981,7000000,10000000,8500000
-82,CareerLink,Công Ty TNHH Becamex Tokyu,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Cử nhân,Junior,Bình Dương,2024-12-20 10:08:02.923635,,,
-83,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Trung học,Fresher,Hà Nội,2024-12-19 10:08:05.885228,8000000,15000000,11500000
-84,CareerLink,CareerLink's Client,Công nghệ thông tin (tổng quát),Nhân viên,Cử nhân,Junior,Hồ Chí Minh,2024-12-16 10:08:08.628604,15000000,20000000,17500000
-85,CareerLink,Tổng Công Ty Cổ Phần Địa Ốc Sài Gòn – SAIGONRES Group,Lập trình viên,Nhân viên,Cử nhân,Junior,Hồ Chí Minh,2024-12-20 10:08:11.452202,0,0,0
-86,CareerLink,TRƯỜNG ĐẠI HỌC KINH TẾ TÀI CHÍNH TP.HCM,Công nghệ thông tin (tổng quát),Quản lý / Trưởng phòng,thạc sĩ,Middle,Hồ Chí Minh,2024-12-16 10:08:14.261137,,,
-87,CareerLink,Công Ty Cổ Phần Tập Đoàn Cơ Điện Phương Linh,Nhà thiết kế đồ họa,Nhân viên,Trung cấp,Middle,Bình Dương,2024-12-17 10:08:16.772728,10000000,18000000,14000000
-88,CareerLink,Rieker Vietnam Ltd.,chuyên viên thiết kế 3d khuôn đế giày - số lượng: 1,Nhân viên,Trung cấp,Junior,Quảng Nam Quảng Ngãi,2024-12-16 10:08:19.586565,,,
-89,CareerLink,Công ty TNHH Coretronic Việt Nam,Công nghệ thông tin (tổng quát),Kỹ thuật viên / Kỹ sư,Cử nhân,Junior,Bà Rịa - Vũng Tàu,2024-12-19 10:08:22.386620,,,
-90,CareerLink,TỔNG CÔNG TY CP DỆT MAY HÒA THỌ,Lập trình viên,Nhân viên,Cử nhân,Junior,Đà Nẵng,2024-12-19 10:08:25.290365,,,20000000
-91,CareerLink,Công Ty Cổ Phần Funtap,Kinh doanh,Nhân viên,Cử nhân,Middle,Hà Nội,2024-12-16 10:08:28.122045,,,
-92,CareerLink,Công Ty TNHH Thực Phẩm Thái Sơn,Lập trình viên,Nhân viên,Cử nhân,Middle,Hồ Chí Minh,2024-12-19 10:08:30.847046,,,
-93,CareerLink,Công Ty Cổ Phần Funtap,scrum master,Nhân viên,Cử nhân,Senior,Hà Nội,2024-12-17 10:08:33.666474,,,
-94,CareerLink,Computime Limited,Lập trình viên,Nhân viên,Cử nhân,Middle,Bình Dương,2024-12-17 10:08:36.369462,,,
-95,CareerLink,CÔNG TY TNHH TIẾN TRIỂN VIỆT NAM,nhân viên thiết kế nội thất,Nhân viên,Trung cấp,Middle,Bình Dương,2024-12-18 10:08:39.101487,15000000,20000000,17500000
-96,CareerLink,Công Ty Cổ Phần Funtap,nhân viên qa (game global),Nhân viên,Cử nhân,Middle,Hà Nội,2024-12-18 10:08:41.748791,,,
-97,CareerLink,CareerLink's Client,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Cử nhân,Junior,Hà Nội,2024-12-20 10:08:44.547525,9000000,14000000,11500000
-98,CareerLink,CareerLink's Client,Lập trình viên,Nhân viên,Cử nhân,Middle,Bình Dương,2024-12-18 10:08:47.267135,,,
-99,CareerLink,CÔNG TY TNHH DAEYEONG VINA,Công nghệ thông tin (tổng quát),Nhân viên,Cử nhân,Junior,Đồng Nai,2024-12-19 10:08:50.101140,15000000,,
-100,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Trung học,Fresher,Gia Lai,2024-12-14 10:08:56.218011,6000000,10000000,8000000
-101,CareerLink,CÔNG TY TNHH DAEYEONG VINA,Công nghệ thông tin (tổng quát),Nhân viên,Cử nhân,Middle,Đồng Nai,2024-12-19 10:08:58.978020,,,
-102,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Trung học,Fresher,Quảng Ngãi,2024-12-14 10:09:01.793131,6000000,9000000,7500000
-103,CareerLink,CÔNG TY CỔ PHẦN TẬP ĐOÀN AUSTDOOR,chuyên viên phân tích nghiệp vụ,Nhân viên,Cử nhân,Junior,Hà Nội,2024-12-14 10:09:04.657414,,,
-104,CareerLink,Công Ty Cổ Phần Funtap,Kỹ sư mạng,Nhân viên,Cử nhân,Middle,Hà Nội,2024-12-14 10:09:07.552022,,,
-105,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Trung học,Fresher,Lâm Đồng,2024-12-13 10:09:10.322215,6000000,10000000,8000000
-106,CareerLink,Công Ty Cổ Phần Funtap,Lập trình viên,Nhân viên,Cử nhân,Junior,Hà Nội,2024-12-14 10:09:12.762660,,,
-107,CareerLink,Kei Tat (Global) Chemicals Ltd.,merchandiser,Nhân viên,Cử nhân,Junior,Hồ Chí Minh,2024-12-13 10:09:15.531509,,,
-108,CareerLink,Công Ty Cổ Phần Funtap,Nhà thiết kế đồ họa,Nhân viên,Cử nhân,Junior,Hà Nội,2024-12-14 10:09:18.142476,,,
-109,CareerLink,CÔNG TY CỔ PHẦN SYNOPEX VIỆT NAM,Nhà thiết kế đồ họa,Nhân viên,Trung cấp,Fresher,Bắc Ninh,2024-12-17 10:09:20.797269,,,
-110,CareerLink,Công Ty Cổ Phần Funtap,Kinh doanh,Nhân viên,Cử nhân,Middle,Hà Nội,2024-12-14 10:09:23.384299,,,
-111,CareerLink,CÔNG TY CỔ PHẦN SYNOPEX VIỆT NAM,Lập trình viên,Kỹ thuật viên / Kỹ sư,Cử nhân,Middle,Bắc Ninh,2024-12-13 10:09:26.095708,,,
-112,CareerLink,Công Ty Cổ Phần Funtap,Công nghệ thông tin (tổng quát),Nhân viên,Cử nhân,Junior,Hà Nội,2024-12-16 10:09:28.696915,,,
-113,CareerLink,Công Ty Cổ Phần Tập Đoàn Omi (OmiGroup),kỹ sư cầu nối (osaka),Kỹ thuật viên / Kỹ sư,Cử nhân,Middle,Nhật Bản,2024-12-13 10:09:31.497202,0,0,0
-114,CareerLink,Công Ty Cổ Phần Funtap,Nhà thiết kế giao diện người dùng,Nhân viên,Cử nhân,Middle,Hà Nội,2024-12-17 10:09:34.064552,,,
-115,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Trung học,Fresher,Hậu Giang,2024-12-13 10:09:36.822677,7000000,12000000,9500000
-116,CareerLink,TRƯỜNG ĐẠI HỌC YERSIN ĐÀ LẠT,Công nghệ thông tin (tổng quát),Nhân viên,tiến sĩ,Junior,Lâm Đồng,2024-12-13 10:09:39.548274,,,
-117,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Trung học,Fresher,Hậu Giang,2024-12-17 10:09:42.216832,7000000,12000000,9500000
-118,CareerLink,Công Ty Cổ Phần Funtap,Lập trình viên,Nhân viên,Cử nhân,Junior,Hà Nội,2024-12-16 10:09:45.065165,13000000,20000000,16500000
-119,CareerLink,Công Ty Cổ Phần Tập Đoàn Omi (OmiGroup),Kinh doanh,Quản lý / Trưởng phòng,Cử nhân,Middle,Nhật Bản,2024-12-21 02:09:47.775324,0,0,0
-120,CareerLink,Công Ty Cổ Phần Tập Đoàn Omi (OmiGroup),Chuyên viên tư vấn CNTT,Nhân viên,Cử nhân,Middle,Nhật Bản,2024-12-13 10:09:50.376989,0,0,0
-121,CareerLink,Công Ty Cổ Phần Người Bạn Vàng,chuyên viên phát triển ứng dụng web,Nhân viên,Cử nhân,Middle,Hồ Chí Minh,2024-12-20 10:09:53.210418,,,
-122,CareerLink,Công Ty Cổ Phần Tập Đoàn Omi (OmiGroup),Chuyên viên tư vấn CNTT,Nhân viên,Cử nhân,Middle,Hà Nội Nhật Bản,2024-12-13 10:09:56.028489,0,0,0
-123,CareerLink,CareerLink's Client,Kinh doanh,Nhân viên,Cử nhân,Senior,Hà Nội,2024-12-13 10:09:58.600900,,,
-124,CareerLink,CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ DỊCH VỤ SAIGON REAL,Nhà thiết kế đồ họa,Nhân viên,Cử nhân,Junior,Hồ Chí Minh,2024-12-17 10:10:01.372563,,,
-125,CareerLink,FV HOSPITAL,Kinh doanh,Nhân viên,Cử nhân,Middle,Hồ Chí Minh,2024-12-20 10:10:03.935251,0,0,0
-126,CareerLink,CareerLink's Client,Lập trình viên,Trưởng nhóm / Giám sát,Trung cấp,Senior,Hồ Chí Minh,2024-12-12 10:10:06.454283,25000000,50000000,37500000
-127,CareerLink,CÔNG TY TNHH NƯỚC GIẢI KHÁT TÂN ĐÔ,Kinh doanh,Nhân viên,Cử nhân,Junior,Hà Nội,2024-12-12 10:10:09.210943,13000000,18000000,15500000
-128,CareerLink,Công Ty Cổ Phần Thực Phẩm Dinh Dưỡng NutiFood,Quản trị viên hệ thống,Nhân viên,Cử nhân,Fresher,Hồ Chí Minh,2024-12-19 10:10:12.057873,,,
-129,CareerLink,Công Ty Cổ Phần Người Bạn Vàng,Quản trị viên hệ thống,Nhân viên,Cử nhân,Middle,Hồ Chí Minh,2024-12-12 10:10:14.716712,,,
-130,CareerLink,CareerLink's Client,Quản trị viên hệ thống,Nhân viên,Cử nhân,Junior,Đà Nẵng,2024-12-18 10:10:17.288035,,,
-131,CareerLink,FPT Telecom,Lập trình viên,Nhân viên,Cử nhân,Junior,Hồ Chí Minh,2024-12-18 10:10:20.199192,,,
-132,CareerLink,Công Ty Cổ Phần Người Bạn Vàng,Công nghệ thông tin (tổng quát),Quản lý / Trưởng phòng,Cử nhân,Senior,Hồ Chí Minh,2024-12-20 10:10:22.942517,,,
-133,CareerLink,CareerLink's Client,Kinh doanh,Nhân viên,Cử nhân,Junior,Hà Nội,2024-12-16 10:10:25.607920,,,
-134,CareerLink,CÔNG TY CỔ PHẦN CTS,Nhà thiết kế đồ họa,Nhân viên,Trung cấp,Junior,Hồ Chí Minh,2024-12-16 10:10:28.242153,9000000,15000000,12000000
-135,CareerLink,Innovature Consulting Ltd.,Quản trị viên hệ thống,Nhân viên,Cử nhân,Junior,Hồ Chí Minh,2024-12-11 10:10:30.962838,0,0,0
-136,CareerLink,CÔNG TY CỔ PHẦN CTS,Kinh doanh,Nhân viên,chứng chỉ,Middle,Hồ Chí Minh,2024-12-20 10:10:33.489622,15000000,30000000,22500000
-137,CareerLink,Công Ty Cổ Phần Hanacans,Công nghệ thông tin (tổng quát),Kỹ thuật viên / Kỹ sư,Cử nhân,Middle,Bắc Ninh,2024-12-19 10:10:36.160317,12000000,20000000,16000000
-138,CareerLink,Công Ty TNHH Taixin Printing Vina,trưởng nhóm phát triển [ vp hà nội ],Trưởng nhóm / Giám sát,Cử nhân,Senior,Hà Nội,2024-12-21 02:10:38.979524,,,
-139,CareerLink,Công Ty TNHH Taixin Printing Vina,Lập trình viên,Nhân viên,Trung cấp,Junior,Hà Nội,2024-12-11 10:10:41.776775,,,
-140,CareerLink,CÔNG TY TRÁCH NHIỆM HỮU HẠN SÀI GÒN PRECISION,Công nghệ thông tin (tổng quát),Trưởng nhóm / Giám sát,Cử nhân,Middle,Hồ Chí Minh,2024-12-15 10:10:44.380655,,,
-141,CareerLink,MyTeam VietNam Company Limited,Lập trình viên,Kỹ thuật viên / Kỹ sư,Cử nhân,Middle,Đà Nẵng,2024-12-13 10:10:47.075184,25000000,50000000,37500000
-142,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,scrum master,Nhân viên,Cử nhân,Middle,Hồ Chí Minh,2024-12-11 10:10:49.732120,,,
-143,CareerLink,CareerLink's Client,Kinh doanh,Nhân viên,Cử nhân,Middle,Hồ Chí Minh,2024-12-17 10:10:52.553663,18000000,30000000,24000000
-144,CareerLink,CareerLink's Client,Nhà phát triển phần mềm,Nhân viên,Cử nhân,Middle,Hải Phòng,2024-12-17 10:10:55.241897,15000000,20000000,17500000
-145,CareerLink,Công Ty Cổ Phần Funtap,Nhà thiết kế đồ họa,Nhân viên,Cử nhân,Junior,Hà Nội,2024-12-12 10:10:57.903198,,,
-146,CareerLink,CareerLink's Client,kỹ sư hệ thống - kcn thăng long 1 (tiếng anh),Nhân viên,Cử nhân,Junior,Hà Nội,2024-12-17 10:11:00.745824,12000000,25000000,18500000
-147,CareerLink,Công Ty Cổ Phần Funtap,Kinh doanh,Nhân viên,Cử nhân,Junior,Hà Nội,2024-12-11 10:11:03.348770,20000000,,
-148,CareerLink,Công ty TNHH transcosmos Vietnam,Lập trình viên,Nhân viên,Cử nhân,Fresher,Hà Nội,2024-12-10 10:11:06.172233,10000000,15000000,12500000
-149,CareerLink,Công Ty Cổ Phần Funtap,Kỹ sư kiểm thử phần mềm,Nhân viên,Cử nhân,Junior,Hà Nội,2024-12-17 10:11:09.111876,,,
-150,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Trung học,Fresher,Quảng Ngãi,2024-12-12 10:11:15.377691,6000000,10000000,8000000
-151,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Trung học,Fresher,Lâm Đồng,2024-12-10 10:11:18.049624,7000000,10000000,8500000
-152,CareerLink,Công Ty TNHH Trang Phục Ngoài Trời CPPC (Việt Nam),Chuyên viên hỗ trợ kỹ thuật,Kỹ thuật viên / Kỹ sư,kỹ sư,Fresher,Bình Định,2024-12-19 10:11:20.915621,,,
-153,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Trung học,Fresher,Hà Nội,2024-12-19 10:11:23.663468,8000000,15000000,11500000
-154,CareerLink,CÔNG TY CỔ PHẦN CHỨNG KHOÁN PHÚ HƯNG,Kỹ sư kiểm thử phần mềm,Nhân viên,Cử nhân,Junior,Hồ Chí Minh,2024-12-20 10:11:26.310276,,,
-155,CareerLink,Công ty cổ phần Altius Link Việt Nam,[ab] nhân viên chỉnh sửa album ảnh,Nhân viên,Trung học,Fresher,Hà Nội,2024-12-17 10:11:28.965319,7000000,8000000,7500000
-156,CareerLink,CareerLink's Client,Lập trình viên,Nhân viên,Cử nhân,Middle,Hồ Chí Minh,2024-12-13 10:11:31.543691,22000000,40000000,31000000
-157,CareerLink,CÔNG TY TNHH BOK VIỆT NAM,Công nghệ thông tin (tổng quát),Quản lý / Trưởng phòng,Cử nhân,Middle,Hồ Chí Minh,2024-12-15 10:11:34.204022,,,
-158,CareerLink,CareerLink's Client,Lập trình viên,Kỹ thuật viên / Kỹ sư,Cử nhân,Middle,Hồ Chí Minh,2024-12-13 10:11:36.942702,20000000,22000000,21000000
-159,CareerLink,CÔNG TY TNHH RORZE ROBOTECH,Lập trình viên,Nhân viên,Cử nhân,Fresher,Hải Phòng,2024-12-19 10:11:39.586493,0,0,0
-160,CareerLink,CareerLink's Client,Lập trình viên,Nhân viên,Cử nhân,Middle,Hồ Chí Minh,2024-12-13 10:11:42.189364,18000000,30000000,24000000
-161,CareerLink,CÔNG TY TNHH RORZE ROBOTECH,Lập trình viên,Nhân viên,Cử nhân,Junior,Hải Phòng,2024-12-18 10:11:44.832536,0,0,0
-162,CareerLink,CareerLink's Client,Lập trình viên,Kỹ thuật viên / Kỹ sư,Cử nhân,Middle,Hồ Chí Minh,2024-12-13 10:11:47.671601,17000000,25000000,21000000
-163,CareerLink,Fois ICT PRO,Lập trình viên,Nhân viên,Trung cấp,Middle,Thanh Hóa,2024-12-09 10:11:50.175879,35000000,,
-164,CareerLink,CareerLink's Client,Lập trình viên,Nhân viên,Cử nhân,Middle,Hồ Chí Minh,2024-12-20 10:11:52.775029,18000000,30000000,24000000
-165,CareerLink,Fois ICT PRO,Công nghệ thông tin (tổng quát),Nhân viên,Trung học,Junior,Hồ Chí Minh,2024-12-17 10:11:55.307884,15000000,25000000,20000000
-166,CareerLink,Fois ICT PRO,Lập trình viên,Nhân viên,Trung cấp,Middle,Hồ Chí Minh Hà Nội,2024-12-09 10:11:58.213240,25000000,40000000,32500000
-167,CareerLink,CÔNG TY CỔ PHẦN CÔNG NGHỆ THỰC PHẨM CHÂU Á (AFOTECH),Công nghệ thông tin (tổng quát),Quản lý / Trưởng phòng,Cử nhân,Senior,Hà Nội,2024-12-17 10:12:00.886799,,,
-168,CareerLink,CÔNG TY CỔ PHẦN NÔNG NGHIỆP TRƯỜNG HẢI,Quản trị viên hệ thống,Trưởng nhóm / Giám sát,Cử nhân,Middle,Gia Lai,2024-12-09 10:12:03.613547,,,
-169,CareerLink,FPT Telecom,Kỹ sư học máy,Kỹ thuật viên / Kỹ sư,Cử nhân,Senior,Hồ Chí Minh,2024-12-09 10:12:06.316756,50000000,87000000,68500000
-170,CareerLink,CÔNG TY CỔ PHẦN NÔNG NGHIỆP TRƯỜNG HẢI,Quản trị viên hệ thống,Trưởng nhóm / Giám sát,Cử nhân,Middle,Gia Lai,2024-12-09 10:12:09.057956,,,
-171,CareerLink,CareerLink's Client,Kinh doanh,Nhân viên,Cử nhân,Middle,Hà Nội,2024-12-09 10:12:11.801868,20000000,35000000,27500000
-172,CareerLink,CÔNG TY CỔ PHẦN NÔNG NGHIỆP TRƯỜNG HẢI,trưởng bộ phận triển khai và quản lý phần mềm (gia lai),Trưởng nhóm / Giám sát,Cử nhân,Middle,Gia Lai,2024-12-09 10:12:14.440393,,,
-173,CareerLink,FPT Telecom,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Trung cấp,Fresher,Quảng Bình,2024-12-07 10:12:17.155947,8000000,20000000,14000000
-174,CareerLink,CÔNG TY CỔ PHẦN NÔNG NGHIỆP TRƯỜNG HẢI,Công nghệ thông tin (tổng quát),Quản lý / Trưởng phòng,Cử nhân,Senior,Gia Lai,2024-12-20 10:12:19.598033,,,
-175,CareerLink,CareerLink's Client,Kinh doanh,Nhân viên,Cử nhân,Junior,Hà Nội,2024-12-09 10:12:22.308020,15000000,20000000,17500000
-176,CareerLink,Công Ty Cổ Phần Gỗ An Cường,Lập trình viên,Nhân viên,Cử nhân,Middle,Bình Dương,2024-12-06 10:12:24.964608,10000000,18000000,14000000
-177,CareerLink,CareerLink's Client,3d game modeler (maya) - bình thạnh,Nhân viên,Cử nhân,Middle,Hồ Chí Minh,2024-12-17 10:12:27.885824,12000000,28000000,20000000
-178,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Trung học,Fresher,Khánh Hòa,2024-12-06 10:12:30.437964,6000000,10000000,8000000
-179,CareerLink,TRƯỜNG ĐẠI HỌC KINH TẾ TÀI CHÍNH TP.HCM,Kỹ sư phần mềm,Nhân viên,thạc sĩ,Middle,Hồ Chí Minh,2024-12-06 10:12:33.056234,,,
-180,CareerLink,Tập Đoàn Vàng Bạc Đá Quý DOJI,Chuyên viên bảo mật thông tin,Nhân viên,Cử nhân,Middle,Hà Nội,2024-12-06 10:12:35.678210,25000000,35000000,30000000
-181,CareerLink,CareerLink's Client,Kinh doanh,Trưởng nhóm / Giám sát,Cử nhân,Senior,Hà Nội,2024-12-06 10:12:38.424793,17000000,45000000,31000000
-182,CareerLink,Công Ty TNHH Yakult Việt Nam,Quản trị viên hệ thống,Nhân viên,Cử nhân,Junior,Hồ Chí Minh,2024-12-20 13:12:41.317027,,,
-183,CareerLink,CareerLink's Client,Công nghệ thông tin (tổng quát),Quản lý / Trưởng phòng,Cử nhân,Middle,Hà Nội,2024-12-10 10:12:44.006296,,,45000000
-184,CareerLink,CÔNG TY TNHH BOK VIỆT NAM,Công nghệ thông tin (tổng quát),Kỹ thuật viên / Kỹ sư,Cử nhân,Middle,Hồ Chí Minh,2024-12-12 10:12:46.738311,,,
-185,CareerLink,CareerLink's Client,Kinh doanh,Nhân viên,Cử nhân,Middle,Bến Tre,2024-12-10 10:12:49.353900,20000000,40000000,30000000
-186,CareerLink,CÔNG TY TNHH Ô TÔ THỊNH HƯNG,Chuyên viên tư vấn CNTT,Trưởng nhóm / Giám sát,Cử nhân,Junior,Đà Nẵng,2024-12-05 10:12:52.112479,,,
-187,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Trung học,Fresher,Đắk Lắk,2024-12-18 10:12:54.794553,6000000,10000000,8000000
-188,CareerLink,FPT Telecom,Nhà thiết kế đồ họa,Sinh viên / Thực tập sinh,Cử nhân,Fresher,Hồ Chí Minh,2024-12-18 10:12:57.381055,,,
-189,CareerLink,TRƯỜNG ĐẠI HỌC KINH TẾ TÀI CHÍNH TP.HCM,Kỹ sư phần mềm,Nhân viên,thạc sĩ,Middle,Hồ Chí Minh,2024-12-05 10:13:00.167163,,,
-190,CareerLink,Diag Medical,Lập trình viên,Nhân viên,Cử nhân,Senior,Hồ Chí Minh,2024-12-05 10:13:02.844970,50000000,80000000,65000000
-191,CareerLink,CareerLink's Client,Chuyên viên tư vấn CNTT,Nhân viên,Cử nhân,Middle,Hà Nội,2024-12-05 10:13:05.558480,45000000,62000000,53500000
-192,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Trung học,Fresher,Hồ Chí Minh,2024-12-06 10:13:08.199023,7000000,10000000,8500000
-193,CareerLink,CareerLink's Client,Lập trình viên,Nhân viên,Cử nhân,Junior,Hồ Chí Minh,2024-12-12 10:13:10.915456,10000000,17000000,13500000
-194,CareerLink,TRƯỜNG ĐẠI HỌC KINH TẾ TÀI CHÍNH TP.HCM,Lập trình viên,Nhân viên,kỹ sư,Middle,Hồ Chí Minh,2024-12-20 10:13:13.565781,,,
-195,CareerLink,CareerLink's Client,Chuyên viên tư vấn CNTT,Trưởng nhóm / Giám sát,Cử nhân,Senior,Hà Nội,2024-12-11 10:13:16.019109,70000000,90000000,80000000
-196,CareerLink,HỆ THỐNG THẨM MỸ VIỆN LG CLINIC - LITTLE GARDEN SPA,Kinh doanh,Nhân viên,Cử nhân,Middle,Hồ Chí Minh,2024-12-18 10:13:18.528868,25000000,35000000,30000000
-197,CareerLink,IDEA TECHNOLOGY SOLUTIONS,Lập trình viên,Nhân viên,Cử nhân,Junior,Đà Nẵng,2024-12-18 10:13:21.389312,,,
-198,CareerLink,FPT Telecom,thực tập sinh tester (lương đến 10m),Sinh viên / Thực tập sinh,Cử nhân,Fresher,Hồ Chí Minh,2024-12-21 01:13:24.308855,10000000,12000000,11000000
-199,CareerLink,IDEA TECHNOLOGY SOLUTIONS,Quản trị viên hệ thống,Nhân viên,Cử nhân,Junior,Đà Nẵng,2024-12-20 10:13:26.721110,,,
-200,CareerLink,VIETNAM CONCENTRIX SERVICES COMPANY LIMITED,Lập trình viên,Quản lý cấp cao,Cử nhân,Senior,Hồ Chí Minh,2024-12-20 10:13:32.836832,,,
-201,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Trung học,Fresher,Hồ Chí Minh,2024-12-10 10:13:35.445338,7000000,10000000,8500000
-202,CareerLink,"Mitalab Co.,Ltd",Kỹ sư kiểm thử phần mềm,Nhân viên,Cử nhân,Fresher,Hà Nội,2024-12-17 10:13:37.945650,0,0,0
-203,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Trung học,Fresher,Hà Nội,2024-12-19 10:13:40.708722,7000000,10000000,8500000
-204,CareerLink,CareerLink Asia,Kinh doanh,Nhân viên,Cử nhân,Middle,Nhật Bản,2024-12-02 10:13:43.580597,70000000,130000000,100000000
-205,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Trung học,Fresher,Hà Nội,2024-12-19 10:13:46.336182,8000000,15000000,11500000
-206,CareerLink,CareerLink's Client,Lập trình viên,Nhân viên,Cử nhân,Middle,Hồ Chí Minh,2024-12-02 10:13:49.155640,50000000,,
-207,CareerLink,CareerLink Asia,Lập trình viên,Kỹ thuật viên / Kỹ sư,Cử nhân,Middle,Nhật Bản,2024-12-02 10:13:51.613870,65000000,125000000,95000000
-208,CareerLink,"Mitalab Co.,Ltd",kỹ sư phát triển sản phẩm phần mềm - hà nội,Nhân viên,Cử nhân,Middle,Hà Nội,2024-12-18 10:13:54.121003,,,
-209,CareerLink,IDEA TECHNOLOGY SOLUTIONS,kỹ sư thiết kế hardware-firmware (ctm),Nhân viên,Cử nhân,Middle,Hồ Chí Minh,2024-12-17 10:13:57.027272,10000000,13000000,11500000
-210,CareerLink,CareerLink Asia,kỹ sư hệ thống ( không yêu cầu kinh nghiệm ),Kỹ thuật viên / Kỹ sư,Cử nhân,Fresher,Nhật Bản,2024-12-20 18:13:59.775506,43000000,80000000,61500000
-211,CareerLink,CareerLink's Client,Kinh doanh,Trưởng nhóm / Giám sát,Cử nhân,Senior,Hà Nội,2024-12-02 10:14:02.476862,50000000,,
-212,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Trung học,Fresher,Kiên Giang,2024-12-15 10:14:05.289279,8000000,12000000,10000000
-213,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Trung học,Fresher,Khánh Hòa,2024-12-03 10:14:08.021149,6000000,10000000,8000000
-214,CareerLink,Công Ty CP Tập Đoàn Hà Đô,Công nghệ thông tin (tổng quát),Kỹ thuật viên / Kỹ sư,kỹ sư,Senior,Hà Nội,2024-12-06 10:14:10.669173,,,
-215,CareerLink,FPT Telecom,thực tập sinh kỹ sư hệ thống ( lương đến 10m),Sinh viên / Thực tập sinh,Cử nhân,Fresher,Hồ Chí Minh,2024-12-11 10:14:13.371272,9000000,10000000,9500000
-216,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Trung học,Fresher,Bình Định,2024-12-16 10:14:16.230999,5000000,10000000,7500000
-217,CareerLink,FPT Telecom,thực tập sinh qc (lương đến 10m),Sinh viên / Thực tập sinh,Cử nhân,Fresher,Hồ Chí Minh,2024-12-19 10:14:18.839065,6000000,10000000,8000000
-218,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Trung học,Fresher,Đăk Nông,2024-11-29 10:14:21.540321,6000000,10000000,8000000
-219,CareerLink,FPT Telecom,thực tập sinh qa (lương đến 10m),Sinh viên / Thực tập sinh,Cử nhân,Fresher,Hồ Chí Minh,2024-12-18 10:14:24.180599,9000000,10000000,9500000
-220,CareerLink,Công ty TNHH Điện Tử Sumida Việt Nam,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Cử nhân,Junior,Hải Phòng,2024-12-11 10:14:27.045473,12000000,13000000,12500000
-221,CareerLink,Công Ty TNHH Wisol Hà Nội,trưởng nhóm thiết kế/tự động hóa,Nhân viên,Cử nhân,Senior,Bắc Ninh,2024-11-29 10:14:29.508457,,,
-222,CareerLink,CareerLink's Client,Lập trình viên,Kỹ thuật viên / Kỹ sư,Cử nhân,Middle,Hồ Chí Minh,2024-12-12 10:14:32.270554,15000000,30000000,22500000
-223,CareerLink,Công Ty Cổ Phần Tập Đoàn Omi (OmiGroup),Công nghệ thông tin (tổng quát),Quản lý / Trưởng phòng,Cử nhân,Middle,Hà Nội,2024-12-09 10:14:34.990539,,,
-224,CareerLink,CareerLink's Client,Lập trình viên,Nhân viên,Cử nhân,Middle,Hồ Chí Minh,2024-12-17 10:14:37.608195,13000000,15000000,14000000
-225,CareerLink,CÔNG TY TNHH LITE ON VIỆT NAM,Công nghệ thông tin (tổng quát),Kỹ thuật viên / Kỹ sư,Cử nhân,Fresher,Hải Phòng,2024-12-16 10:14:40.374373,,,30000000
-226,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Trung học,Fresher,Khánh Hòa,2024-12-14 10:14:42.953373,7000000,10000000,8500000
-227,CareerLink,CÔNG TY TNHH MEDIASTEP SOFTWARE VIỆT NAM,Kỹ sư kiểm thử phần mềm,Nhân viên,Cử nhân,Junior,Hồ Chí Minh,2024-12-17 10:14:45.443651,,,
-228,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Cử nhân,Fresher,Hà Nội,2024-12-03 10:14:48.021571,9000000,12000000,10500000
-229,CareerLink,Công Ty TNHH Seojin Việt Nam,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Cử nhân,Fresher,Bắc Giang,2024-12-10 10:14:50.836226,10000000,25000000,17500000
-230,CareerLink,UNIVERSAL SCIENTIFIC INDUSTRIAL VIETNAM COMPANY LIMITED,Lập trình viên,Nhân viên,Cử nhân,Junior,Hải Phòng,2024-12-10 10:14:53.298376,,,
-231,CareerLink,CareerLink Asia,Nhà phát triển web,Trưởng nhóm / Giám sát,Cử nhân,Middle,Nhật Bản,2024-11-28 10:14:56.058099,90000000,,
-232,CareerLink,CareerLink's Client,Công nghệ thông tin (tổng quát),Quản lý / Trưởng phòng,Cử nhân,Middle,Hồ Chí Minh,2024-12-03 10:14:58.808088,14000000,18000000,16000000
-233,CareerLink,CareerLink Asia,kỹ sư dữ liệu,Kỹ thuật viên / Kỹ sư,Cử nhân,Middle,Nhật Bản,2024-11-28 10:15:01.544879,88000000,210000000,149000000
-234,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Trung học,Fresher,Tiền Giang,2024-12-16 10:15:04.351566,8000000,12000000,10000000
-235,CareerLink,CareerLink Asia,Chuyên viên tư vấn CNTT,Trưởng nhóm / Giám sát,Cử nhân,Middle,Nhật Bản,2024-11-28 10:15:06.985121,70000000,140000000,105000000
-236,CareerLink,CareerLink Asia,kỹ sư điện toán đám mây,Kỹ thuật viên / Kỹ sư,Cử nhân,Middle,Nhật Bản,2024-11-28 10:15:09.826547,88000000,210000000,149000000
-237,CareerLink,CareerLink Asia,Công nghệ thông tin (tổng quát),Kỹ thuật viên / Kỹ sư,Cử nhân,Middle,Nhật Bản,2024-11-28 10:15:12.583693,86000000,210000000,148000000
-238,CareerLink,CareerLink Asia,quản lý dự án,Quản lý / Trưởng phòng,Cử nhân,Junior,Nhật Bản,2024-12-16 10:15:15.277204,80000000,,
-239,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Trung học,Fresher,An Giang,2024-12-18 10:15:18.141283,8000000,10000000,9000000
-240,CareerLink,CareerLink Asia,Nhà phát triển web,Kỹ thuật viên / Kỹ sư,Cử nhân,Middle,Nhật Bản,2024-12-08 10:15:20.717465,60000000,,
-241,CareerLink,CareerLink Asia,Nhà phát triển web,Kỹ thuật viên / Kỹ sư,Cử nhân,Middle,Nhật Bản,2024-11-27 10:15:23.436205,80000000,210000000,145000000
-242,CareerLink,CareerLink's Client,Lập trình viên,Nhân viên,Cử nhân,Fresher,Hà Nội,2024-12-01 10:15:26.121166,20000000,25000000,22500000
-243,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Trung cấp,Fresher,Hà Nội,2024-11-26 10:15:28.916219,8000000,15000000,11500000
-244,CareerLink,Công Ty Cổ Phần Vàng Bạc Đá quý Phú Nhuận - PNJ,senior tester (chuyên viên cao cấp kiểm soát chất lượng sản phẩm công nghệ),Nhân viên,Cử nhân,Senior,Hồ Chí Minh,2024-12-17 10:15:31.581031,,,
-245,CareerLink,CareerLink's Client,game operator - district 1,Nhân viên,Cử nhân,Middle,Hồ Chí Minh,2024-12-10 10:15:34.122005,10000000,15000000,12500000
-246,CareerLink,CÔNG TY TNHH HOJEONG,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Cử nhân,Middle,Bắc Ninh,2024-12-16 10:15:36.900615,,,
-247,CareerLink,CareerLink's Client,Kinh doanh,Trưởng nhóm / Giám sát,Cử nhân,Junior,Hà Nội,2024-11-21 10:15:39.443624,37000000,62000000,49500000
-248,CareerLink,CareerLink's Client,Kỹ sư kiểm thử phần mềm,Nhân viên,Cử nhân,Middle,Hồ Chí Minh,2024-12-17 10:15:41.905972,13000000,27000000,20000000
-249,CareerLink,CareerLink's Client,Công nghệ thông tin (tổng quát),Nhân viên,Cử nhân,Middle,Hà Nội,2024-11-26 10:15:44.746234,,,
+0,CareerLink,CÔNG TY CỔ PHẦN KINH DOANH F88,middle tester (có kinh nghiệm tài chính - ngân hàng),Nhân viên,Cử nhân,Middle,Hà Nội,2024-12-24 09:55:45.963036,,,
+1,CareerLink,TRƯỜNG ĐẠI HỌC KINH TẾ TÀI CHÍNH TP.HCM,Kỹ sư phần mềm,Nhân viên,thạc sĩ,Middle,Hồ Chí Minh,2024-12-23 15:55:53.568545,,,
+2,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Trung học,Fresher,Gia Lai,2024-12-23 13:56:13.085642,6000000,11000000,8500000
+3,CareerLink,TRƯỜNG ĐẠI HỌC KINH TẾ TÀI CHÍNH TP.HCM,giảng viên ngành công nghệ tài chính,Nhân viên,thạc sĩ,Middle,Hồ Chí Minh,2024-12-23 14:56:19.548093,,,
+4,CareerLink,CÔNG TY CỔ PHẦN TRUYỀN THÔNG VÀNG CHÂU Á,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Cử nhân,Junior,Hồ Chí Minh,2024-12-23 13:56:31.059003,12000000,15000000,13500000
+5,CareerLink,TRƯỜNG ĐẠI HỌC KINH TẾ TÀI CHÍNH TP.HCM,Nhà khoa học dữ liệu,Nhân viên,thạc sĩ,Junior,Hồ Chí Minh,2024-12-23 14:56:38.146865,,,
+6,CareerLink,Công Ty Cổ Phần Funtap,Lập trình viên,Nhân viên,Cử nhân,Junior,Hà Nội,2024-12-23 10:57:14.091837,,,
+7,CareerLink,TRƯỜNG ĐẠI HỌC KINH TẾ TÀI CHÍNH TP.HCM,Công nghệ thông tin (tổng quát),Nhân viên,thạc sĩ,Junior,Hồ Chí Minh,2024-12-23 14:57:43.808105,,,
+8,CareerLink,Công Ty Cổ Phần Funtap,Kinh doanh,Nhân viên,Cử nhân,Middle,Hà Nội,2024-12-23 10:58:03.595788,,,
+9,CareerLink,Công ty TNHH May Mặc Alliance One,Công nghệ thông tin (tổng quát),Nhân viên,Cử nhân,Middle,Bến Tre,2024-12-23 10:58:11.108762,,,
+10,CareerLink,Công Ty Cổ Phần Funtap,Công nghệ thông tin (tổng quát),Nhân viên,Cử nhân,Junior,Hà Nội,2024-12-23 10:58:18.953405,,,
+11,CareerLink,CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ DỊCH VỤ SAIGON REAL,Nhà thiết kế đồ họa,Nhân viên,Cử nhân,Junior,Hồ Chí Minh,2024-12-23 10:58:25.162104,,,
+12,CareerLink,Công Ty Cổ Phần Funtap,Nhà thiết kế đồ họa,Nhân viên,Cử nhân,Junior,Hà Nội,2024-12-23 10:58:31.744417,,,
+13,CareerLink,CÔNG TY CỔ PHẦN TẬP ĐOÀN AUSTDOOR,chuyên viên sap - pp/mm/sd,Nhân viên,Cử nhân,Middle,Hà Nội,2024-12-23 10:58:40.112325,20000000,30000000,25000000
+14,CareerLink,Công Ty Cổ Phần Funtap,Lập trình viên,Nhân viên,Cử nhân,Junior,Hà Nội,2024-12-23 10:58:46.106588,13000000,20000000,16500000
+15,CareerLink,Công Ty TNHH Becamex Tokyu,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Cử nhân,Junior,Bình Dương,2024-12-23 10:58:52.929060,,,
+16,CareerLink,Công Ty Cổ Phần Funtap,Kỹ sư mạng,Nhân viên,Cử nhân,Middle,Hà Nội,2024-12-23 10:58:59.127694,,,
+17,CareerLink,CÔNG TY CỔ PHẦN SYNOPEX VIỆT NAM,Lập trình viên,Nhân viên,Cử nhân,Junior,Bắc Ninh,2024-12-23 10:59:05.003975,,,
+18,CareerLink,Công Ty Cổ Phần Funtap,Kinh doanh,Nhân viên,Cử nhân,Middle,Hà Nội,2024-12-23 10:59:11.130027,,,
+19,CareerLink,VIETNAM CONCENTRIX SERVICES COMPANY LIMITED,Lập trình viên,Quản lý cấp cao,Cử nhân,Senior,Hồ Chí Minh,2024-12-23 10:59:17.044196,,,
+20,CareerLink,Công Ty Cổ Phần Funtap,scrum master,Nhân viên,Cử nhân,Senior,Hà Nội,2024-12-23 10:59:23.768221,,,
+21,CareerLink,VIA ENGLISH ACADEMY,Kỹ sư kiểm thử phần mềm,Nhân viên,Trung cấp,Middle,Hồ Chí Minh,2024-12-23 10:59:30.361581,,,
+22,CareerLink,CareerLink's Client,Lập trình viên,Quản lý / Trưởng phòng,Cử nhân,Middle,Hồ Chí Minh,2024-12-24 07:59:36.359619,62000000,125000000,93500000
+23,CareerLink,VIA ENGLISH ACADEMY,Công nghệ thông tin (tổng quát),Quản lý / Trưởng phòng,Cử nhân,Senior,Hồ Chí Minh,2024-12-24 02:59:43.420246,,,
+24,CareerLink,VIETNAM CONCENTRIX SERVICES COMPANY LIMITED,Nhà phân tích dữ liệu,Nhân viên,Trung học,Senior,Hồ Chí Minh,2024-12-23 14:59:52.297561,,,
+25,CareerLink,CareerLink's Client,Chuyên viên tư vấn CNTT,Nhân viên,Cử nhân,Middle,Hà Nội,2024-12-20 10:59:59.368235,,,25000000
+26,CareerLink,CÔNG TY CỔ PHẦN DỊCH VỤ KỸ THUẬT MOBIFONE,nhân viên vận hành mạng truyền dẫn (đắk nông),Kỹ thuật viên / Kỹ sư,kỹ sư,Fresher,Đăk Nông,2024-12-20 11:00:15.123551,6000000,6500000,6250000
+27,CareerLink,CareerLink's Client,Lập trình viên,Nhân viên,Cử nhân,Middle,Hà Nội,2024-12-20 11:00:22.474052,,,
+28,CareerLink,CareerLink's Client,Nhà thiết kế đồ họa,Nhân viên,Cử nhân,Middle,Hồ Chí Minh,2024-12-20 11:00:29.017928,25000000,35000000,30000000
+29,CareerLink,Công Ty TNHH Thương Mại Công Nghệ Anh Minh,Lập trình viên,Kỹ thuật viên / Kỹ sư,Cử nhân,Junior,Hồ Chí Minh,2024-12-22 11:00:39.102802,0,0,0
+30,CareerLink,Công ty TNHH Elentec Việt Nam,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Cử nhân,Junior,Hà Nội,2024-12-23 15:00:47.501365,,,
+31,CareerLink,CÔNG TY TNHH THƯƠNG MẠI VÀ DỊCH VỤ NINA,Kinh doanh,Nhân viên,Trung cấp,Fresher,Hồ Chí Minh,2024-12-20 11:00:53.600624,10000000,15000000,12500000
+32,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Trung học,Fresher,Hà Nội,2024-12-23 11:01:01.260603,7000000,10000000,8500000
+33,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Trung học,Fresher,Kiên Giang,2024-12-20 11:01:06.892135,8000000,12000000,10000000
+34,CareerLink,Công Ty Cổ Phần Tập Đoàn Omi (OmiGroup),Lập trình viên,Nhân viên,Cử nhân,Junior,Hà Nội,2024-12-20 11:01:12.886628,,,
+35,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,nhân viên cài đặt phần mềm ios/macos [f.studio đồng hới - quảng bình],Nhân viên,Trung cấp,Fresher,Quảng Bình,2024-12-20 11:01:19.019619,8000000,15000000,11500000
+36,CareerLink,Công Ty Cổ Phần Funtap,vận hành cộng đồng game,Nhân viên,Cử nhân,Fresher,Hà Nội,2024-12-20 11:01:24.916657,,,
+37,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Trung học,Fresher,Kiên Giang,2024-12-21 11:01:33.101660,8000000,12000000,10000000
+38,CareerLink,Công Ty TNHH Taixin Printing Vina,nhân viên thiết kế chế bản,Nhân viên,Cử nhân,Middle,Bắc Ninh,2024-12-20 11:01:39.423398,,,
+39,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Trung học,Fresher,Kiên Giang,2024-12-22 11:01:47.847672,8000000,12000000,10000000
+40,CareerLink,Công Ty TNHH Sản Xuất Thương Mại Kỹ Thuật Á Châu,Kinh doanh,Nhân viên,Cử nhân,Middle,Hồ Chí Minh,2024-12-22 11:01:57.655061,15000000,18000000,16500000
+41,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Trung cấp,Fresher,Hà Nội,2024-12-22 11:02:03.334054,8000000,15000000,11500000
+42,CareerLink,Công Ty Cổ Phần Funtap,Kinh doanh,Mới đi làm,Cử nhân,Fresher,Hà Nội,2024-12-20 11:02:09.677662,,,
+43,CareerLink,TRƯỜNG ĐẠI HỌC KINH TẾ TÀI CHÍNH TP.HCM,nhân viên phụ trách hoạt động xây dựng học liệu,Nhân viên,Cử nhân,Junior,Hồ Chí Minh,2024-12-20 11:02:16.818948,,,
+44,CareerLink,Công Ty Cổ Phần Funtap,qa manager (fintech),Quản lý / Trưởng phòng,Cử nhân,Senior,Hà Nội,2024-12-20 11:02:22.692715,,,
+45,CareerLink,TRƯỜNG ĐẠI HỌC YERSIN ĐÀ LẠT,Công nghệ thông tin (tổng quát),Nhân viên,thạc sĩ,Junior,Lâm Đồng,2024-12-20 11:02:28.386329,7000000,,
+46,CareerLink,Công ty TNHH Sản xuất Toàn Cầu LIXIL Việt Nam,Công nghệ thông tin (tổng quát),Nhân viên,Cử nhân,Fresher,Đồng Nai,2024-12-23 11:02:33.933741,0,0,0
+47,CareerLink,Thời Trang Adidas - Công Ty Cổ Phần Đầu Tư Thương Mại Phượng Hoàng,Kinh doanh,Quản lý / Trưởng phòng,Cử nhân,Senior,Hà Nội,2024-12-20 11:02:39.968924,35000000,45000000,40000000
+48,CareerLink,CareerLink's Client,Chuyên viên tư vấn CNTT,Kỹ thuật viên / Kỹ sư,Cử nhân,Middle,Hồ Chí Minh,2024-12-20 11:02:45.624939,50000000,57000000,53500000
+49,CareerLink,CareerLink's Client,Lập trình viên,Nhân viên,Cử nhân,Middle,Hồ Chí Minh,2024-12-20 11:02:51.432566,10000000,15000000,12500000
+50,CareerLink,FPT Telecom,Nhà phân tích dữ liệu,Sinh viên / Thực tập sinh,Cử nhân,Junior,Hồ Chí Minh,2024-12-21 11:03:04.598913,7000000,10000000,8500000
+51,CareerLink,Công Ty Cổ Phần Tập Đoàn Omi (OmiGroup),Lập trình viên,Nhân viên,Cử nhân,Junior,Hà Nội,2024-12-19 11:03:10.097751,,,
+52,CareerLink,VIETNAM CONCENTRIX SERVICES COMPANY LIMITED,web delivery leader (wdl),Trưởng nhóm / Giám sát,Trung học,Junior,Hồ Chí Minh,2024-12-19 11:03:15.797339,,,
+53,CareerLink,Công Ty Cổ Phần Tập Đoàn Omi (OmiGroup),Lập trình viên,Nhân viên,Cử nhân,Senior,Hà Nội,2024-12-19 11:03:21.808578,,,
+54,CareerLink,PILGRIMAGE VILLAGE HUẾ BOUTIQUE RESORT & SPA,Công nghệ thông tin (tổng quát),Trưởng nhóm / Giám sát,Cử nhân,Middle,Thừa Thiên - Huế,2024-12-19 11:03:27.941983,10000000,15000000,12500000
+55,CareerLink,Công Ty Cổ Phần Tập Đoàn Omi (OmiGroup),Lập trình viên,Nhân viên,Cử nhân,Middle,Hà Nội,2024-12-23 11:03:33.680465,,,
+56,CareerLink,CÔNG TY CỔ PHẦN TẬP ĐOÀN KHOA HỌC CÔNG NGHỆ BÁCH KHOA,Lập trình viên,Nhân viên,Cử nhân,Middle,Hồ Chí Minh,2024-12-19 11:03:39.328765,,,
+57,CareerLink,Công Ty Cổ Phần Tập Đoàn Omi (OmiGroup),Lập trình viên,Nhân viên,Cử nhân,Middle,Hà Nội,2024-12-19 11:03:45.095161,,,
+58,CareerLink,VIETNAM CONCENTRIX SERVICES COMPANY LIMITED,web builder (aem authoring team member),Nhân viên,Trung học,Junior,Hồ Chí Minh,2024-12-24 03:03:50.889212,,,
+59,CareerLink,PILGRIMAGE VILLAGE HUẾ BOUTIQUE RESORT & SPA,Công nghệ thông tin (tổng quát),Trưởng nhóm / Giám sát,Cử nhân,Middle,Thừa Thiên - Huế,2024-12-19 11:03:56.506122,10000000,15000000,12500000
+60,CareerLink,CÔNG TY CỔ PHẦN TẬP ĐOÀN KHOA HỌC CÔNG NGHỆ BÁCH KHOA,Công nghệ thông tin (tổng quát),Nhân viên,kỹ sư,Middle,Hồ Chí Minh,2024-12-19 11:04:02.237920,,,
+61,CareerLink,CareerLink's Client,Kinh doanh,Nhân viên,Cử nhân,Junior,Hồ Chí Minh,2024-12-19 11:04:08.213814,,,
+62,CareerLink,Công Ty Cổ Phần Dược Phẩm FPT Long Châu,Nhà thiết kế đồ họa,Nhân viên,Cử nhân,Middle,Hồ Chí Minh,2024-12-23 16:04:13.824871,,,
+63,CareerLink,CareerLink's Client,"kỹ sư thiết kế mạch (cơ hội làm việc tại nhật) - tiếng anh - quận 3, tp.hcm",Nhân viên,Cử nhân,Middle,Hồ Chí Minh Nhật Bản,2024-12-19 11:04:19.656574,,,
+64,CareerLink,CÔNG TY CỔ PHẦN NÔNG NGHIỆP TRƯỜNG HẢI,Công nghệ thông tin (tổng quát),Nhân viên,Cử nhân,Middle,Gia Lai,2024-12-19 11:04:25.773083,0,0,0
+65,CareerLink,CÔNG TY TNHH THỜI TRANG SÀI GÒN XUÂN HOÀ,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Trung cấp,Junior,Hồ Chí Minh,2024-12-24 03:04:31.693226,,,
+66,CareerLink,CÔNG TY CỔ PHẦN THƯƠNG MẠI VÀ DỊCH VỤ EMALL,nhân viên công nghệ ứng dụng ai,Mới đi làm,Cử nhân,Fresher,Hồ Chí Minh,2024-12-23 11:04:37.217394,,,
+67,CareerLink,CareerLink's Client,Kỹ sư cơ sở dữ liệu,Nhân viên,Cử nhân,Middle,Hà Nội,2024-12-18 11:04:43.007733,,,
+68,CareerLink,CÔNG TY TNHH QUICK VIỆT NAM,Lập trình viên,Nhân viên,Cử nhân,Middle,Hồ Chí Minh,2024-12-20 11:04:48.746069,15000000,25000000,20000000
+69,CareerLink,CareerLink's Client,Chuyên viên tư vấn CNTT,Trưởng nhóm / Giám sát,Cử nhân,Senior,Hải Phòng,2024-12-18 11:04:54.387539,,,
+70,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Trung học,Fresher,Ninh Thuận,2024-12-21 11:05:00.078813,6000000,10000000,8000000
+71,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Trung học,Fresher,Tiền Giang,2024-12-18 11:05:07.847949,8000000,12000000,10000000
+72,CareerLink,CÔNG TY CỔ PHẦN SUN.STUDIO,Nhà thiết kế đồ họa,Nhân viên,Cử nhân,Middle,Hồ Chí Minh,2024-12-19 11:05:13.868598,14000000,25000000,19500000
+73,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Trung học,Fresher,Gia Lai,2024-12-18 11:05:19.570012,5000000,9000000,7000000
+74,CareerLink,CÔNG TY CỔ PHẦN SYNOPEX VIỆT NAM,Lập trình viên,Nhân viên,Cử nhân,Junior,Bắc Ninh,2024-12-18 11:05:25.293901,,,
+75,CareerLink,Công ty TNHH May Mặc Alliance One,Kỹ sư kiểm thử phần mềm,Nhân viên,Cử nhân,Junior,Bến Tre,2024-12-19 11:05:31.280793,,,
+76,CareerLink,Công ty TNHH May Mặc Alliance One,Kinh doanh,Nhân viên,Cử nhân,Junior,Bến Tre,2024-12-18 11:05:38.108000,,,
+77,CareerLink,CÔNG TY TNHH QUICK VIỆT NAM,Lập trình viên,Quản lý / Trưởng phòng,Cử nhân,Middle,Hồ Chí Minh,2024-12-20 11:05:43.908849,62000000,75000000,68500000
+78,CareerLink,Công Ty Cổ Phần Funtap,Lập trình viên,Nhân viên,Cử nhân,Senior,Hà Nội,2024-12-17 11:05:53.206012,,,
+79,CareerLink,Công Ty Cổ Phần Funtap,Kinh doanh,Nhân viên,Cử nhân,Middle,Hà Nội,2024-12-17 11:05:58.998185,,,
+80,CareerLink,CÔNG TY TNHH BOK VIỆT NAM,Lập trình viên,Kỹ thuật viên / Kỹ sư,Cử nhân,Middle,Hà Nội,2024-12-19 11:06:04.689078,,,
+81,CareerLink,Công Ty Cổ Phần Funtap,nhân viên vận hành games (yêu cầu kinh nghiệm),Nhân viên,Cử nhân,Fresher,Hà Nội,2024-12-22 11:06:49.652129,10000000,,
+82,CareerLink,CÔNG TY TRÁCH NHIỆM HỮU HẠN SÀI GÒN PRECISION,Nhà phân tích dữ liệu,Quản lý / Trưởng phòng,Cử nhân,Junior,Hồ Chí Minh,2024-12-21 11:06:55.526291,,,
+83,CareerLink,Công Ty Cổ Phần Funtap,Quản trị viên hệ thống,Nhân viên,Cử nhân,Middle,Hà Nội,2024-12-17 11:07:01.211429,,,
+84,CareerLink,CareerLink's Client,Chuyên viên tư vấn CNTT,Nhân viên,Cử nhân,Junior,Hồ Chí Minh,2024-12-17 11:07:09.249484,32000000,37000000,34500000
+85,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Trung học,Fresher,Đồng Tháp,2024-12-18 11:07:15.425102,8000000,12000000,10000000
+86,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Trung học,Fresher,Quảng Nam,2024-12-20 11:07:21.399183,6000000,11000000,8500000
+87,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Trung học,Fresher,Bắc Giang,2024-12-17 11:07:27.282534,7000000,10000000,8500000
+88,CareerLink,CÔNG TY CỔ PHẦN CTS,Kinh doanh,Nhân viên,Trung cấp,Middle,Hồ Chí Minh,2024-12-17 11:07:33.233737,15000000,30000000,22500000
+89,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Trung học,Fresher,Bắc Giang,2024-12-17 11:07:38.700128,7000000,12000000,9500000
+90,CareerLink,Công Ty Bánh Đồng Tiến Đà Nẵng,chuyên viên ai,Kỹ thuật viên / Kỹ sư,Cử nhân,Middle,Đà Nẵng,2024-12-20 11:07:44.230738,,,
+91,CareerLink,Công Ty Cổ Phần Funtap,game market research,Nhân viên,Cử nhân,Junior,Hà Nội,2024-12-17 11:07:49.788206,,,
+92,CareerLink,Công Ty Bánh Đồng Tiến Đà Nẵng,Lập trình viên,Nhân viên,Cử nhân,Middle,Đà Nẵng,2024-12-20 11:07:55.558367,10000000,12000000,11000000
+93,CareerLink,Công Ty TNHH Taixin Printing Vina,nhân viên nhập liệu hệ thống (oppsheet),Nhân viên,Cử nhân,Junior,Bắc Ninh,2024-12-17 11:08:01.806296,,,
+94,CareerLink,FPT Telecom,Lập trình viên,Nhân viên,Cử nhân,Middle,Hồ Chí Minh,2024-12-18 11:08:08.326097,,,
+95,CareerLink,CareerLink's Client,Lập trình viên,Nhân viên,Cử nhân,Middle,Hồ Chí Minh,2024-12-17 11:08:14.542915,19000000,25000000,22000000
+96,CareerLink,FPT Telecom,Lập trình viên,Sinh viên / Thực tập sinh,Cử nhân,Fresher,Hồ Chí Minh,2024-12-23 16:08:21.219411,7000000,10000000,8500000
+97,CareerLink,CÔNG TY TNHH QUICK VIỆT NAM,Lập trình viên,Nhân viên,Cử nhân,Middle,Hồ Chí Minh,2024-12-19 11:08:27.455900,25000000,35000000,30000000
+98,CareerLink,Công Ty TNHH Khóa Huy Hoàng,Quản trị viên hệ thống,Nhân viên,Cử nhân,Junior,Hà Nội,2024-12-23 15:08:33.349364,15000000,18000000,16500000
+99,CareerLink,CÔNG TY TNHH SEOJIN AUTO,Chuyên viên bảo mật thông tin,Nhân viên,Cử nhân,Junior,Bắc Ninh,2024-12-19 11:08:39.260158,,,
+100,CareerLink,CareerLink's Client,Lập trình viên,Nhân viên,Cử nhân,Middle,Hồ Chí Minh,2024-12-17 11:08:51.345722,19000000,25000000,22000000
+101,CareerLink,CÔNG TY TNHH QUICK VIỆT NAM,Lập trình viên,Nhân viên,Cử nhân,Middle,Hồ Chí Minh,2024-12-19 11:08:57.226221,25000000,35000000,30000000
+102,CareerLink,Công Ty TNHH Khóa Huy Hoàng,Quản trị viên hệ thống,Nhân viên,Cử nhân,Junior,Hà Nội,2024-12-23 15:09:03.223097,15000000,18000000,16500000
+103,CareerLink,CÔNG TY TNHH SEOJIN AUTO,Chuyên viên bảo mật thông tin,Nhân viên,Cử nhân,Junior,Bắc Ninh,2024-12-19 11:09:10.650725,,,
+104,CareerLink,CÔNG TY TNHH SEOJIN AUTO,Chuyên viên bảo mật thông tin,Nhân viên,Cử nhân,Junior,Bắc Ninh,2024-12-16 11:09:16.261967,,,
+105,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Trung học,Fresher,Bắc Giang,2024-12-16 11:09:22.093356,7000000,10000000,8500000
+106,CareerLink,CareerLink's Client,Công nghệ thông tin (tổng quát),Nhân viên,Cử nhân,Junior,Hồ Chí Minh,2024-12-23 11:09:27.968977,15000000,20000000,17500000
+107,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Trung học,Fresher,Hà Nội,2024-12-19 11:09:33.912085,8000000,15000000,11500000
+108,CareerLink,Tổng Công Ty Cổ Phần Địa Ốc Sài Gòn – SAIGONRES Group,Lập trình viên,Nhân viên,Cử nhân,Junior,Hồ Chí Minh,2024-12-24 04:09:39.600750,0,0,0
+109,CareerLink,TRƯỜNG ĐẠI HỌC KINH TẾ TÀI CHÍNH TP.HCM,Công nghệ thông tin (tổng quát),Quản lý / Trưởng phòng,thạc sĩ,Middle,Hồ Chí Minh,2024-12-16 11:09:45.571571,,,
+110,CareerLink,Công Ty Cổ Phần Tập Đoàn Cơ Điện Phương Linh,Nhà thiết kế đồ họa,Nhân viên,Trung cấp,Middle,Bình Dương,2024-12-22 11:09:51.624758,10000000,18000000,14000000
+111,CareerLink,Rieker Vietnam Ltd.,chuyên viên thiết kế 3d khuôn đế giày - số lượng: 1,Nhân viên,Trung cấp,Junior,Quảng Nam Quảng Ngãi,2024-12-16 11:09:57.132316,,,
+112,CareerLink,Công ty TNHH Coretronic Việt Nam,Công nghệ thông tin (tổng quát),Kỹ thuật viên / Kỹ sư,Cử nhân,Junior,Bà Rịa - Vũng Tàu,2024-12-22 11:10:03.233246,,,
+113,CareerLink,TỔNG CÔNG TY CP DỆT MAY HÒA THỌ,Lập trình viên,Nhân viên,Cử nhân,Junior,Đà Nẵng,2024-12-21 11:10:09.172613,,,20000000
+114,CareerLink,Computime Limited,Lập trình viên,Nhân viên,Cử nhân,Middle,Bình Dương,2024-12-17 11:10:15.095707,,,
+115,CareerLink,Công Ty Cổ Phần Funtap,nhân viên qa (game global),Nhân viên,Cử nhân,Middle,Hà Nội,2024-12-18 11:10:24.182726,,,
+116,CareerLink,Công Ty TNHH Thực Phẩm Thái Sơn,Lập trình viên,Nhân viên,Cử nhân,Middle,Hồ Chí Minh,2024-12-23 11:10:30.560608,,,
+117,CareerLink,CÔNG TY TNHH TIẾN TRIỂN VIỆT NAM,nhân viên thiết kế nội thất,Nhân viên,Trung cấp,Middle,Bình Dương,2024-12-23 11:10:43.188475,15000000,20000000,17500000
+118,CareerLink,CareerLink's Client,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Cử nhân,Junior,Hà Nội,2024-12-23 11:10:49.045585,9000000,14000000,11500000
+119,CareerLink,CareerLink's Client,Lập trình viên,Nhân viên,Cử nhân,Middle,Bình Dương,2024-12-18 11:10:55.019786,,,
+120,CareerLink,CÔNG TY TNHH DAEYEONG VINA,Công nghệ thông tin (tổng quát),Nhân viên,Cử nhân,Junior,Đồng Nai,2024-12-19 11:11:01.364741,15000000,,
+121,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Trung học,Fresher,Gia Lai,2024-12-14 11:11:07.474919,6000000,10000000,8000000
+122,CareerLink,CÔNG TY TNHH DAEYEONG VINA,Công nghệ thông tin (tổng quát),Nhân viên,Cử nhân,Middle,Đồng Nai,2024-12-19 11:11:13.359224,,,
+123,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Trung học,Fresher,Quảng Ngãi,2024-12-14 11:11:19.542883,6000000,9000000,7500000
+124,CareerLink,CÔNG TY CỔ PHẦN TẬP ĐOÀN AUSTDOOR,chuyên viên phân tích nghiệp vụ,Nhân viên,Cử nhân,Junior,Hà Nội,2024-12-14 11:11:26.029097,,,
+125,CareerLink,Công Ty Cổ Phần Funtap,Nhà thiết kế giao diện người dùng,Nhân viên,Cử nhân,Middle,Hà Nội,2024-12-17 11:11:32.462460,,,
+126,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Trung học,Fresher,Lâm Đồng,2024-12-13 11:11:38.870157,6000000,10000000,8000000
+127,CareerLink,Kei Tat (Global) Chemicals Ltd.,merchandiser,Nhân viên,Cử nhân,Junior,Hồ Chí Minh,2024-12-13 11:11:45.207413,,,
+128,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Trung học,Fresher,Hậu Giang,2024-12-23 11:11:53.537357,7000000,12000000,9500000
+129,CareerLink,CÔNG TY CỔ PHẦN SYNOPEX VIỆT NAM,Nhà thiết kế đồ họa,Nhân viên,Trung cấp,Fresher,Bắc Ninh,2024-12-23 11:11:59.724372,,,
+130,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Trung học,Fresher,Hậu Giang,2024-12-17 11:12:08.791687,7000000,12000000,9500000
+131,CareerLink,CÔNG TY CỔ PHẦN SYNOPEX VIỆT NAM,Lập trình viên,Kỹ thuật viên / Kỹ sư,Cử nhân,Middle,Bắc Ninh,2024-12-13 11:12:14.844867,,,
+132,CareerLink,Công Ty Cổ Phần Tập Đoàn Omi (OmiGroup),kỹ sư cầu nối (osaka),Kỹ thuật viên / Kỹ sư,Cử nhân,Middle,Nhật Bản,2024-12-13 11:12:21.465763,0,0,0
+133,CareerLink,TRƯỜNG ĐẠI HỌC YERSIN ĐÀ LẠT,Công nghệ thông tin (tổng quát),Nhân viên,tiến sĩ,Junior,Lâm Đồng,2024-12-13 11:12:28.062383,,,
+134,CareerLink,Công Ty Cổ Phần Tập Đoàn Omi (OmiGroup),Kinh doanh,Quản lý / Trưởng phòng,Cử nhân,Middle,Nhật Bản,2024-12-21 11:12:33.974583,0,0,0
+135,CareerLink,Công Ty Cổ Phần Tập Đoàn Omi (OmiGroup),Chuyên viên tư vấn CNTT,Nhân viên,Cử nhân,Middle,Nhật Bản,2024-12-13 11:12:39.737251,0,0,0
+136,CareerLink,Công Ty Cổ Phần Người Bạn Vàng,chuyên viên phát triển ứng dụng web,Nhân viên,Cử nhân,Middle,Hồ Chí Minh,2024-12-20 11:12:50.255639,,,
+137,CareerLink,Công Ty Cổ Phần Tập Đoàn Omi (OmiGroup),Chuyên viên tư vấn CNTT,Nhân viên,Cử nhân,Middle,Hà Nội Nhật Bản,2024-12-13 11:12:56.648752,0,0,0
+138,CareerLink,CareerLink's Client,Kinh doanh,Nhân viên,Cử nhân,Senior,Hà Nội,2024-12-13 11:13:02.921404,,,
+139,CareerLink,FV HOSPITAL,Kinh doanh,Nhân viên,Cử nhân,Middle,Hồ Chí Minh,2024-12-23 11:13:08.616073,0,0,0
+140,CareerLink,CareerLink's Client,Lập trình viên,Trưởng nhóm / Giám sát,Trung cấp,Senior,Hồ Chí Minh,2024-12-12 11:13:14.412615,25000000,50000000,37500000
+141,CareerLink,CÔNG TY TNHH NƯỚC GIẢI KHÁT TÂN ĐÔ,Kinh doanh,Nhân viên,Cử nhân,Junior,Hà Nội,2024-12-12 11:13:20.004338,13000000,18000000,15500000
+142,CareerLink,Công Ty Cổ Phần Người Bạn Vàng,Quản trị viên hệ thống,Nhân viên,Cử nhân,Middle,Hồ Chí Minh,2024-12-12 11:13:26.538644,,,
+143,CareerLink,CareerLink's Client,Quản trị viên hệ thống,Nhân viên,Cử nhân,Junior,Đà Nẵng,2024-12-18 11:13:32.918233,,,
+144,CareerLink,FPT Telecom,Lập trình viên,Nhân viên,Cử nhân,Junior,Hồ Chí Minh,2024-12-18 11:13:38.553956,,,
+145,CareerLink,Công Ty Cổ Phần Người Bạn Vàng,Công nghệ thông tin (tổng quát),Quản lý / Trưởng phòng,Cử nhân,Senior,Hồ Chí Minh,2024-12-23 11:13:44.379489,,,
+146,CareerLink,Công Ty Cổ Phần Thực Phẩm Dinh Dưỡng NutiFood,Quản trị viên hệ thống,Nhân viên,Cử nhân,Fresher,Hồ Chí Minh,2024-12-23 11:13:50.709188,,,
+147,CareerLink,CareerLink's Client,Kinh doanh,Nhân viên,Cử nhân,Junior,Hà Nội,2024-12-16 11:13:57.029708,,,
+148,CareerLink,CÔNG TY CỔ PHẦN CTS,Nhà thiết kế đồ họa,Nhân viên,Trung cấp,Junior,Hồ Chí Minh,2024-12-23 11:14:02.999578,9000000,15000000,12000000
+149,CareerLink,CÔNG TY CỔ PHẦN CTS,Kinh doanh,Nhân viên,chứng chỉ,Middle,Hồ Chí Minh,2024-12-23 11:14:08.937305,15000000,30000000,22500000
+150,CareerLink,Innovature Consulting Ltd.,Quản trị viên hệ thống,Nhân viên,Cử nhân,Junior,Hồ Chí Minh,2024-12-23 11:14:22.395642,0,0,0
+151,CareerLink,Công Ty Cổ Phần Hanacans,Công nghệ thông tin (tổng quát),Kỹ thuật viên / Kỹ sư,Cử nhân,Middle,Bắc Ninh,2024-12-19 11:14:28.162366,12000000,20000000,16000000
+152,CareerLink,Công Ty TNHH Taixin Printing Vina,trưởng nhóm phát triển [ vp hà nội ],Trưởng nhóm / Giám sát,Cử nhân,Senior,Hà Nội,2024-12-21 11:14:33.829798,,,
+153,CareerLink,Công Ty TNHH Taixin Printing Vina,Lập trình viên,Nhân viên,Trung cấp,Junior,Hà Nội,2024-12-11 11:14:39.808445,,,
+154,CareerLink,CÔNG TY TRÁCH NHIỆM HỮU HẠN SÀI GÒN PRECISION,Công nghệ thông tin (tổng quát),Trưởng nhóm / Giám sát,Cử nhân,Middle,Hồ Chí Minh,2024-12-15 11:14:45.770560,,,
+155,CareerLink,MyTeam VietNam Company Limited,Lập trình viên,Kỹ thuật viên / Kỹ sư,Cử nhân,Middle,Đà Nẵng,2024-12-13 11:14:51.724558,25000000,50000000,37500000
+156,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,scrum master,Nhân viên,Cử nhân,Middle,Hồ Chí Minh,2024-12-22 11:14:57.618583,,,
+157,CareerLink,CareerLink's Client,Nhà phát triển phần mềm,Nhân viên,Cử nhân,Middle,Hải Phòng,2024-12-17 11:15:03.147450,15000000,20000000,17500000
+158,CareerLink,Công Ty Cổ Phần Funtap,Nhà thiết kế đồ họa,Nhân viên,Cử nhân,Junior,Hà Nội,2024-12-12 11:15:08.991861,,,
+159,CareerLink,CareerLink's Client,kỹ sư hệ thống - kcn thăng long 1 (tiếng anh),Nhân viên,Cử nhân,Junior,Hà Nội,2024-12-17 11:15:15.163765,12000000,25000000,18500000
+160,CareerLink,Công Ty Cổ Phần Funtap,Kinh doanh,Nhân viên,Cử nhân,Junior,Hà Nội,2024-12-11 11:15:21.005354,20000000,,
+161,CareerLink,CareerLink's Client,Kinh doanh,Nhân viên,Cử nhân,Middle,Hồ Chí Minh,2024-12-21 11:15:26.651556,18000000,30000000,24000000
+162,CareerLink,Công Ty Cổ Phần Funtap,Kỹ sư kiểm thử phần mềm,Nhân viên,Cử nhân,Junior,Hà Nội,2024-12-17 11:15:32.734029,,,
+163,CareerLink,Công ty TNHH transcosmos Vietnam,Lập trình viên,Nhân viên,Cử nhân,Fresher,Hà Nội,2024-12-10 11:15:38.364161,10000000,15000000,12500000
+164,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Trung học,Fresher,Quảng Ngãi,2024-12-12 11:15:44.045335,6000000,10000000,8000000
+165,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Trung học,Fresher,Lâm Đồng,2024-12-10 11:15:50.320727,7000000,10000000,8500000
+166,CareerLink,Công Ty TNHH Trang Phục Ngoài Trời CPPC (Việt Nam),Chuyên viên hỗ trợ kỹ thuật,Kỹ thuật viên / Kỹ sư,kỹ sư,Fresher,Bình Định,2024-12-22 11:15:57.900407,,,
+167,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Trung học,Fresher,Hà Nội,2024-12-19 11:16:03.583439,8000000,15000000,11500000
+168,CareerLink,CÔNG TY CỔ PHẦN CHỨNG KHOÁN PHÚ HƯNG,Kỹ sư kiểm thử phần mềm,Nhân viên,Cử nhân,Junior,Hồ Chí Minh,2024-12-23 11:16:09.397351,,,
+169,CareerLink,Công ty cổ phần Altius Link Việt Nam,[ab] nhân viên chỉnh sửa album ảnh,Nhân viên,Trung học,Fresher,Hà Nội,2024-12-17 11:16:15.449205,7000000,8000000,7500000
+170,CareerLink,CareerLink's Client,Lập trình viên,Nhân viên,Cử nhân,Middle,Hồ Chí Minh,2024-12-13 11:16:21.413922,22000000,40000000,31000000
+171,CareerLink,CÔNG TY TNHH BOK VIỆT NAM,Công nghệ thông tin (tổng quát),Quản lý / Trưởng phòng,Cử nhân,Middle,Hồ Chí Minh,2024-12-15 11:16:27.111648,,,
+172,CareerLink,CareerLink's Client,Lập trình viên,Kỹ thuật viên / Kỹ sư,Cử nhân,Middle,Hồ Chí Minh,2024-12-13 11:16:32.926059,20000000,22000000,21000000
+173,CareerLink,CÔNG TY TNHH RORZE ROBOTECH,Lập trình viên,Nhân viên,Cử nhân,Fresher,Hải Phòng,2024-12-19 11:16:38.795484,0,0,0
+174,CareerLink,CareerLink's Client,Lập trình viên,Nhân viên,Cử nhân,Middle,Hồ Chí Minh,2024-12-13 11:16:44.463174,18000000,30000000,24000000
+175,CareerLink,CÔNG TY TNHH RORZE ROBOTECH,Lập trình viên,Nhân viên,Cử nhân,Junior,Hải Phòng,2024-12-18 11:16:50.168277,0,0,0
+176,CareerLink,CareerLink's Client,Lập trình viên,Kỹ thuật viên / Kỹ sư,Cử nhân,Middle,Hồ Chí Minh,2024-12-13 11:16:55.700037,17000000,25000000,21000000
+177,CareerLink,Fois ICT PRO,Lập trình viên,Nhân viên,Trung cấp,Middle,Thanh Hóa,2024-12-09 11:17:01.612252,35000000,,
+178,CareerLink,CareerLink's Client,Lập trình viên,Nhân viên,Cử nhân,Middle,Hồ Chí Minh,2024-12-23 11:17:07.834841,18000000,30000000,24000000
+179,CareerLink,Fois ICT PRO,Công nghệ thông tin (tổng quát),Nhân viên,Trung học,Junior,Hồ Chí Minh,2024-12-22 11:17:13.630437,15000000,25000000,20000000
+180,CareerLink,Fois ICT PRO,Lập trình viên,Nhân viên,Trung cấp,Middle,Hồ Chí Minh Hà Nội,2024-12-09 11:17:19.652651,25000000,40000000,32500000
+181,CareerLink,CÔNG TY CỔ PHẦN CÔNG NGHỆ THỰC PHẨM CHÂU Á (AFOTECH),Công nghệ thông tin (tổng quát),Quản lý / Trưởng phòng,Cử nhân,Senior,Hà Nội,2024-12-23 15:17:25.185972,,,
+182,CareerLink,CÔNG TY CỔ PHẦN NÔNG NGHIỆP TRƯỜNG HẢI,Quản trị viên hệ thống,Trưởng nhóm / Giám sát,Cử nhân,Middle,Gia Lai,2024-12-09 11:17:30.697103,,,
+183,CareerLink,FPT Telecom,Kỹ sư học máy,Kỹ thuật viên / Kỹ sư,Cử nhân,Senior,Hồ Chí Minh,2024-12-09 11:17:36.560793,50000000,87000000,68500000
+184,CareerLink,CÔNG TY CỔ PHẦN NÔNG NGHIỆP TRƯỜNG HẢI,Quản trị viên hệ thống,Trưởng nhóm / Giám sát,Cử nhân,Middle,Gia Lai,2024-12-09 11:17:42.305455,,,
+185,CareerLink,CareerLink's Client,Kinh doanh,Nhân viên,Cử nhân,Middle,Hà Nội,2024-12-09 11:17:47.853962,20000000,35000000,27500000
+186,CareerLink,CÔNG TY CỔ PHẦN NÔNG NGHIỆP TRƯỜNG HẢI,trưởng bộ phận triển khai và quản lý phần mềm (gia lai),Trưởng nhóm / Giám sát,Cử nhân,Middle,Gia Lai,2024-12-09 11:17:53.574644,,,
+187,CareerLink,FPT Telecom,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Trung cấp,Fresher,Quảng Bình,2024-12-07 11:17:59.544842,8000000,20000000,14000000
+188,CareerLink,CÔNG TY CỔ PHẦN NÔNG NGHIỆP TRƯỜNG HẢI,Công nghệ thông tin (tổng quát),Quản lý / Trưởng phòng,Cử nhân,Senior,Gia Lai,2024-12-20 11:18:05.155874,,,
+189,CareerLink,CareerLink's Client,Kinh doanh,Nhân viên,Cử nhân,Junior,Hà Nội,2024-12-09 11:18:10.766636,15000000,20000000,17500000
+190,CareerLink,Công Ty Cổ Phần Gỗ An Cường,Lập trình viên,Nhân viên,Cử nhân,Middle,Bình Dương,2024-12-06 11:18:16.335734,10000000,18000000,14000000
+191,CareerLink,CareerLink's Client,3d game modeler (maya) - bình thạnh,Nhân viên,Cử nhân,Middle,Hồ Chí Minh,2024-12-22 11:18:22.146613,12000000,28000000,20000000
+192,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Trung học,Fresher,Khánh Hòa,2024-12-06 11:18:27.841733,6000000,10000000,8000000
+193,CareerLink,TRƯỜNG ĐẠI HỌC KINH TẾ TÀI CHÍNH TP.HCM,Kỹ sư phần mềm,Nhân viên,thạc sĩ,Middle,Hồ Chí Minh,2024-12-06 11:18:33.505656,,,
+194,CareerLink,Tập Đoàn Vàng Bạc Đá Quý DOJI,Chuyên viên bảo mật thông tin,Nhân viên,Cử nhân,Middle,Hà Nội,2024-12-06 11:18:39.106939,25000000,35000000,30000000
+195,CareerLink,CareerLink's Client,Kinh doanh,Trưởng nhóm / Giám sát,Cử nhân,Senior,Hà Nội,2024-12-06 11:18:44.733088,17000000,45000000,31000000
+196,CareerLink,Công Ty TNHH Yakult Việt Nam,Quản trị viên hệ thống,Nhân viên,Cử nhân,Junior,Hồ Chí Minh,2024-12-20 11:18:50.443698,,,
+197,CareerLink,CareerLink's Client,Công nghệ thông tin (tổng quát),Quản lý / Trưởng phòng,Cử nhân,Middle,Hà Nội,2024-12-10 11:18:56.443476,,,45000000
+198,CareerLink,CÔNG TY TNHH BOK VIỆT NAM,Công nghệ thông tin (tổng quát),Kỹ thuật viên / Kỹ sư,Cử nhân,Middle,Hồ Chí Minh,2024-12-12 11:19:02.626529,,,
+199,CareerLink,CareerLink's Client,Kinh doanh,Nhân viên,Cử nhân,Middle,Bến Tre,2024-12-10 11:19:08.179208,20000000,40000000,30000000
+200,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Trung học,Fresher,Đắk Lắk,2024-12-23 19:19:21.236564,6000000,10000000,8000000
+201,CareerLink,FPT Telecom,Nhà thiết kế đồ họa,Sinh viên / Thực tập sinh,Cử nhân,Fresher,Hồ Chí Minh,2024-12-22 11:19:27.088027,,,
+202,CareerLink,TRƯỜNG ĐẠI HỌC KINH TẾ TÀI CHÍNH TP.HCM,Kỹ sư phần mềm,Nhân viên,thạc sĩ,Middle,Hồ Chí Minh,2024-12-05 11:19:33.325514,,,
+203,CareerLink,Diag Medical,Lập trình viên,Nhân viên,Cử nhân,Senior,Hồ Chí Minh,2024-12-05 11:19:39.940629,50000000,80000000,65000000
+204,CareerLink,CareerLink's Client,Chuyên viên tư vấn CNTT,Nhân viên,Cử nhân,Middle,Hà Nội,2024-12-05 11:19:45.555122,45000000,62000000,53500000
+205,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Trung học,Fresher,Hồ Chí Minh,2024-12-06 11:19:51.587403,7000000,10000000,8500000
+206,CareerLink,CareerLink's Client,Lập trình viên,Nhân viên,Cử nhân,Junior,Hồ Chí Minh,2024-12-12 11:19:57.863342,10000000,17000000,13500000
+207,CareerLink,TRƯỜNG ĐẠI HỌC KINH TẾ TÀI CHÍNH TP.HCM,Lập trình viên,Nhân viên,kỹ sư,Middle,Hồ Chí Minh,2024-12-20 11:20:03.437706,,,
+208,CareerLink,CareerLink's Client,Chuyên viên tư vấn CNTT,Trưởng nhóm / Giám sát,Cử nhân,Senior,Hà Nội,2024-12-11 11:20:09.204350,70000000,90000000,80000000
+209,CareerLink,HỆ THỐNG THẨM MỸ VIỆN LG CLINIC - LITTLE GARDEN SPA,Kinh doanh,Nhân viên,Cử nhân,Middle,Hồ Chí Minh,2024-12-18 11:20:14.811746,25000000,35000000,30000000
+210,CareerLink,FPT Telecom,thực tập sinh tester (lương đến 10m),Sinh viên / Thực tập sinh,Cử nhân,Fresher,Hồ Chí Minh,2024-12-21 11:20:20.507395,10000000,12000000,11000000
+211,CareerLink,IDEA TECHNOLOGY SOLUTIONS,Quản trị viên hệ thống,Nhân viên,Cử nhân,Junior,Đà Nẵng,2024-12-23 11:20:26.534807,,,
+212,CareerLink,VIETNAM CONCENTRIX SERVICES COMPANY LIMITED,Lập trình viên,Quản lý cấp cao,Cử nhân,Senior,Hồ Chí Minh,2024-12-21 11:20:32.352271,,,
+213,CareerLink,IDEA TECHNOLOGY SOLUTIONS,Lập trình viên,Nhân viên,Cử nhân,Junior,Đà Nẵng,2024-12-23 11:20:38.004398,,,
+214,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Trung học,Fresher,Hồ Chí Minh,2024-12-10 11:20:43.699652,7000000,10000000,8500000
+215,CareerLink,"Mitalab Co.,Ltd",Kỹ sư kiểm thử phần mềm,Nhân viên,Cử nhân,Fresher,Hà Nội,2024-12-17 11:20:49.582761,0,0,0
+216,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Trung học,Fresher,Hà Nội,2024-12-19 11:20:55.526088,7000000,10000000,8500000
+217,CareerLink,CareerLink Asia,Kinh doanh,Nhân viên,Cử nhân,Middle,Nhật Bản,2024-12-02 11:21:01.325350,70000000,130000000,100000000
+218,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Trung học,Fresher,Hà Nội,2024-12-19 11:21:07.077027,8000000,15000000,11500000
+219,CareerLink,CareerLink's Client,Lập trình viên,Nhân viên,Cử nhân,Middle,Hồ Chí Minh,2024-12-02 11:21:12.774948,50000000,,
+220,CareerLink,CareerLink Asia,Lập trình viên,Kỹ thuật viên / Kỹ sư,Cử nhân,Middle,Nhật Bản,2024-12-02 11:21:18.744293,65000000,125000000,95000000
+221,CareerLink,"Mitalab Co.,Ltd",kỹ sư phát triển sản phẩm phần mềm - hà nội,Nhân viên,Cử nhân,Middle,Hà Nội,2024-12-18 11:21:24.337538,,,
+222,CareerLink,CareerLink Asia,kỹ sư hệ thống ( không yêu cầu kinh nghiệm ),Kỹ thuật viên / Kỹ sư,Cử nhân,Fresher,Nhật Bản,2024-12-20 11:21:30.216839,43000000,80000000,61500000
+223,CareerLink,IDEA TECHNOLOGY SOLUTIONS,kỹ sư thiết kế hardware-firmware (ctm),Nhân viên,Cử nhân,Middle,Hồ Chí Minh,2024-12-17 11:21:35.887297,10000000,13000000,11500000
+224,CareerLink,CareerLink's Client,Kinh doanh,Trưởng nhóm / Giám sát,Cử nhân,Senior,Hà Nội,2024-12-02 11:21:42.064267,50000000,,
+225,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Trung học,Fresher,Kiên Giang,2024-12-15 11:21:48.156207,8000000,12000000,10000000
+226,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Trung học,Fresher,Khánh Hòa,2024-12-03 11:21:53.654486,6000000,10000000,8000000
+227,CareerLink,Công Ty CP Tập Đoàn Hà Đô,Công nghệ thông tin (tổng quát),Kỹ thuật viên / Kỹ sư,kỹ sư,Senior,Hà Nội,2024-12-23 11:21:59.480246,,,
+228,CareerLink,FPT Telecom,thực tập sinh kỹ sư hệ thống ( lương đến 10m),Sinh viên / Thực tập sinh,Cử nhân,Fresher,Hồ Chí Minh,2024-12-11 11:22:05.269472,9000000,10000000,9500000
+229,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Trung học,Fresher,Bình Định,2024-12-16 11:22:11.251838,5000000,10000000,7500000
+230,CareerLink,FPT Telecom,thực tập sinh qc (lương đến 10m),Sinh viên / Thực tập sinh,Cử nhân,Fresher,Hồ Chí Minh,2024-12-19 11:22:17.024022,6000000,10000000,8000000
+231,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Trung học,Fresher,Đăk Nông,2024-11-29 11:22:22.721177,6000000,10000000,8000000
+232,CareerLink,FPT Telecom,thực tập sinh qa (lương đến 10m),Sinh viên / Thực tập sinh,Cử nhân,Fresher,Hồ Chí Minh,2024-12-18 11:22:28.644863,9000000,10000000,9500000
+233,CareerLink,Công ty TNHH Điện Tử Sumida Việt Nam,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Cử nhân,Junior,Hải Phòng,2024-12-11 11:22:34.356305,12000000,13000000,12500000
+234,CareerLink,Công Ty TNHH Wisol Hà Nội,trưởng nhóm thiết kế/tự động hóa,Nhân viên,Cử nhân,Senior,Bắc Ninh,2024-11-29 11:22:40.108484,,,
+235,CareerLink,CareerLink's Client,Lập trình viên,Kỹ thuật viên / Kỹ sư,Cử nhân,Middle,Hồ Chí Minh,2024-12-12 11:22:46.156272,15000000,30000000,22500000
+236,CareerLink,Công Ty Cổ Phần Tập Đoàn Omi (OmiGroup),Công nghệ thông tin (tổng quát),Quản lý / Trưởng phòng,Cử nhân,Middle,Hà Nội,2024-12-09 11:22:52.023366,,,
+237,CareerLink,CareerLink's Client,Lập trình viên,Nhân viên,Cử nhân,Middle,Hồ Chí Minh,2024-12-17 11:22:58.126272,13000000,15000000,14000000
+238,CareerLink,CÔNG TY TNHH LITE ON VIỆT NAM,Công nghệ thông tin (tổng quát),Kỹ thuật viên / Kỹ sư,Cử nhân,Fresher,Hải Phòng,2024-12-16 11:23:04.016569,,,30000000
+239,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Trung học,Fresher,Khánh Hòa,2024-12-14 11:23:09.788097,7000000,10000000,8500000
+240,CareerLink,CÔNG TY TNHH MEDIASTEP SOFTWARE VIỆT NAM,Kỹ sư kiểm thử phần mềm,Nhân viên,Cử nhân,Junior,Hồ Chí Minh,2024-12-17 11:23:15.602322,,,
+241,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Cử nhân,Fresher,Hà Nội,2024-12-03 11:23:21.332787,9000000,12000000,10500000
+242,CareerLink,Công Ty TNHH Seojin Việt Nam,Chuyên viên hỗ trợ kỹ thuật,Nhân viên,Cử nhân,Fresher,Bắc Giang,2024-12-10 11:23:27.574060,10000000,25000000,17500000
+243,CareerLink,UNIVERSAL SCIENTIFIC INDUSTRIAL VIETNAM COMPANY LIMITED,Lập trình viên,Nhân viên,Cử nhân,Junior,Hải Phòng,2024-12-10 11:23:41.060066,,,
+244,CareerLink,CareerLink Asia,Nhà phát triển web,Trưởng nhóm / Giám sát,Cử nhân,Middle,Nhật Bản,2024-11-24 11:23:46.884591,90000000,,
+245,CareerLink,CareerLink Asia,kỹ sư dữ liệu,Kỹ thuật viên / Kỹ sư,Cử nhân,Middle,Nhật Bản,2024-11-24 11:23:52.941768,88000000,210000000,149000000
+246,CareerLink,CareerLink Asia,Chuyên viên tư vấn CNTT,Trưởng nhóm / Giám sát,Cử nhân,Middle,Nhật Bản,2024-11-24 11:23:58.693991,70000000,140000000,105000000
+247,CareerLink,CareerLink Asia,kỹ sư điện toán đám mây,Kỹ thuật viên / Kỹ sư,Cử nhân,Middle,Nhật Bản,2024-11-24 11:24:04.351385,88000000,210000000,149000000
+248,CareerLink,CareerLink Asia,Công nghệ thông tin (tổng quát),Kỹ thuật viên / Kỹ sư,Cử nhân,Middle,Nhật Bản,2024-11-24 11:24:10.286535,86000000,210000000,148000000
+249,CareerLink,CareerLink Asia,quản lý dự án,Quản lý / Trưởng phòng,Cử nhân,Junior,Nhật Bản,2024-12-16 11:24:16.118724,80000000,,
 250,việclàm24h,Trung Tâm Hạ Tầng Idc - Chi Nhánh Công Ty Công Nghệ Thông Tin Vnpt,Quản trị viên hệ thống,Chuyên viên- nhân viên,Cử nhân,Fresher,Hà Nội,2024-11-29 00:00:00.000000,15000000,35000000,25000000
-251,việclàm24h,Công Ty Cổ Phần Dinh Dưỡng Quốc Tế CNC,Kinh doanh,Chuyên viên- nhân viên,,Fresher,Hải Dương,2024-12-17 00:00:00.000000,10000000,20000000,15000000
-252,việclàm24h,Công Ty TNHH Akc Vina,Kỹ sư phần mềm,Chuyên viên- nhân viên,Cử nhân,Fresher,Bắc Ninh,2024-12-10 00:00:00.000000,16000000,26000000,21000000
+251,việclàm24h,Công Ty Cổ Phần Vacom,nhân viên triển khai phần mềm kế toán,Chuyên viên- nhân viên,Trung cấp,Fresher,Hà Nội,2024-12-24 00:00:00.000000,8000000,15000000,11500000
+252,việclàm24h,Công Ty TNHH Leetray,"kỹ sư dữ liệu, kinh nghiệm 2 năm (quận 10)",Chuyên viên- nhân viên,Cử nhân,Junior,TP.HCM,2024-12-24 00:00:00.000000,15000000,30000000,22500000
 253,việclàm24h,Công Ty TNHH Hải Triều Việt Nam (Đồng Hồ Hải Triều),Công nghệ thông tin (tổng quát),Chuyên viên- nhân viên,Cử nhân,Middle,TP.HCM,2024-12-11 00:00:00.000000,10000000,15000000,12500000
-254,việclàm24h,Công Ty Cổ Phần Giải Pháp Công Nghệ Thế Giới Số,Chuyên viên hỗ trợ kỹ thuật,Chuyên viên- nhân viên,Cử nhân,Fresher,TP.HCM,2024-12-17 00:00:00.000000,8000000,14000000,11000000
-255,việclàm24h,Công Ty TNHH Aram Vina,Lập trình viên,Chuyên viên- nhân viên,Cử nhân,Junior,Hà Nội,2024-12-10 00:00:00.000000,15000000,40000000,27500000
-256,việclàm24h,Công Ty Cổ Phần Cơ Điện Hợp Nhất,Lập trình viên,Chuyên viên- nhân viên,Cử nhân,Fresher,TP.HCM,2024-12-20 00:00:00.000000,9000000,12000000,10500000
-257,việclàm24h,Công Ty TNHH SX TM Đồ Gỗ Nghĩa Sơn,Kinh doanh,Chuyên viên- nhân viên,,Fresher,Đồng Nai,2024-12-18 00:00:00.000000,10000000,25000000,17500000
-258,việclàm24h,Công Ty Cổ Phần Giải Pháp Công Nghệ Thế Giới Số,Kinh doanh,Chuyên viên- nhân viên,,Fresher,TP.HCM,2024-12-17 00:00:00.000000,6000000,40000000,23000000
-259,việclàm24h,Công Ty Cổ Phần Đầu Tư Hcom,Chuyên viên hỗ trợ kỹ thuật,Chuyên viên- nhân viên,,Fresher,Hà Nội,2024-12-11 00:00:00.000000,10000000,15000000,12500000
-260,việclàm24h,Chi Nhánh Hà Nội Công Ty Cổ Phần Thương Mại Và Dịch Vụ Công Nghệ Thời Đại Số,Kinh doanh,Chuyên viên- nhân viên,Cử nhân,Fresher,Hà Nội,2024-12-09 00:00:00.000000,7000000,12000000,9500000
-261,việclàm24h,Công Ty TNHH Thương Mại Và Tư Vấn Phát Triển Công Nghệ Dna,Chuyên viên hỗ trợ kỹ thuật,Chuyên viên- nhân viên,Cử nhân,Fresher,Hà Nội,2024-12-11 00:00:00.000000,15000000,18000000,16500000
-262,việclàm24h,Công ty TNHH Trường Quốc Tế Dạy Bằng Tiếng Anh,Chuyên viên hỗ trợ kỹ thuật,Chuyên viên- nhân viên,,Junior,TP.HCM,2024-12-10 00:00:00.000000,10000000,15000000,12500000
-263,việclàm24h,Công Ty Cổ Phần Viễn Thông Act,Chuyên viên hỗ trợ kỹ thuật,Chuyên viên- nhân viên,,Fresher,TP.HCM,2024-12-09 00:00:00.000000,8000000,17000000,12500000
-264,việclàm24h,Công Ty Cổ Phần Kỹ Thuật Hoàng Thịnh,Kinh doanh,Chuyên viên- nhân viên,,Junior,TP.HCM,2024-12-07 00:00:00.000000,10000000,18000000,14000000
-265,việclàm24h,Pathway School (Công Ty CP Giáo Dục Liên Minh Bách Khoa),giáo viên tin học tiểu học - quận 12,Chuyên viên- nhân viên,Cử nhân,Junior,TP.HCM,2024-12-19 00:00:00.000000,10000000,12000000,11000000
-266,việclàm24h,Công Ty TNHH Vacif,technical manager (quản lý kỹ thuật),Quản lý cấp trung,Cử nhân,Junior,TP.HCM,2024-12-19 00:00:00.000000,15000000,25000000,20000000
-267,việclàm24h,Công Ty TNHH Wolf Group,Kinh doanh,Chuyên viên- nhân viên,,Junior,TP.HCM,2024-12-13 00:00:00.000000,13000000,20000000,16500000
-268,việclàm24h,Công Ty Tnhh In Nhãn Bao Bì Sài Gòn Label,Quản trị viên hệ thống,Chuyên viên- nhân viên,,Middle,TP.HCM,2024-12-14 00:00:00.000000,28000000,30000000,29000000
-269,việclàm24h,Công Ty TNHH SX & TM Tân Quang Minh,Chuyên viên hỗ trợ kỹ thuật,Chuyên viên- nhân viên,,Middle,TP.HCM,2024-12-09 00:00:00.000000,12000000,15000000,13500000
-270,việclàm24h,Công Ty TNHH Develop.Software,Lập trình viên,Chuyên viên- nhân viên,,Fresher,TP.HCM,2024-12-03 00:00:00.000000,8000000,15000000,11500000
-271,việclàm24h,Bệnh Viện Máy Tính Net - Ngọc Lễ,Chuyên viên hỗ trợ kỹ thuật,Chuyên viên- nhân viên,Trung cấp,Fresher,"TP.HCM, Bình Dương",2024-11-28 00:00:00.000000,7000000,10000000,8500000
-272,việclàm24h,Digiworld Corporation,Chuyên viên hỗ trợ kỹ thuật,Chuyên viên- nhân viên,Trung cấp,Fresher,Phú Thọ,2024-12-03 00:00:00.000000,9000000,10000000,9500000
-273,việclàm24h,Công Ty Cổ Phần Đầu Tư Và Công Nghiệp Tân Tạo - Tập Đoàn Tân Tạo (Itaco),nhân viên khảo thí,Chuyên viên- nhân viên,,Junior,Long An,2024-11-26 00:00:00.000000,12000000,16000000,14000000
-274,việclàm24h,Công Ty Cổ Phần Công Nghệ ITEKO,Kinh doanh,Chuyên viên- nhân viên,,Fresher,Hà Nội,2024-12-19 00:00:00.000000,10000000,15000000,12500000
-275,việclàm24h,Trường Cao Đẳng Công Thương Việt Nam,Công nghệ thông tin (tổng quát),Quản lý cấp cao,Cử nhân,Fresher,TP.HCM,2024-12-20 00:00:00.000000,,,
-276,việclàm24h,Công Ty CP Dịch Vụ Kim My,giáo viên tiêng tbn,Chuyên viên- nhân viên,,Fresher,Nước ngoài,2024-12-21 00:00:00.000000,1000000,2000000,1500000
+254,việclàm24h,Công Ty Cổ Phần Đầu Tư Hcom,Chuyên viên hỗ trợ kỹ thuật,Chuyên viên- nhân viên,,Fresher,Hà Nội,2024-12-11 00:00:00.000000,10000000,15000000,12500000
+255,việclàm24h,Công Ty Cổ Phần Giải Pháp Công Nghệ Thế Giới Số,Chuyên viên hỗ trợ kỹ thuật,Chuyên viên- nhân viên,Cử nhân,Fresher,TP.HCM,2024-12-17 00:00:00.000000,8000000,14000000,11000000
+256,việclàm24h,Công Ty TNHH Vacif,technical manager (quản lý kỹ thuật),Quản lý cấp trung,Cử nhân,Junior,TP.HCM,2024-12-19 00:00:00.000000,15000000,25000000,20000000
+257,việclàm24h,Công Ty TNHH Thương Mại Và Tư Vấn Phát Triển Công Nghệ Dna,Chuyên viên hỗ trợ kỹ thuật,Chuyên viên- nhân viên,Cử nhân,Fresher,Hà Nội,2024-12-11 00:00:00.000000,15000000,18000000,16500000
+258,việclàm24h,Công Ty TNHH Kỹ Thuật Hiệp Nguyễn,Chuyên viên hỗ trợ kỹ thuật,Chuyên viên- nhân viên,,Fresher,"Bình Dương, TP.HCM",2024-12-24 00:00:00.000000,10000000,15000000,12500000
+259,việclàm24h,Công Ty TNHH Tự Động Công Nghiệp Microtech,kỹ sư điện - tự động hóa,Chuyên gia,Cử nhân,Fresher,TP.HCM,2024-12-24 00:00:00.000000,8000000,15000000,11500000
+260,việclàm24h,Công Ty Cổ Phần Giải Pháp Công Nghệ Thế Giới Số,Kinh doanh,Chuyên viên- nhân viên,,Fresher,TP.HCM,2024-12-17 00:00:00.000000,6000000,40000000,23000000
+261,việclàm24h,Công Ty Cổ Phần Med - Aid Công Minh,Lập trình viên,Chuyên viên- nhân viên,,Middle,Hà Nội,2024-12-24 00:00:00.000000,10000000,15000000,12500000
+262,việclàm24h,Công Ty Cổ Phần Viễn Thông Act,Chuyên viên hỗ trợ kỹ thuật,Chuyên viên- nhân viên,,Fresher,TP.HCM,2024-12-24 00:00:00.000000,8000000,17000000,12500000
+263,việclàm24h,Công Ty TNHH Thương Mại Dịch Vụ Thiết Bị Văn Phòng Đông Á,kỹ thuật viên sửa chữa máy photocopy / máy in,Chuyên viên- nhân viên,,Fresher,Hậu Giang,2024-12-21 00:00:00.000000,6000000,10000000,8000000
+264,việclàm24h,Công Ty TNHH Bmo Int,Lập trình viên,Chuyên viên- nhân viên,,Middle,TP.HCM,2024-12-22 00:00:00.000000,15000000,25000000,20000000
+265,việclàm24h,Công Ty Cổ Phần Cơ Điện Hợp Nhất,Lập trình viên,Chuyên viên- nhân viên,Cử nhân,Fresher,TP.HCM,2024-12-20 00:00:00.000000,9000000,12000000,10500000
+266,việclàm24h,Công Ty TNHH SX TM Đồ Gỗ Nghĩa Sơn,Kinh doanh,Chuyên viên- nhân viên,,Fresher,Đồng Nai,2024-12-18 00:00:00.000000,10000000,25000000,17500000
+267,việclàm24h,Chi Nhánh Hà Nội Công Ty Cổ Phần Thương Mại Và Dịch Vụ Công Nghệ Thời Đại Số,Kinh doanh,Chuyên viên- nhân viên,Cử nhân,Fresher,Hà Nội,2024-12-09 00:00:00.000000,7000000,12000000,9500000
+268,việclàm24h,Pathway School (Công Ty CP Giáo Dục Liên Minh Bách Khoa),giáo viên tin học tiểu học - quận 12,Chuyên viên- nhân viên,Cử nhân,Junior,TP.HCM,2024-12-19 00:00:00.000000,10000000,12000000,11000000
+269,việclàm24h,Công Ty TNHH Wolf Group,Kinh doanh,Chuyên viên- nhân viên,,Junior,TP.HCM,2024-12-13 00:00:00.000000,13000000,20000000,16500000
+270,việclàm24h,Công Ty Tnhh In Nhãn Bao Bì Sài Gòn Label,Quản trị viên hệ thống,Chuyên viên- nhân viên,,Middle,TP.HCM,2024-12-14 00:00:00.000000,28000000,30000000,29000000
+271,việclàm24h,Công Ty TNHH Develop.Software,Lập trình viên,Chuyên viên- nhân viên,,Fresher,TP.HCM,2024-12-03 00:00:00.000000,8000000,15000000,11500000
+272,việclàm24h,Bệnh Viện Máy Tính Net - Ngọc Lễ,Chuyên viên hỗ trợ kỹ thuật,Chuyên viên- nhân viên,Trung cấp,Fresher,"TP.HCM, Bình Dương",2024-11-28 00:00:00.000000,7000000,10000000,8500000
+273,việclàm24h,Công Ty TNHH Akc Vina,Kỹ sư phần mềm,Chuyên viên- nhân viên,Cử nhân,Fresher,Bắc Ninh,2024-12-10 00:00:00.000000,16000000,26000000,21000000
+274,việclàm24h,Công Ty TNHH Thương Mại Và Dịch Vụ Quốc Tế Hymi,Kinh doanh,Chuyên viên- nhân viên,,Fresher,Hà Nội,2024-12-05 00:00:00.000000,7000000,15000000,11000000
+275,việclàm24h,Digiworld Corporation,Chuyên viên hỗ trợ kỹ thuật,Chuyên viên- nhân viên,Trung cấp,Fresher,Phú Thọ,2024-12-03 00:00:00.000000,9000000,10000000,9500000
+276,việclàm24h,Công Ty Cổ Phần Công Nghệ ITEKO,Kinh doanh,Chuyên viên- nhân viên,,Junior,Hà Nội,2024-12-19 00:00:00.000000,10000000,15000000,12500000
 277,việclàm24h,Công Ty Cổ Phần Thành Thành Công - Biên Hòa,Kinh doanh,Chuyên viên- nhân viên,Cử nhân,Middle,Tây Ninh,2024-11-27 00:00:00.000000,10000000,15000000,12500000
-278,việclàm24h,Công Ty TNHH Thương Mại Và Dịch Vụ Quốc Tế Hymi,Kinh doanh,Chuyên viên- nhân viên,,Fresher,Hà Nội,2024-12-05 00:00:00.000000,7000000,15000000,11000000
-279,việclàm24h,Công Ty TNHH Dịch Vụ Tin Học Ceh,nhân viên triển khai,Chuyên viên- nhân viên,,Fresher,Hải Phòng,2024-11-24 00:00:00.000000,10000000,15000000,12500000
-280,việclàm24h,Công Ty TNHH Công Nghệ Akas,Chuyên viên hỗ trợ kỹ thuật,Chuyên viên- nhân viên,Trung cấp,Junior,TP.HCM,2024-12-14 00:00:00.000000,8000000,10000000,9000000
-281,việclàm24h,Công Ty TNHH Polytex Far Eastern (Việt Nam),Nhà phát triển phần mềm,Chuyên viên- nhân viên,Cử nhân,Middle,TP.HCM,2024-12-19 00:00:00.000000,13000000,18000000,15500000
-282,việclàm24h,Công Ty TNHH SX TM Đồ Gỗ Nghĩa Sơn,Kinh doanh,Chuyên viên- nhân viên,,Fresher,Đồng Nai,2024-11-30 00:00:00.000000,10000000,25000000,17500000
-283,việclàm24h,Công Ty Cổ Phần Thương Mại Và Dịch Vụ Thành Phố Mới,Chuyên viên hỗ trợ kỹ thuật,Chuyên viên- nhân viên,,Fresher,Bình Dương,2024-12-10 00:00:00.000000,10000000,15000000,12500000
-284,việclàm24h,Công Ty Cổ Phần Công Nghệ Giáo Dục Edtexco,Kinh doanh,Chuyên viên- nhân viên,Cử nhân,Fresher,Hà Nội,2024-12-14 00:00:00.000000,8000000,20000000,14000000
-285,việclàm24h,Công Ty TNHH Danu Vina,Chuyên viên hỗ trợ kỹ thuật,Chuyên viên- nhân viên,,Fresher,TP.HCM,2024-12-11 00:00:00.000000,7000000,12000000,9500000
-286,việclàm24h,Công Ty Cổ Phần Đầu Tư Pitc,Chuyên viên hỗ trợ kỹ thuật,Chuyên viên- nhân viên,,Fresher,"TP.HCM, Đà Nẵng, Thừa Thiên Huế, +2",2024-11-29 00:00:00.000000,8000000,15000000,11500000
-287,việclàm24h,Trung Tâm Hạ Tầng Idc - Chi Nhánh Công Ty Công Nghệ Thông Tin Vnpt,Quản trị viên hệ thống,Chuyên viên- nhân viên,Cử nhân,Fresher,TP.HCM,2024-11-29 00:00:00.000000,15000000,35000000,25000000
-288,việclàm24h,Công Ty Cổ Phần Viễn Thông Fpt,kỹ thuật viên viễn thông,Chuyên viên- nhân viên,,Fresher,"Kiên Giang, An Giang, TP.HCM, +2",2024-12-05 00:00:00.000000,8000000,15000000,11500000
-289,việclàm24h,Công Ty Cổ Phần Gplus Furniture,Công nghệ thông tin (tổng quát),Chuyên viên- nhân viên,,Fresher,TP.HCM,2024-11-27 00:00:00.000000,8000000,15000000,11500000
-290,việclàm24h,Công Ty TNHH Bảo Dưỡng Công Nghệ Toàn Cầu VN,Công nghệ thông tin (tổng quát),Chuyên viên- nhân viên,Cử nhân,Fresher,TP.HCM,2024-12-05 00:00:00.000000,15000000,18000000,16500000
-291,việclàm24h,Công Ty TNHH Thương Mại Dược Phẩm Minh Tín,Chuyên viên hỗ trợ kỹ thuật,Chuyên viên- nhân viên,chứng chỉ,Middle,TP.HCM,2024-12-03 00:00:00.000000,9000000,15000000,12000000
-292,việclàm24h,Công Ty TNHH Vỏ Xe Ô Tô Hải Triều,Kinh doanh,Chuyên viên- nhân viên,,Fresher,TP.HCM,2024-11-25 00:00:00.000000,8000000,10000000,9000000
-293,việclàm24h,Công Ty TNHH MTV Xuất Nhập Khẩu 2-9 Đắk Lắk,Công nghệ thông tin (tổng quát),Chuyên viên- nhân viên,Cử nhân,Middle,Đắk Lắk,2024-11-28 00:00:00.000000,10000000,15000000,12500000
-294,việclàm24h,Công Ty Cổ Phần Aitech,Chuyên viên hỗ trợ kỹ thuật,Chuyên viên- nhân viên,Cử nhân,Fresher,TP.HCM,2024-11-25 00:00:00.000000,8000000,12000000,10000000
-295,việclàm24h,Công Ty Tnhh Một Thành Viên Kỹ Thuật Kinh Doanh Tư Duy Việt,Chuyên viên hỗ trợ kỹ thuật,Chuyên viên- nhân viên,Cử nhân,Junior,TP.HCM,2024-12-06 00:00:00.000000,15000000,25000000,20000000
-296,việclàm24h,Cty TNHH MTV Công Nghiệp Masan,giám sát hành chính,Chuyên viên- nhân viên,Cử nhân,Senior,Bình Dương,2024-12-12 00:00:00.000000,15000000,20000000,17500000
-297,việclàm24h,Công Ty Cổ Phần Tập Đoàn Gia Định,Chuyên viên hỗ trợ kỹ thuật,Chuyên viên- nhân viên,Trung cấp,Fresher,TP.HCM,2024-12-09 00:00:00.000000,10000000,15000000,12500000
-298,việclàm24h,Công Ty TNHH Sản Xuất Và Thương Mại Tổng Hợp Việt My,nhân viên quản lý sàn thương mại điện tử,Chuyên viên- nhân viên,Trung cấp,Middle,TP.HCM,2024-11-27 00:00:00.000000,9000000,15000000,12000000
-299,việclàm24h,Công Ty Cổ Phần Công Nghệ Silicom,Kinh doanh,Chuyên viên- nhân viên,Cử nhân,Fresher,Đà Nẵng,2024-12-02 00:00:00.000000,7000000,10000000,8500000
-300,việclàm24h,Công Ty Cổ Phần Tập Đoàn Đầu Tư Klb,chuyên viên hạ tầng & mạng,Chuyên viên- nhân viên,Cử nhân,Middle,Hà Nội,2024-12-11 00:00:00.000000,12000000,15000000,13500000
-301,việclàm24h,Chi Nhánh Công Ty Cổ Phần Công Nghệ Vars Việt Nam Tại Đà Nẵng,Kinh doanh,Chuyên viên- nhân viên,,Fresher,"Đà Nẵng, Hà Nội, TP.HCM",2024-12-04 00:00:00.000000,7000000,20000000,13500000
-302,việclàm24h,Công Ty Cổ Phần Thương Mại Và Công Nghệ Kỹ Thuật Ecome,Chuyên viên hỗ trợ kỹ thuật,Chuyên viên- nhân viên,Cử nhân,Fresher,Hà Nội,2024-12-12 00:00:00.000000,12000000,17000000,14500000
-303,việclàm24h,Công Ty TNHH NR Global,Kinh doanh,Cộng tác viên,,Fresher,Đà Nẵng,2024-12-04 00:00:00.000000,1000000,2000000,1500000
-304,việclàm24h,CÔNG TY CỔ PHẦN ASOFT,Kinh doanh,Chuyên viên- nhân viên,,Fresher,"Hà Nội, TP.HCM",2024-12-19 00:00:00.000000,8000000,50000000,29000000
-305,việclàm24h,Công Ty TNHH Atcollabo,phiên dịch viên tiếng hàn,Chuyên viên- nhân viên,,Fresher,TP.HCM,2024-11-27 00:00:00.000000,15000000,20000000,17500000
-306,việclàm24h,Công Ty TNHH Coconut Silo Vina,kế toán tổng hợp,Chuyên viên- nhân viên,Cử nhân,Junior,TP.HCM,2024-11-27 00:00:00.000000,14000000,15000000,14500000
-307,việclàm24h,Công Ty Cổ Phần Giải Pháp Chuỗi Cung Ứng Smartlog,Lập trình viên,Chuyên viên- nhân viên,,Fresher,TP.HCM,2024-12-05 00:00:00.000000,15000000,25000000,20000000
-308,việclàm24h,Công Ty Cổ Phần Công Nghệ Oryza Systems,Chuyên viên hỗ trợ kỹ thuật,Chuyên viên- nhân viên,,Fresher,Bình Dương,2024-12-04 00:00:00.000000,8000000,15000000,11500000
-309,việclàm24h,Công Ty TNHH Teeclub,Kinh doanh,Chuyên viên- nhân viên,,Fresher,Hà Nội,2024-12-20 00:00:00.000000,8000000,15000000,11500000
-310,việclàm24h,Công Ty TNHH Teeclub,nhân viên cskh phỏng vấn đi làm sau tết,Chuyên viên- nhân viên,,Fresher,Hà Nội,2024-12-20 00:00:00.000000,7000000,10000000,8500000
-311,việclàm24h,Công Ty TNHH Teeclub,Kinh doanh,Quản lý cấp trung,,Junior,Hà Nội,2024-12-20 00:00:00.000000,15000000,30000000,22500000
-312,việclàm24h,Công Ty TNHH Phát Triển Công Nghệ Minh Hà,Công nghệ thông tin (tổng quát),Chuyên viên- nhân viên,Trung học,Fresher,TP.HCM,2024-12-20 00:00:00.000000,7000000,12000000,9500000
-313,việclàm24h,Chi Nhánh Công Ty TNHH Hoàng Kim Precision,Lập trình viên,Chuyên viên- nhân viên,Cử nhân,Junior,TP.HCM,2024-12-20 00:00:00.000000,15000000,18000000,16500000
-314,việclàm24h,Công Ty TNHH Vietnam Concentrix Services,Nhà phân tích dữ liệu,Quản lý cấp cao,Cử nhân,Junior,TP.HCM,2024-12-20 00:00:00.000000,,,
-315,việclàm24h,Công Ty TNHH World Wave Culture Technology,Lập trình viên,Chuyên viên- nhân viên,,Middle,TP.HCM,2024-12-20 00:00:00.000000,35000000,45000000,40000000
-316,việclàm24h,Công Ty Cổ Phần Viễn Thông FPT,Chuyên viên hỗ trợ kỹ thuật,Chuyên viên- nhân viên,Trung cấp,Fresher,Bắc Ninh,2024-12-20 00:00:00.000000,8000000,13000000,10500000
-317,việclàm24h,Công Ty TNHH MTG Technology,monetization optimizer,Chuyên viên- nhân viên,,Fresher,Hà Nội,2024-12-20 00:00:00.000000,9000000,36000000,22500000
-318,việclàm24h,Công Ty TNHH MTG Technology,Lập trình viên,Chuyên viên- nhân viên,,Fresher,Hà Nội,2024-12-20 00:00:00.000000,10000000,16000000,13000000
-319,việclàm24h,Công Ty TNHH Phát Triển Công Nghệ Minh Hà,Chuyên viên hỗ trợ kỹ thuật,Chuyên viên- nhân viên,Trung học,Fresher,TP.HCM,2024-12-20 00:00:00.000000,7000000,12000000,9500000
-320,việclàm24h,Công Ty CP Đầu Tư Royal Dragon,Chuyên viên hỗ trợ kỹ thuật,Chuyên viên- nhân viên,,Fresher,TP.HCM,2024-12-20 00:00:00.000000,7000000,10000000,8500000
-321,việclàm24h,Công Ty TNHH Tiếp Vận Winway,Kinh doanh,Chuyên viên- nhân viên,,Fresher,TP.HCM,2024-12-20 00:00:00.000000,8000000,20000000,14000000
-322,việclàm24h,CÔNG TY TNHH KỸ THUẬT STARFISH VN,Kinh doanh,Chuyên viên- nhân viên,Trung cấp,Junior,Hà Nội,2024-12-19 00:00:00.000000,8000000,25000000,16500000
-323,việclàm24h,CÔNG TY TNHH KỸ THUẬT STARFISH VN,Kinh doanh,Quản lý cấp trung,Cử nhân,Middle,"TP.HCM, Hà Nội",2024-12-19 00:00:00.000000,15000000,50000000,32500000
-324,việclàm24h,CÔNG TY TNHH KỸ THUẬT STARFISH VN,nhân viên hỗ trợ dịch vụ khách hàng - tại quận 10 (đi làm ngay),Chuyên viên- nhân viên,Trung cấp,Junior,TP.HCM,2024-12-19 00:00:00.000000,8000000,12000000,10000000
-325,việclàm24h,CÔNG TY TNHH KỸ THUẬT STARFISH VN,nhân viên mua hàng (quận 10),Quản lý nhóm- giám sát,Cử nhân,Middle,TP.HCM,2024-12-19 00:00:00.000000,10000000,20000000,15000000
-326,việclàm24h,CÔNG TY TNHH KỸ THUẬT STARFISH VN,Kinh doanh,Chuyên viên- nhân viên,Trung cấp,Fresher,"Hà Nội, TP.HCM",2024-12-19 00:00:00.000000,7000000,15000000,11000000
-327,việclàm24h,Công Ty Cổ Phần Dịch Vụ Và Giải Pháp Xử Lý Dữ Liệu Vbee,Kinh doanh,Chuyên viên- nhân viên,,Junior,Hà Nội,2024-12-19 00:00:00.000000,12000000,14000000,13000000
-328,việclàm24h,Công Ty TNHH Thiết Bị Issac,Chuyên viên hỗ trợ kỹ thuật,Chuyên viên- nhân viên,,Fresher,Hà Nội,2024-12-19 00:00:00.000000,7000000,12000000,9500000
-329,việclàm24h,Công Ty TNHH Thiết Bị Issac,Chuyên viên hỗ trợ kỹ thuật,Chuyên viên- nhân viên,,Fresher,Hà Nội,2024-12-19 00:00:00.000000,9000000,13000000,11000000
-330,việclàm24h,Công Ty TNHH Thiết Bị Issac,Chuyên viên hỗ trợ kỹ thuật,Chuyên viên- nhân viên,,Fresher,Hà Nội,2024-12-19 00:00:00.000000,9000000,13000000,11000000
-331,việclàm24h,Công Ty TNHH Thiết Bị Issac,Chuyên viên hỗ trợ kỹ thuật,Chuyên viên- nhân viên,,Fresher,Hà Nội,2024-12-19 00:00:00.000000,9000000,13000000,11000000
-332,việclàm24h,Công Ty TNHH Thiết Bị Issac,kỹ thuật điện tại hà nội- đi làm ngay,Chuyên viên- nhân viên,,Fresher,Hà Nội,2024-12-19 00:00:00.000000,9000000,13000000,11000000
+278,việclàm24h,Công Ty TNHH Thương Mại Và Dịch Vụ Vi Tính Võ Minh,Kinh doanh,Chuyên viên- nhân viên,,Fresher,TP.HCM,2024-12-23 00:00:00.000000,8000000,12000000,10000000
+279,việclàm24h,Công Ty CP Dịch Vụ Kim My,giáo viên tiêng tbn,Chuyên viên- nhân viên,,Fresher,Nước ngoài,2024-12-21 00:00:00.000000,1000000,2000000,1500000
+280,việclàm24h,Công Ty Cổ Phần Dinh Dưỡng Quốc Tế CNC,Kinh doanh,Chuyên viên- nhân viên,,Fresher,Hải Dương,2024-12-17 00:00:00.000000,10000000,20000000,15000000
+281,việclàm24h,Công Ty Cổ Phần Kỹ Thuật Hoàng Thịnh,Kinh doanh,Chuyên viên- nhân viên,,Junior,TP.HCM,2024-12-07 00:00:00.000000,10000000,18000000,14000000
+282,việclàm24h,Công Ty Cổ Phần Công Nghệ Giáo Dục Edtexco,Kinh doanh,Chuyên viên- nhân viên,Cử nhân,Fresher,Hà Nội,2024-12-14 00:00:00.000000,8000000,20000000,14000000
+283,việclàm24h,Công Ty TNHH SX TM Đồ Gỗ Nghĩa Sơn,Kinh doanh,Chuyên viên- nhân viên,,Fresher,Đồng Nai,2024-11-30 00:00:00.000000,10000000,25000000,17500000
+284,việclàm24h,Công Ty TNHH Polytex Far Eastern (Việt Nam),Nhà phát triển phần mềm,Chuyên viên- nhân viên,Cử nhân,Middle,TP.HCM,2024-12-19 00:00:00.000000,13000000,18000000,15500000
+285,việclàm24h,Công Ty Cổ Phần Thương Mại Và Dịch Vụ Thành Phố Mới,Chuyên viên hỗ trợ kỹ thuật,Chuyên viên- nhân viên,,Fresher,Bình Dương,2024-12-10 00:00:00.000000,10000000,15000000,12500000
+286,việclàm24h,Trường Cao Đẳng Công Thương Việt Nam,Công nghệ thông tin (tổng quát),Quản lý cấp cao,Cử nhân,Fresher,TP.HCM,2024-12-20 00:00:00.000000,,,
+287,việclàm24h,Công Ty Cổ Phần Đầu Tư Pitc,Chuyên viên hỗ trợ kỹ thuật,Chuyên viên- nhân viên,,Fresher,"TP.HCM, Đà Nẵng, Thừa Thiên Huế, +2",2024-11-29 00:00:00.000000,8000000,15000000,11500000
+288,việclàm24h,Công Ty TNHH Danu Vina,Chuyên viên hỗ trợ kỹ thuật,Chuyên viên- nhân viên,,Fresher,TP.HCM,2024-12-11 00:00:00.000000,7000000,12000000,9500000
+289,việclàm24h,Công Ty TNHH Bảo Dưỡng Công Nghệ Toàn Cầu VN,Công nghệ thông tin (tổng quát),Chuyên viên- nhân viên,Cử nhân,Fresher,TP.HCM,2024-12-05 00:00:00.000000,15000000,18000000,16500000
+290,việclàm24h,Trung Tâm Hạ Tầng Idc - Chi Nhánh Công Ty Công Nghệ Thông Tin Vnpt,Quản trị viên hệ thống,Chuyên viên- nhân viên,Cử nhân,Fresher,TP.HCM,2024-11-29 00:00:00.000000,15000000,35000000,25000000
+291,việclàm24h,Công Ty Cổ Phần Gplus Furniture,Công nghệ thông tin (tổng quát),Chuyên viên- nhân viên,,Fresher,TP.HCM,2024-11-27 00:00:00.000000,8000000,15000000,11500000
+292,việclàm24h,Công Ty Cổ Phần Viễn Thông Fpt,kỹ thuật viên viễn thông,Chuyên viên- nhân viên,,Fresher,"Kiên Giang, An Giang, TP.HCM, +2",2024-12-05 00:00:00.000000,8000000,15000000,11500000
+293,việclàm24h,Công Ty TNHH Thương Mại Dược Phẩm Minh Tín,Chuyên viên hỗ trợ kỹ thuật,Chuyên viên- nhân viên,chứng chỉ,Middle,TP.HCM,2024-12-03 00:00:00.000000,9000000,15000000,12000000
+294,việclàm24h,Công ty TNHH Trường Quốc Tế Dạy Bằng Tiếng Anh,Chuyên viên hỗ trợ kỹ thuật,Chuyên viên- nhân viên,,Junior,TP.HCM,2024-12-10 00:00:00.000000,10000000,15000000,12500000
+295,việclàm24h,Công Ty TNHH MTV Xuất Nhập Khẩu 2-9 Đắk Lắk,Công nghệ thông tin (tổng quát),Chuyên viên- nhân viên,Cử nhân,Middle,Đắk Lắk,2024-11-28 00:00:00.000000,10000000,15000000,12500000
+296,việclàm24h,Công Ty TNHH Công Nghệ Akas,Chuyên viên hỗ trợ kỹ thuật,Chuyên viên- nhân viên,Trung cấp,Junior,TP.HCM,2024-12-14 00:00:00.000000,8000000,10000000,9000000
+297,việclàm24h,Công Ty Tnhh Một Thành Viên Kỹ Thuật Kinh Doanh Tư Duy Việt,Chuyên viên hỗ trợ kỹ thuật,Chuyên viên- nhân viên,Cử nhân,Junior,TP.HCM,2024-12-06 00:00:00.000000,15000000,25000000,20000000
+298,việclàm24h,Công Ty TNHH SX & TM Tân Quang Minh,Chuyên viên hỗ trợ kỹ thuật,Chuyên viên- nhân viên,,Middle,TP.HCM,2024-12-09 00:00:00.000000,12000000,15000000,13500000
+299,việclàm24h,Cty TNHH MTV Công Nghiệp Masan,giám sát hành chính,Chuyên viên- nhân viên,Cử nhân,Senior,Bình Dương,2024-12-12 00:00:00.000000,15000000,20000000,17500000
+300,việclàm24h,Công Ty TNHH Sản Xuất Và Thương Mại Tổng Hợp Việt My,nhân viên quản lý sàn thương mại điện tử,Chuyên viên- nhân viên,Trung cấp,Middle,TP.HCM,2024-11-27 00:00:00.000000,9000000,15000000,12000000
+301,việclàm24h,Công Ty Cổ Phần Công Nghệ Silicom,Kinh doanh,Chuyên viên- nhân viên,Cử nhân,Fresher,Đà Nẵng,2024-12-02 00:00:00.000000,7000000,10000000,8500000
+302,việclàm24h,Công Ty Cổ Phần Đầu Tư Và Công Nghệ Bavaan,Lập trình viên,Cộng tác viên,Cử nhân,Fresher,Hà Nội,2024-12-16 00:00:00.000000,1000000,3000000,2000000
+303,việclàm24h,Công Ty Cổ Phần Thương Mại Và Công Nghệ Kỹ Thuật Ecome,Chuyên viên hỗ trợ kỹ thuật,Chuyên viên- nhân viên,Cử nhân,Fresher,Hà Nội,2024-12-12 00:00:00.000000,12000000,17000000,14500000
+304,việclàm24h,Công Ty Cổ Phần Tập Đoàn Đầu Tư Klb,chuyên viên hạ tầng & mạng,Chuyên viên- nhân viên,Cử nhân,Middle,Hà Nội,2024-12-11 00:00:00.000000,12000000,15000000,13500000
+305,việclàm24h,Chi Nhánh Công Ty Cổ Phần Công Nghệ Vars Việt Nam Tại Đà Nẵng,Kinh doanh,Chuyên viên- nhân viên,,Fresher,"Đà Nẵng, Hà Nội, TP.HCM",2024-12-04 00:00:00.000000,7000000,20000000,13500000
+306,việclàm24h,Công Ty TNHH Atcollabo,phiên dịch viên tiếng hàn,Chuyên viên- nhân viên,,Fresher,TP.HCM,2024-11-27 00:00:00.000000,15000000,20000000,17500000
+307,việclàm24h,Công Ty Cổ Phần Công Nghệ Oryza Systems,Chuyên viên hỗ trợ kỹ thuật,Chuyên viên- nhân viên,,Fresher,Bình Dương,2024-12-04 00:00:00.000000,8000000,15000000,11500000
+308,việclàm24h,Công Ty Cổ Phần Công Nghệ Savis,Kinh doanh,Chuyên viên- nhân viên,,Fresher,Hà Nội,2024-12-02 00:00:00.000000,10000000,18000000,14000000
+309,việclàm24h,Công Ty TNHH TM Và DV Tin Học Anh Phương,Chuyên viên hỗ trợ kỹ thuật,Chuyên viên- nhân viên,Trung cấp,Fresher,TP.HCM,2024-12-24 00:00:00.000000,8000000,12000000,10000000
+310,việclàm24h,Công Ty TNHH Phát Triển Công Nghệ Minh Hà,Chuyên viên hỗ trợ kỹ thuật,Chuyên viên- nhân viên,Trung học,Fresher,TP.HCM,2024-12-24 00:00:00.000000,7000000,12000000,9500000
+311,việclàm24h,Công Ty TNHH Ezyremit Worldwide,nhân viên vận hành - operator,Chuyên viên- nhân viên,Cử nhân,Fresher,TP.HCM,2024-12-23 00:00:00.000000,10000000,12000000,11000000
+312,việclàm24h,Công Ty Cổ Phần Masan Meatlife,Kinh doanh,Chuyên viên- nhân viên,,Junior,TP.HCM,2024-12-23 00:00:00.000000,18000000,30000000,24000000
+313,việclàm24h,Chi Nhánh Công Ty Cổ Phần Thương Mại Dịch Vụ Xuất Nhập Khẩu Hpt Việt Nam Tại Hà Nội,quản lý dự án,Chuyên viên- nhân viên,,Junior,TP.HCM,2024-12-23 00:00:00.000000,15000000,25000000,20000000
+314,việclàm24h,Công Ty Cổ Phần Thương Mại Dạ Hợp,Công nghệ thông tin (tổng quát),Quản lý cấp trung,,Middle,"Hòa Bình, Hà Nội",2024-12-23 00:00:00.000000,35000000,40000000,37500000
+315,việclàm24h,Công Ty Cổ Phần Dayone Asia,Nhà phân tích dữ liệu,Chuyên viên- nhân viên,,Middle,TP.HCM,2024-12-23 00:00:00.000000,15000000,20000000,17500000
+316,việclàm24h,Công Ty Cổ Phần Dayone Asia,Chuyên viên hỗ trợ kỹ thuật,Chuyên viên- nhân viên,,Middle,TP.HCM,2024-12-23 00:00:00.000000,15000000,20000000,17500000
+317,việclàm24h,Công Ty Cổ Phần Xây Dựng D&c,nhân viên scan - không yêu cầu kinh nghiệm,Chuyên viên- nhân viên,,Fresher,Hà Tĩnh,2024-12-23 00:00:00.000000,6000000,8000000,7000000
+318,việclàm24h,Công Ty TNHH Công Nghệ Xiaoxiang Thành Phố Hồ Chí Minh,nhân viên sàn thương mại điện tử,Chuyên viên- nhân viên,,Fresher,TP.HCM,2024-12-23 00:00:00.000000,12000000,20000000,16000000
+319,việclàm24h,Công Ty TNHH Phát Triển Công Nghệ Minh Hà,Công nghệ thông tin (tổng quát),Chuyên viên- nhân viên,Trung học,Fresher,TP.HCM,2024-12-23 00:00:00.000000,7000000,12000000,9500000
+320,việclàm24h,Công Ty Cổ Phần Gplus Furniture,nhân viên chỉnh sửa video,Chuyên viên- nhân viên,,Fresher,TP.HCM,2024-12-23 00:00:00.000000,8000000,15000000,11500000
+321,việclàm24h,Công Ty TNHH Cocreation Grass Corporation Việt Nam,Công nghệ thông tin (tổng quát),Chuyên viên- nhân viên,,Fresher,Tây Ninh,2024-12-23 00:00:00.000000,9000000,12000000,10500000
+322,việclàm24h,Công Ty TNHH Bmo Int,Lập trình viên,Chuyên viên- nhân viên,,Middle,TP.HCM,2024-12-23 00:00:00.000000,15000000,25000000,20000000
+323,việclàm24h,Công Ty TNHH Bmo Int,Lập trình viên,Chuyên viên- nhân viên,,Middle,TP.HCM,2024-12-23 00:00:00.000000,15000000,25000000,20000000
+324,việclàm24h,Công Ty TNHH Thương Mại Và Vận Tải Phương Anh,Công nghệ thông tin (tổng quát),Chuyên viên- nhân viên,,Junior,Hà Nội,2024-12-23 00:00:00.000000,11000000,15000000,13000000
+325,việclàm24h,Công Ty TNHH Tin Học Và Thương Mại Hùng Phát,Công nghệ thông tin (tổng quát),Chuyên viên- nhân viên,chứng chỉ,Fresher,Hà Nam,2024-12-21 00:00:00.000000,7000000,10000000,8500000
+326,việclàm24h,Chi Nhánh 5 - Công Ty TNHH Truyền Hình Cáp Saigontourist,kỹ thuật viên,Chuyên viên- nhân viên,Trung cấp,Fresher,TP.HCM,2024-12-21 00:00:00.000000,7000000,10000000,8500000
+327,việclàm24h,Công Ty TNHH Pronics Precision,Kinh doanh,Chuyên viên- nhân viên,,Fresher,Long An,2024-12-21 00:00:00.000000,8000000,15000000,11500000
+328,việclàm24h,Công Ty TNHH Teeclub,Kinh doanh,Chuyên viên- nhân viên,,Fresher,Hà Nội,2024-12-20 00:00:00.000000,8000000,15000000,11500000
+329,việclàm24h,Công Ty TNHH Teeclub,nhân viên cskh phỏng vấn đi làm sau tết,Chuyên viên- nhân viên,,Fresher,Hà Nội,2024-12-20 00:00:00.000000,7000000,10000000,8500000
+330,việclàm24h,Công Ty TNHH Teeclub,Kinh doanh,Quản lý cấp trung,,Junior,Hà Nội,2024-12-20 00:00:00.000000,15000000,30000000,22500000
+331,việclàm24h,Công Ty TNHH Phát Triển Công Nghệ Minh Hà,Công nghệ thông tin (tổng quát),Chuyên viên- nhân viên,Trung học,Fresher,TP.HCM,2024-12-20 00:00:00.000000,7000000,12000000,9500000
+332,việclàm24h,Chi Nhánh Công Ty TNHH Hoàng Kim Precision,Lập trình viên,Chuyên viên- nhân viên,Cử nhân,Junior,TP.HCM,2024-12-20 00:00:00.000000,15000000,18000000,16500000
+333,việclàm24h,Công Ty TNHH Vietnam Concentrix Services,Nhà phân tích dữ liệu,Quản lý cấp cao,Cử nhân,Junior,TP.HCM,2024-12-20 00:00:00.000000,,,
+334,việclàm24h,Công Ty TNHH World Wave Culture Technology,Lập trình viên,Chuyên viên- nhân viên,,Middle,TP.HCM,2024-12-20 00:00:00.000000,35000000,45000000,40000000
+335,việclàm24h,Công Ty Cổ Phần Viễn Thông FPT,Chuyên viên hỗ trợ kỹ thuật,Chuyên viên- nhân viên,Trung cấp,Fresher,Bắc Ninh,2024-12-20 00:00:00.000000,8000000,13000000,10500000
+336,việclàm24h,Công Ty TNHH MTG Technology,nhân viên monetization optimizer,Chuyên viên- nhân viên,,Fresher,Hà Nội,2024-12-20 00:00:00.000000,9000000,36000000,22500000
+337,việclàm24h,Công Ty Cổ Phần Viễn Thông FPT,Kinh doanh,Chuyên viên- nhân viên,,Fresher,Bắc Ninh,2024-12-20 00:00:00.000000,8000000,20000000,14000000
+338,việclàm24h,Công Ty TNHH MTG Technology,Lập trình viên,Chuyên viên- nhân viên,,Fresher,Hà Nội,2024-12-20 00:00:00.000000,10000000,16000000,13000000
+339,việclàm24h,Công Ty TNHH Phát Triển Công Nghệ Minh Hà,Chuyên viên hỗ trợ kỹ thuật,Chuyên viên- nhân viên,Trung học,Fresher,TP.HCM,2024-12-20 00:00:00.000000,7000000,12000000,9500000
+340,việclàm24h,Công Ty CP Đầu Tư Royal Dragon,Chuyên viên hỗ trợ kỹ thuật,Chuyên viên- nhân viên,,Fresher,TP.HCM,2024-12-20 00:00:00.000000,7000000,10000000,8500000
+341,việclàm24h,Công Ty TNHH Tiếp Vận Winway,Kinh doanh,Chuyên viên- nhân viên,,Fresher,TP.HCM,2024-12-20 00:00:00.000000,8000000,20000000,14000000
+342,việclàm24h,CÔNG TY TNHH KỸ THUẬT STARFISH VN,Kinh doanh,Chuyên viên- nhân viên,Trung cấp,Junior,Hà Nội,2024-12-19 00:00:00.000000,8000000,25000000,16500000
+343,việclàm24h,CÔNG TY TNHH KỸ THUẬT STARFISH VN,nhân viên mua hàng (quận 10),Quản lý nhóm- giám sát,Cử nhân,Middle,TP.HCM,2024-12-19 00:00:00.000000,10000000,20000000,15000000
+344,việclàm24h,CÔNG TY TNHH KỸ THUẬT STARFISH VN,Kinh doanh,Chuyên viên- nhân viên,Trung cấp,Fresher,"Hà Nội, TP.HCM",2024-12-19 00:00:00.000000,7000000,15000000,11000000
+345,việclàm24h,Công Ty Cổ Phần Dịch Vụ Và Giải Pháp Xử Lý Dữ Liệu Vbee,Kinh doanh,Chuyên viên- nhân viên,,Junior,Hà Nội,2024-12-19 00:00:00.000000,12000000,14000000,13000000
+346,việclàm24h,Công Ty TNHH Thiết Bị Issac,Chuyên viên hỗ trợ kỹ thuật,Chuyên viên- nhân viên,,Fresher,Hà Nội,2024-12-19 00:00:00.000000,7000000,12000000,9500000
+347,việclàm24h,Công Ty TNHH Thiết Bị Issac,Chuyên viên hỗ trợ kỹ thuật,Chuyên viên- nhân viên,,Fresher,Hà Nội,2024-12-19 00:00:00.000000,9000000,13000000,11000000
+348,việclàm24h,Công Ty TNHH Thiết Bị Issac,Chuyên viên hỗ trợ kỹ thuật,Chuyên viên- nhân viên,,Fresher,Hà Nội,2024-12-19 00:00:00.000000,9000000,13000000,11000000
+349,việclàm24h,Công Ty TNHH Thiết Bị Issac,Chuyên viên hỗ trợ kỹ thuật,Chuyên viên- nhân viên,,Fresher,Hà Nội,2024-12-19 00:00:00.000000,9000000,13000000,11000000
+350,việclàm24h,Công Ty TNHH Thiết Bị Issac,kỹ thuật điện tại hà nội- đi làm ngay,Chuyên viên- nhân viên,,Fresher,Hà Nội,2024-12-19 00:00:00.000000,9000000,13000000,11000000
+351,việclàm24h,Công Ty TNHH Cocreation Grass Corporation Việt Nam,Công nghệ thông tin (tổng quát),Chuyên viên- nhân viên,,Fresher,Tây Ninh,2024-12-19 00:00:00.000000,9000000,12000000,10500000
+352,việclàm24h,Công Ty Cổ Phần Công Nghệ Cao Ctech,Lập trình viên,Chuyên viên- nhân viên,,Junior,Hà Nội,2024-12-19 00:00:00.000000,15000000,20000000,17500000
+353,việclàm24h,Công Ty TNHH Thương Mại Và Dịch Vụ Nina,Chuyên viên tư vấn CNTT,Chuyên viên- nhân viên,,Fresher,TP.HCM,2024-12-19 00:00:00.000000,7000000,15000000,11000000
+354,việclàm24h,Công Ty Cổ Phần Be Group,driver engagement team leader,Quản lý nhóm- giám sát,,Middle,TP.HCM,2024-12-19 00:00:00.000000,19000000,23000000,21000000
+355,việclàm24h,Công Ty TNHH Laforce Việt Nam,Kinh doanh,Chuyên viên- nhân viên,,Fresher,Hà Nội,2024-12-19 00:00:00.000000,9000000,15000000,12000000
+356,việclàm24h,Công Ty TNHH Công Nghệ Và Thương Mại Lifesup,thực tập sinh quản lý dự án (intern account),Chuyên viên- nhân viên,,Fresher,Hà Nội,2024-12-18 00:00:00.000000,3000000,5000000,4000000
+357,việclàm24h,Công Ty Tnhh Techcraft,manual qc (junior),Chuyên viên- nhân viên,,Junior,TP.HCM,2024-12-18 00:00:00.000000,20000000,25000000,22500000
+358,việclàm24h,Công Ty TNHH Thương Mại Và Dịch Vụ Vi Tính Võ Minh,Kinh doanh,Chuyên viên- nhân viên,,Fresher,TP.HCM,2024-12-18 00:00:00.000000,8000000,10000000,9000000
+359,việclàm24h,Công Ty Cổ Phần Công Nghệ Consortio Việt Nam,trưởng phòng kỹ thuật voip / sip trunk,Quản lý cấp trung,Cử nhân,Senior,Hà Nội,2024-12-18 00:00:00.000000,25000000,42000000,33500000
+360,việclàm24h,Công Ty TNHH Gia Hòa,Công nghệ thông tin (tổng quát),Chuyên viên- nhân viên,Cử nhân,Middle,Bình Thuận,2024-12-18 00:00:00.000000,12000000,30000000,21000000
+361,việclàm24h,Công Ty Tnhh Eup Solution,Kinh doanh,Chuyên viên- nhân viên,,Junior,Hà Nội,2024-12-18 00:00:00.000000,15000000,25000000,20000000
+362,việclàm24h,Công Ty Cổ Phần Kỹ Thuật Hoàng Thịnh,Kinh doanh,Chuyên viên- nhân viên,Cử nhân,Fresher,TP.HCM,2024-12-18 00:00:00.000000,10000000,18000000,14000000
+363,việclàm24h,Công Ty TNHH Stickley International,Lập trình viên,Chuyên viên- nhân viên,,Middle,Bình Dương,2024-12-18 00:00:00.000000,20000000,30000000,25000000
+364,việclàm24h,Minh Anh Technology,Chuyên viên hỗ trợ kỹ thuật,Chuyên viên- nhân viên,,Fresher,TP.HCM,2024-12-18 00:00:00.000000,7000000,15000000,11000000
+365,việclàm24h,Công Ty TNHH Phát Triển Công Nghệ Minh Hà,Chuyên viên hỗ trợ kỹ thuật,Chuyên viên- nhân viên,Trung học,Fresher,TP.HCM,2024-12-18 00:00:00.000000,7000000,12000000,9500000
+366,việclàm24h,Công Ty Cổ Phần Viễn Thông FPT,kỹ thuật viên triển khai bảo trì viễn thông,Chuyên viên- nhân viên,Trung cấp,Fresher,TP.HCM,2024-12-17 00:00:00.000000,8000000,20000000,14000000
+367,việclàm24h,Công Ty TNHH Phát Triển Công Nghệ Minh Hà,Chuyên viên hỗ trợ kỹ thuật,Chuyên viên- nhân viên,Trung học,Fresher,TP.HCM,2024-12-17 00:00:00.000000,7000000,12000000,9500000
+368,việclàm24h,Công Ty Cổ Phần Giải Pháp Công Nghệ Thế Giới Số,Kinh doanh,Chuyên viên- nhân viên,,Fresher,TP.HCM,2024-12-17 00:00:00.000000,6000000,40000000,23000000
+369,việclàm24h,Haposoft,Kỹ sư kiểm thử phần mềm,Chuyên viên- nhân viên,,Fresher,Hà Nội,2024-12-17 00:00:00.000000,10000000,20000000,15000000
+370,việclàm24h,Công Ty TNHH Công Nghệ Dana Smart,Chuyên viên hỗ trợ kỹ thuật,Chuyên viên- nhân viên,,Fresher,Đà Nẵng,2024-12-17 00:00:00.000000,7000000,10000000,8500000
+371,việclàm24h,Công Ty TNHH Thiết Bị Minh Tâm,Kỹ sư kiểm thử phần mềm,Chuyên viên- nhân viên,,Junior,Hà Nội,2024-12-17 00:00:00.000000,15000000,18000000,16500000
+372,việclàm24h,Công Ty TNHH Transcosmos Việt Nam,Kinh doanh,Chuyên gia,Cử nhân,Junior,TP.HCM,2024-12-17 00:00:00.000000,25000000,30000000,27500000
+373,việclàm24h,Công Ty TNHH Transcosmos Việt Nam,Kinh doanh,Chuyên gia,Cử nhân,Junior,TP.HCM,2024-12-17 00:00:00.000000,25000000,30000000,27500000
+374,việclàm24h,Công Ty TNHH Itpl Việt Nam,Lập trình viên,Chuyên viên- nhân viên,Cử nhân,Junior,Đà Nẵng,2024-12-17 00:00:00.000000,12000000,24000000,18000000
+375,việclàm24h,Công Ty Cổ Phần Công Nghệ Và Giải Pháp Y Tế,Lập trình viên,Chuyên viên- nhân viên,,Fresher,Hà Nội,2024-12-17 00:00:00.000000,12000000,25000000,18500000
+376,việclàm24h,Công Ty TNHH Electronic Tripod Việt Nam (Châu Đức),giám sát viên it (phần mềm và phần cứng),Quản lý nhóm- giám sát,Cử nhân,Junior,Bà Rịa - Vũng Tàu,2024-12-17 00:00:00.000000,25000000,30000000,27500000
+377,việclàm24h,Công Ty TNHH Favolist5 Asia,Kinh doanh,Quản lý nhóm- giám sát,,Senior,TP.HCM,2024-12-17 00:00:00.000000,50000000,55000000,52500000
+378,việclàm24h,Công Ty Cổ Phần Viễn Thông FPT,Chuyên viên hỗ trợ kỹ thuật,Chuyên viên- nhân viên,Trung cấp,Fresher,TP.HCM,2024-12-16 00:00:00.000000,10000000,20000000,15000000
+379,việclàm24h,Công Ty TNHH Vietnam Concentrix Services,Lập trình viên,Chuyên viên- nhân viên,Cử nhân,Middle,TP.HCM,2024-12-16 00:00:00.000000,15000000,20000000,17500000
+380,việclàm24h,Công Ty TNHH Thương Mại Dịch Vụ Và Công Nghệ Anninh365,Chuyên viên hỗ trợ kỹ thuật,Chuyên viên- nhân viên,Trung học,Fresher,Hà Nội,2024-12-16 00:00:00.000000,10000000,20000000,15000000
+381,việclàm24h,Công Ty Cổ Phần Viễn Thông FPT,Lập trình viên,Chuyên viên- nhân viên,Cử nhân,Middle,TP.HCM,2024-12-16 00:00:00.000000,20000000,40000000,30000000
+382,việclàm24h,Công Ty Cổ Phần Giải Pháp Ngọn Sóng Mới,Kỹ sư học máy,Chuyên viên- nhân viên,,Fresher,Hà Nội,2024-12-16 00:00:00.000000,13000000,20000000,16500000
+383,việclàm24h,Công Ty TNHH Cocreation Grass Corporation Việt Nam,Công nghệ thông tin (tổng quát),Chuyên viên- nhân viên,Cử nhân,Fresher,Tây Ninh,2024-12-16 00:00:00.000000,9000000,12000000,10500000
+384,việclàm24h,Công Ty Cổ Phần Viễn Thông FPT,kỹ thuật viên (hóc môn) - nhận việc sau tết,Chuyên viên- nhân viên,Trung cấp,Fresher,TP.HCM,2024-12-16 00:00:00.000000,10000000,15000000,12500000
+385,việclàm24h,Công Ty Cổ Phần Viễn Thông FPT,Chuyên viên hỗ trợ kỹ thuật,Chuyên viên- nhân viên,Trung cấp,Fresher,Tây Ninh,2024-12-16 00:00:00.000000,9000000,15000000,12000000
+386,việclàm24h,Công Ty Cổ Phần Công Nghệ Physcode,Kinh doanh,Chuyên viên- nhân viên,Cử nhân,Fresher,Hà Nội,2024-12-16 00:00:00.000000,8000000,12000000,10000000
+387,việclàm24h,Công Ty TNHH Tin Học Viễn Thông Đăng Hậu,Chuyên viên hỗ trợ kỹ thuật,Chuyên viên- nhân viên,,Fresher,Khánh Hòa,2024-12-15 00:00:00.000000,5000000,10000000,7500000
+388,việclàm24h,Công Ty TNHH Tích Hợp Hệ Thống Nht,kỹ sư giám sát hiện trường - tp phú quốc (lĩnh vực điện nhẹ),Chuyên viên- nhân viên,Cử nhân,Fresher,Kiên Giang,2024-12-14 00:00:00.000000,12000000,18000000,15000000
+389,việclàm24h,Công Ty TNHH Tích Hợp Hệ Thống Nht,kỹ sư giám sát hiện trường - đà nẵng (lĩnh vực điện nhẹ),Chuyên viên- nhân viên,Cử nhân,Fresher,Đà Nẵng,2024-12-14 00:00:00.000000,8000000,12000000,10000000
+390,việclàm24h,Công Ty TNHH Điện Tử Streamax (Việt Nam),Kỹ sư trí tuệ nhân tạo,Chuyên viên- nhân viên,,Middle,Bắc Ninh,2024-12-14 00:00:00.000000,15000000,25000000,20000000
+391,việclàm24h,Công Ty TNHH Điện Tử Streamax (Việt Nam),Kỹ sư phần mềm,Chuyên viên- nhân viên,,Middle,Bắc Ninh,2024-12-14 00:00:00.000000,15000000,30000000,22500000
+392,việclàm24h,Công Ty TNHH Điện Tử Streamax (Việt Nam),kỹ sư te ict&fct,Chuyên viên- nhân viên,,Middle,Bắc Ninh,2024-12-14 00:00:00.000000,25000000,35000000,30000000
+393,việclàm24h,Công Ty Cổ Phần Viễn Thông FPT,Chuyên viên hỗ trợ kỹ thuật,Chuyên viên- nhân viên,,Fresher,Cà Mau,2024-12-14 00:00:00.000000,10000000,15000000,12500000
+394,việclàm24h,Công Ty TNHH Công Nghệ Viet Star,Chuyên viên hỗ trợ kỹ thuật,Chuyên viên- nhân viên,Trung cấp,Fresher,Hà Nội,2024-12-13 00:00:00.000000,7000000,20000000,13500000
+395,việclàm24h,Công Ty Cổ Phần Tập Đoàn Techhub,Nhà thiết kế đồ họa,Cộng tác viên,,Fresher,Hà Nội,2024-12-13 00:00:00.000000,3000000,10000000,6500000
+396,việclàm24h,Công Ty Cổ Phần A.R.T,Chuyên viên hỗ trợ kỹ thuật,Chuyên viên- nhân viên,Cử nhân,Fresher,Hà Nội,2024-12-13 00:00:00.000000,7000000,11000000,9000000
+397,việclàm24h,Thanh Mai Digital,kỹ thuật viên laptop và máy ảnh,Chuyên viên- nhân viên,,Fresher,TP.HCM,2024-12-13 00:00:00.000000,7000000,20000000,13500000
+398,việclàm24h,Công Ty CP Chứng Khoán Fpt,Kỹ sư cơ sở dữ liệu,Chuyên viên- nhân viên,,Fresher,Hà Nội,2024-12-13 00:00:00.000000,10000000,20000000,15000000
+399,việclàm24h,Công Ty CP Chứng Khoán Fpt,Lập trình viên,Chuyên viên- nhân viên,,Middle,Hà Nội,2024-12-13 00:00:00.000000,10000000,20000000,15000000
