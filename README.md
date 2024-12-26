@@ -1,2 +1,63 @@
-# Final-Project-Data-Science
-Nhóm 18: 20120438-Đào Văn Cảnh 20120409-Trần Thanh Tùng 20120145-Đường Yến Ngọc 21120441-Dương Huỳnh Anh Duy
+# Introduction to Data Science - CQ2022/21<br>Analyze and anticipate recruitment trends in the IT industry<br>Group 18
+
+---
+
+## Group information
+|**ID**  |**Name**           |**Task**                                            |**Contribution**|
+|--------|:-----------------:|----------------------------------------------------|:--------------:|
+|20120145|Đường Yến Ngọc     |                                                    |25%             |
+|20120409|Trần Thanh Tùng    |                                                    |25%             |
+|20120438|Đào Văn Cảnh       |                                                    |25%             |
+|21120441|Dương Huỳnh Anh Duy|Leader<br>Collect data from job application websites|25%             |
+
+---
+
+## Overview
+
+---
+
+## Dataset Information
+
+- **Number of Records**: 888
+- **Number of Features**: 12  
+- **File Format**: CSV  
+
+---
+
+## Column Descriptions
+
+| **Attribute**        | **Description**                                   |
+|----------------------|---------------------------------------------------|
+| `STT`                | Index.                                            |
+| `Trang thu thập`     | Name of the site from which the work is collected.|
+| `Tên công ty`        | Name of the company that posted the job           |
+| `Tên công việc`      | Name of the job.                                  |
+| `Vị trí ứng tuyển`   | Position applied for.                             |
+| `Yêu cầu bằng cấp`   | Degree required (If any).                         |
+| `Yêu cầu kinh nghiệm`| Experience required (If any).                     |
+| `Địa điểm`           | Work location.                                    |
+| `Ngày đăng tuyển`    | Date of posting.                                  |
+| `Lương tối thiểu`    | Minimum salary.                                   |
+| `Lương tối đa`       | Maximum salary.                                   |
+| `Lương TB`           | Average salary.                                   |
+
+
+---
+
+## Applications
+
+This dataset can be used for:
+
+---
+
+## Acknowledgments
+This dataset aims to aid researchers, educators, and data enthusiasts in understanding and analyzing factors that contribute to academic success. Please ensure proper attribution if used for research or publication. 
+
+--- 
+
+### License
+This dataset was collected lawfully and ethically for academic research purposes by group member. It may be used for non-commercial research, teaching, and learning. The user agrees to:
+- Cite the original source of the data in any publications or presentations that use this dataset.
+- Not modify the dataset in any way without prior written permission.
+- Not distribute this dataset or any derivative works without the explicit permission of the data owner.
+- Use this dataset in a manner that complies with all applicable laws and regulations.
