@@ -5,9 +5,9 @@
 ## Group information
 |**ID**  |**Name**           |**Task**                                                                                   |**Contribution**|
 |--------|:-----------------:|-------------------------------------------------------------------------------------------|:--------------:|
-|20120145|Đường Yến Ngọc     |Documentation<br>Theory<br>Slide                                                           |25%             |
-|20120409|Trần Thanh Tùng    |Data preprocessing<br>Visualization<br>Slide                                               |25%             |
-|20120438|Đào Văn Cảnh       |Machine learning algorithms<br>Model building<br>Slide                                     |25%             |
+|20120145|Đường Yến Ngọc     |Documentation<br>Theory<br>Model building ()<br>Slide                         |25%             |
+|20120409|Trần Thanh Tùng    |Data preprocessing<br>Visualization<br>Model building (Random Forest)<br>Slide             |25%             |
+|20120438|Đào Văn Cảnh       |Machine learning algorithms<br>Model building (Linear Regression)<br>Slide                 |25%             |
 |21120441|Dương Huỳnh Anh Duy|Leader<br>Collect data from job application websites<br>Data preprocessing<br>Visualization|25%             |
 
 ---
