@@ -1,0 +1,910 @@
+STT,Trang thu thập,Tên công ty,Vị trí ứng tuyển,Yêu cầu bằng cấp,Yêu cầu kinh nghiệm,Địa điểm,Ngày đăng tuyển,Lương tối thiểu,Lương tối đa,Lương TB,Tên công việc
+0,CareerLink,CÔNG TY TNHH HOJEONG,Nhân viên,Cử nhân,2,bắc ninh,2024-12-30,0.0,0.0,-4.0989440183757824e+18,chuyên viên hỗ trợ kỹ thuật
+1,CareerLink,CÔNG TY CỔ PHẦN SYNOPEX VIỆT NAM,Nhân viên,Cử nhân,1,bắc ninh,2024-12-30,0.0,0.0,-4.0989440183736893e+18,kỹ sư phần mềm
+2,CareerLink,CÔNG TY TNHH SEOJIN AUTO,Nhân viên,Cử nhân,1,bắc ninh,2024-12-30,0.0,0.0,8.857432061067295e+18,chuyên viên bảo mật thông tin
+3,CareerLink,CÔNG TY CỔ PHẦN SYNOPEX VIỆT NAM,Nhân viên,Trung cấp,0,bắc ninh,2024-12-30,0.0,0.0,4.177434193467568e+18,nhà thiết kế
+4,CareerLink,CareerLink Asia,Kỹ thuật viên / Kỹ sư,Cử nhân,2,nhật bản,2024-12-30,60000000.0,0.0,-4.4668287918450196e+18,nhà phát triển web
+5,CareerLink,CÔNG TY CỔ PHẦN SYNOPEX VIỆT NAM,Kỹ thuật viên / Kỹ sư,Cử nhân,2,bắc ninh,2024-12-30,0.0,0.0,-4.0989440183705395e+18,kỹ sư phần mềm
+6,CareerLink,CÔNG TY TNHH SEOJIN AUTO,Nhân viên,Cử nhân,1,bắc ninh,2024-12-30,0.0,0.0,8.857432061067295e+18,chuyên viên bảo mật thông tin
+7,CareerLink,CareerLink Asia,Kỹ thuật viên / Kỹ sư,Cử nhân,2,nhật bản,2024-12-30,80000000.0,210000000.0,-4.4668287918450196e+18,nhà phát triển web
+8,CareerLink,CareerLink's Client,Nhân viên,Cử nhân,0,hà nội,2024-12-30,20000000.0,25000000.0,16109568.0,kỹ sư phần mềm
+10,CareerLink,CareerLink's Client,Nhân viên,Cử nhân,2,hồ chí minh,2024-12-31,19000000.0,25000000.0,21057536.0,kỹ sư phần mềm
+11,CareerLink,Công Ty TNHH Thương Mại Công Nghệ Anh Minh,Kỹ thuật viên / Kỹ sư,Cử nhân,1,hồ chí minh,2024-12-31,0.0,0.0,-4.0989440183707894e+18,kỹ sư phần mềm
+12,CareerLink,CareerLink's Client,Nhân viên,Cử nhân,2,hồ chí minh,2024-12-31,25000000.0,35000000.0,8.276378211865121e+18,nhà thiết kế
+13,CareerLink,CareerLink's Client,Kỹ thuật viên / Kỹ sư,Cử nhân,2,hồ chí minh,2024-12-31,50000000.0,57000000.0,8.904773606055262e+18,chuyên viên tư vấn cntt
+14,CareerLink,VIETNAM CONCENTRIX SERVICES COMPANY LIMITED,Nhân viên,Trung học,1,hồ chí minh,2024-12-31,0.0,0.0,-1.3694990771158303e+18,chuyên viên phát triển ứng dụng web
+15,CareerLink,CÔNG TY TNHH LITE ON VIỆT NAM,Kỹ thuật viên / Kỹ sư,Cử nhân,0,hải phòng,2024-12-30,0.0,0.0,-4.098944018373935e+18,công nghệ thông tin
+16,CareerLink,VIETNAM CONCENTRIX SERVICES COMPANY LIMITED,Quản lý cấp cao,Cử nhân,3,hồ chí minh,2024-12-28,0.0,0.0,1.1287633831019725e+18,kỹ sư phần mềm
+17,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Nhân viên,Trung cấp,0,hà nội,2024-12-30,8000000.0,15000000.0,11497472.0,chuyên viên hỗ trợ kỹ thuật
+18,CareerLink,VIETNAM CONCENTRIX SERVICES COMPANY LIMITED,Trưởng nhóm / Giám sát,Trung học,1,hồ chí minh,2024-12-28,0.0,0.0,-1.9355546405510922e+18,chuyên viên phát triển ứng dụng web
+19,CareerLink,CareerLink's Client,Nhân viên,Cử nhân,2,hồ chí minh,2024-12-30,10000000.0,15000000.0,12529664.0,game operator
+20,CareerLink,VIETNAM CONCENTRIX SERVICES COMPANY LIMITED,Nhân viên,Trung học,3,hồ chí minh,2024-12-30,0.0,0.0,-4.098944018374537e+18,nhà phân tích dữ liệu
+21,CareerLink,Công Ty Cổ Phần Người Bạn Vàng,Nhân viên,Cử nhân,2,hồ chí minh,2024-12-30,0.0,0.0,-4.098944018369491e+18,kỹ sư hệ thống
+22,CareerLink,Công Ty Cổ Phần Người Bạn Vàng,Quản lý / Trưởng phòng,Cử nhân,3,hồ chí minh,2024-12-28,0.0,0.0,1.1287633830988964e+18,công nghệ thông tin
+23,CareerLink,CÔNG TY TNHH QUICK VIỆT NAM,Nhân viên,Cử nhân,1,hồ chí minh,2024-12-30,9000000.0,0.0,8.276378211866845e+18,nhà thiết kế
+24,CareerLink,CÔNG TY CỔ PHẦN CHỨNG KHOÁN PHÚ HƯNG,Nhân viên,Cử nhân,1,hồ chí minh,2024-12-30,0.0,0.0,-4.098944018376188e+18,kỹ sư kiểm thử phần mềm
+25,CareerLink,CÔNG TY CỔ PHẦN KINH DOANH F88,Nhân viên,Cử nhân,2,hà nội,2024-12-28,15000000.0,25000000.0,20013056.0,kỹ sư dữ liệu
+26,CareerLink,CÔNG TY TNHH NITTO DENKO VIỆT NAM,Nhân viên,Cử nhân,0,bình dương,2024-12-30,0.0,0.0,-4.0989440183783055e+18,chuyên viên hỗ trợ kỹ thuật
+27,CareerLink,CÔNG TY CỔ PHẦN KINH DOANH F88,Nhân viên,Cử nhân,3,hà nội,2024-12-28,15000000.0,25000000.0,20025344.0,nhà khoa học dữ liệu
+28,CareerLink,CÔNG TY TNHH QUICK VIỆT NAM,Quản lý / Trưởng phòng,Cử nhân,2,hồ chí minh,2024-12-28,62000000.0,75000000.0,5.227707401494221e+18,kỹ sư phần mềm
+29,CareerLink,CÔNG TY CỔ PHẦN KINH DOANH F88,Nhân viên,Cử nhân,3,hà nội,2024-12-28,20000000.0,35000000.0,27541504.0,nhà phân tích dữ liệu
+30,CareerLink,CÔNG TY TNHH QUICK VIỆT NAM,Nhân viên,Cử nhân,2,hồ chí minh,2024-12-27,15000000.0,25000000.0,25022464.0,kỹ sư phần mềm
+31,CareerLink,Công ty TNHH Điện Tử Sumida Việt Nam,Nhân viên,Cử nhân,1,hải phòng,2024-12-27,12000000.0,13000000.0,-8.742995214122246e+18,chuyên viên hỗ trợ kỹ thuật
+33,CareerLink,CareerLink's Client,Nhân viên,Cử nhân,2,hồ chí minh nhật bản,2024-12-27,0.0,0.0,-3.6788477345540915e+17,kỹ sư thiết kế
+34,CareerLink,Công Ty Cổ Phần Funtap,Trưởng nhóm / Giám sát,Cử nhân,2,hà nội,2024-12-27,0.0,0.0,-5.660555634164941e+17,kỹ sư phần mềm
+35,CareerLink,CareerLink's Client,Nhân viên,Cử nhân,2,hồ chí minh,2024-12-30,13000000.0,27000000.0,16568320.0,kỹ sư kiểm thử phần mềm
+36,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Nhân viên,Trung học,0,bạc liêu,2024-12-27,8000000.0,12000000.0,8253440.0,chuyên viên hỗ trợ kỹ thuật
+37,CareerLink,CareerLink's Client,Nhân viên,Cử nhân,2,hà nội,2024-12-27,0.0,0.0,8.904773606053884e+18,chuyên viên tư vấn cntt
+38,CareerLink,CÔNG TY CỔ PHẦN KINH DOANH F88,Nhân viên,Cử nhân,1,hà nội,2024-12-27,0.0,0.0,28454912.0,kỹ sư phần mềm
+40,CareerLink,CÔNG TY CỔ PHẦN KINH DOANH F88,Nhân viên,Cử nhân,1,hà nội,2024-12-27,0.0,0.0,1.295637607946944e+19,chuyên viên bảo mật thông tin
+41,CareerLink,Công Ty Cổ Phần Funtap,Nhân viên,Cử nhân,2,hà nội,2024-12-28,0.0,0.0,18731008.0,kỹ sư hệ thống
+42,CareerLink,Tập Đoàn Vàng Bạc Đá Quý DOJI,Quản lý / Trưởng phòng,Cử nhân,3,hà nội,2024-12-26,0.0,0.0,-4.999223736681714e+18,trưởng bộ phận chuyển đổi số
+44,CareerLink,Công ty TNHH Coretronic Việt Nam,Kỹ thuật viên / Kỹ sư,Cử nhân,1,bà rịa - vũng tàu,2024-12-28,0.0,0.0,-7.775868401624764e+18,công nghệ thông tin
+45,CareerLink,Công Ty Cổ Phần Funtap,Nhân viên,Cử nhân,0,hà nội,2024-12-26,10000000.0,0.0,-3.019589328915378e+18,vận hành
+48,CareerLink,Công ty TNHH May Mặc Alliance One,Nhân viên,Cử nhân,1,bến tre,2024-12-26,0.0,0.0,-7.196273733110452e+18,kỹ sư kiểm thử phần mềm
+49,CareerLink,CÔNG TY CỔ PHẦN SUN.STUDIO,Nhân viên,Cử nhân,2,hồ chí minh,2024-12-26,14000000.0,25000000.0,19537920.0,nhà thiết kế
+50,CareerLink,CareerLink's Client,Nhân viên,Cử nhân,1,hồ chí minh,2024-12-28,32000000.0,37000000.0,8.904773606052112e+18,chuyên viên tư vấn cntt
+51,CareerLink,Công Ty Cổ Phần Tập Đoàn Omi (OmiGroup),Nhân viên,Cử nhân,1,hà nội,2024-12-30,0.0,0.0,-4.0989440183721697e+18,kỹ sư phần mềm
+54,CareerLink,Bureau Veritas Consumer Products Services Việt Nam,Nhân viên,Cử nhân,1,hồ chí minh,2024-12-25,0.0,0.0,-4.098944018371707e+18,kỹ sư phần mềm
+55,CareerLink,PILGRIMAGE VILLAGE HUẾ BOUTIQUE RESORT & SPA,Trưởng nhóm / Giám sát,Cử nhân,2,thừa thiên - huế,2024-12-26,10000000.0,15000000.0,12521472.0,công nghệ thông tin
+56,CareerLink,CareerLink's Client,Nhân viên,Cử nhân,2,hà nội,2024-12-28,0.0,0.0,17510400.0,công nghệ thông tin
+57,CareerLink,PILGRIMAGE VILLAGE HUẾ BOUTIQUE RESORT & SPA,Trưởng nhóm / Giám sát,Cử nhân,2,thừa thiên - huế,2024-12-26,10000000.0,15000000.0,12521472.0,công nghệ thông tin
+58,CareerLink,FPT Telecom,Nhân viên,Cử nhân,1,hồ chí minh,2024-12-29,15000000.0,18000000.0,8.276378211863773e+18,nhà thiết kế
+59,CareerLink,Công Ty Cổ Phần Funtap,Nhân viên,Cử nhân,2,hà nội,2024-12-26,0.0,0.0,2.7294449412765573e+18,chuyên viên vận hành
+60,CareerLink,CareerLink's Client,Nhân viên,Cử nhân,1,hồ chí minh,2024-12-28,15000000.0,20000000.0,15736832.0,công nghệ thông tin
+61,CareerLink,Công Ty TNHH Khóa Huy Hoàng,Nhân viên,Cử nhân,1,hà nội,2024-12-25,15000000.0,18000000.0,16408576.0,kỹ sư hệ thống
+62,CareerLink,CÔNG TY CỔ PHẦN CTS,Nhân viên,Trung cấp,1,hồ chí minh,2024-12-25,9000000.0,15000000.0,-5.22301498803015e+19,nhà thiết kế
+64,CareerLink,CÔNG TY TNHH DAEYEONG VINA,Nhân viên,Cử nhân,2,đồng nai,2024-12-25,0.0,0.0,-4.098944018372563e+18,công nghệ thông tin
+66,CareerLink,CÔNG TY TNHH DAEYEONG VINA,Nhân viên,Cử nhân,1,đồng nai,2024-12-25,15000000.0,0.0,-4.0989440183748035e+18,công nghệ thông tin
+67,CareerLink,Tổng Công Ty Cổ Phần Địa Ốc Sài Gòn – SAIGONRES Group,Nhân viên,Cử nhân,1,hồ chí minh,2024-12-25,0.0,0.0,-4.098944018371707e+18,kỹ sư phần mềm
+68,CareerLink,TRƯỜNG ĐẠI HỌC KINH TẾ TÀI CHÍNH TP.HCM,Quản lý / Trưởng phòng,thạc sĩ,2,hồ chí minh,2024-12-25,0.0,0.0,2.5176953659035496e+19,công nghệ thông tin
+69,CareerLink,Công Ty TNHH Thương Mại NTB Pharma New,Nhân viên,Trung cấp,2,hà nội,2024-12-27,0.0,0.0,-4.098944018374824e+18,chuyên viên hỗ trợ kỹ thuật
+70,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Mới đi làm,Trung cấp,0,hưng yên,2024-12-25,7000000.0,10000000.0,1.3028207509429617e+19,chuyên viên hỗ trợ kỹ thuật
+71,CareerLink,CÔNG TY CỔ PHẦN KINH DOANH F88,Nhân viên,Cử nhân,2,hà nội,2024-12-25,0.0,0.0,26210304.0,kỹ sư kiểm thử phần mềm
+72,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Nhân viên,Trung học,0,quảng ngãi,2024-12-25,5000000.0,9000000.0,7499776.0,chuyên viên hỗ trợ kỹ thuật
+73,CareerLink,TRƯỜNG ĐẠI HỌC KINH TẾ TÀI CHÍNH TP.HCM,Nhân viên,thạc sĩ,2,hồ chí minh,2024-12-25,0.0,0.0,1.994924625756938e+19,kỹ sư phần mềm
+74,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Nhân viên,Trung học,0,hà nội,2024-12-25,8000000.0,15000000.0,10133504.0,chuyên viên hỗ trợ kỹ thuật
+75,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Nhân viên,Trung học,0,kiên giang,2024-12-25,8000000.0,12000000.0,10055680.0,chuyên viên hỗ trợ kỹ thuật
+76,CareerLink,TRƯỜNG ĐẠI HỌC KINH TẾ TÀI CHÍNH TP.HCM,Nhân viên,thạc sĩ,2,hồ chí minh,2024-12-25,0.0,0.0,1.9949246257565204e+19,giảng viên
+77,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Nhân viên,Trung học,0,gia lai,2024-12-30,6000000.0,11000000.0,7827456.0,chuyên viên hỗ trợ kỹ thuật
+78,CareerLink,TRƯỜNG ĐẠI HỌC KINH TẾ TÀI CHÍNH TP.HCM,Nhân viên,thạc sĩ,1,hồ chí minh,2024-12-28,0.0,0.0,1.9949246257554227e+19,nhà khoa học dữ liệu
+79,CareerLink,CÔNG TY CỔ PHẦN TRUYỀN THÔNG VÀNG CHÂU Á,Nhân viên,Cử nhân,1,hồ chí minh,2024-12-30,12000000.0,15000000.0,13672448.0,chuyên viên hỗ trợ kỹ thuật
+80,CareerLink,TRƯỜNG ĐẠI HỌC KINH TẾ TÀI CHÍNH TP.HCM,Nhân viên,thạc sĩ,1,hồ chí minh,2024-12-26,0.0,0.0,1.9949246257564058e+19,công nghệ thông tin
+81,CareerLink,Công Ty Cổ Phần Funtap,Nhân viên,Cử nhân,1,hà nội,2024-12-26,0.0,0.0,16523264.0,kỹ sư phần mềm
+83,CareerLink,Công ty TNHH May Mặc Alliance One,Nhân viên,Cử nhân,2,bến tre,2024-12-25,0.0,0.0,-7.196273733106803e+18,công nghệ thông tin
+84,CareerLink,Công Ty Cổ Phần Funtap,Nhân viên,Cử nhân,1,hà nội,2024-12-30,0.0,0.0,13443072.0,công nghệ thông tin
+85,CareerLink,CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ DỊCH VỤ SAIGON REAL,Nhân viên,Cử nhân,1,hồ chí minh,2024-12-26,0.0,0.0,4.1774341934723604e+18,nhà thiết kế
+86,CareerLink,Công Ty Cổ Phần Funtap,Nhân viên,Cử nhân,1,hà nội,2024-12-25,0.0,0.0,8.276378211860586e+18,nhà thiết kế
+87,CareerLink,CÔNG TY CỔ PHẦN TẬP ĐOÀN AUSTDOOR,Nhân viên,Cử nhân,2,hà nội,2024-12-30,20000000.0,30000000.0,24956928.0,chuyên viên tư vấn cntt
+88,CareerLink,Công Ty Cổ Phần Funtap,Nhân viên,Cử nhân,1,hà nội,2024-12-24,13000000.0,20000000.0,16523264.0,kỹ sư phần mềm
+89,CareerLink,Công Ty TNHH Becamex Tokyu,Nhân viên,Cử nhân,1,bình dương,2024-12-29,0.0,0.0,-4.098944018376065e+18,chuyên viên hỗ trợ kỹ thuật
+90,CareerLink,Công Ty Cổ Phần Funtap,Nhân viên,Cử nhân,2,hà nội,2024-12-24,0.0,0.0,16396288.0,kỹ sư mạng
+91,CareerLink,CÔNG TY CỔ PHẦN SYNOPEX VIỆT NAM,Nhân viên,Cử nhân,1,bắc ninh,2024-12-24,0.0,0.0,-4.0989440183736893e+18,kỹ sư phần mềm
+93,CareerLink,CareerLink's Client,Quản lý / Trưởng phòng,Cử nhân,2,hồ chí minh,2024-12-23,62000000.0,125000000.0,5.227707401490256e+18,kỹ sư phần mềm
+94,CareerLink,Công Ty Cổ Phần Funtap,Nhân viên,Cử nhân,3,hà nội,2024-12-26,0.0,0.0,2.729444941278798e+18,scrum master
+95,CareerLink,VIA ENGLISH ACADEMY,Nhân viên,Trung cấp,2,hồ chí minh,2024-12-24,0.0,0.0,-4.0989440183745126e+18,kỹ sư kiểm thử phần mềm
+96,CareerLink,VIETNAM CONCENTRIX SERVICES COMPANY LIMITED,Quản lý cấp cao,Cử nhân,3,hồ chí minh,2024-12-27,0.0,0.0,1.1287633831019725e+18,kỹ sư phần mềm
+97,CareerLink,VIA ENGLISH ACADEMY,Quản lý / Trưởng phòng,Cử nhân,3,hồ chí minh,2024-12-24,0.0,0.0,1.1287633830988964e+18,công nghệ thông tin
+98,CareerLink,CareerLink's Client,Nhân viên,Cử nhân,2,hà nội,2024-12-27,0.0,0.0,20590592.0,kỹ sư phần mềm
+99,CareerLink,CÔNG TY CỔ PHẦN DỊCH VỤ KỸ THUẬT MOBIFONE,Kỹ thuật viên / Kỹ sư,kỹ sư,0,đăk nông,2024-12-30,6000000.0,6500000.0,6221824.0,kỹ sư mạng
+100,CareerLink,Công ty TNHH Elentec Việt Nam,Nhân viên,Cử nhân,1,hà nội,2024-12-30,0.0,0.0,-4.0989440183765074e+18,chuyên viên hỗ trợ kỹ thuật
+102,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Nhân viên,Trung học,0,hà nội,2024-12-23,7000000.0,10000000.0,10133504.0,chuyên viên hỗ trợ kỹ thuật
+103,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Nhân viên,Trung học,0,kiên giang,2024-12-23,8000000.0,12000000.0,10055680.0,chuyên viên hỗ trợ kỹ thuật
+104,CareerLink,Công Ty Cổ Phần Funtap,Nhân viên,Cử nhân,0,hà nội,2024-12-23,0.0,0.0,-3.019589328915378e+18,vận hành
+105,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Nhân viên,Trung cấp,0,quảng bình,2024-12-26,8000000.0,15000000.0,13062144.0,kỹ thuật viên
+107,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Nhân viên,Trung học,0,kiên giang,2024-12-24,8000000.0,12000000.0,10055680.0,chuyên viên hỗ trợ kỹ thuật
+109,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Nhân viên,Trung học,0,kiên giang,2024-12-26,8000000.0,12000000.0,10055680.0,chuyên viên hỗ trợ kỹ thuật
+111,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Nhân viên,Trung cấp,0,hà nội,2024-12-23,8000000.0,15000000.0,11497472.0,chuyên viên hỗ trợ kỹ thuật
+112,CareerLink,Công Ty Cổ Phần Funtap,Quản lý / Trưởng phòng,Cử nhân,3,hà nội,2024-12-23,0.0,0.0,7.957152342747998e+18,qa manager
+113,CareerLink,TRƯỜNG ĐẠI HỌC YERSIN ĐÀ LẠT,Nhân viên,thạc sĩ,1,lâm đồng,2024-12-29,7000000.0,0.0,1.9949246257561706e+19,công nghệ thông tin
+114,CareerLink,Công ty TNHH Sản xuất Toàn Cầu LIXIL Việt Nam,Nhân viên,Cử nhân,0,đồng nai,2024-12-23,0.0,0.0,-4.098944018377044e+18,công nghệ thông tin
+115,CareerLink,CareerLink's Client,Nhân viên,Cử nhân,2,hồ chí minh,2024-12-20,10000000.0,15000000.0,21057536.0,kỹ sư phần mềm
+117,CareerLink,FPT Telecom,Sinh viên / Thực tập sinh,Cử nhân,1,hồ chí minh,2024-12-26,7000000.0,10000000.0,8511488.0,nhà phân tích dữ liệu
+118,CareerLink,Công Ty Cổ Phần Tập Đoàn Omi (OmiGroup),Nhân viên,Cử nhân,1,hà nội,2024-12-26,0.0,0.0,-4.0989440183721697e+18,kỹ sư phần mềm
+119,CareerLink,CÔNG TY CỔ PHẦN TẬP ĐOÀN KHOA HỌC CÔNG NGHỆ BÁCH KHOA,Nhân viên,Cử nhân,2,hồ chí minh,2024-12-23,0.0,0.0,-4.0989440183694664e+18,kỹ sư phần mềm
+120,CareerLink,Công Ty Cổ Phần Tập Đoàn Omi (OmiGroup),Nhân viên,Cử nhân,3,hà nội,2024-12-20,0.0,0.0,-4.0989440183676887e+18,kỹ sư phần mềm
+121,CareerLink,Công Ty Cổ Phần Dược Phẩm FPT Long Châu,Nhân viên,Cử nhân,2,hồ chí minh,2024-12-24,0.0,0.0,4.177434193474601e+18,nhà thiết kế
+122,CareerLink,Công Ty Cổ Phần Tập Đoàn Omi (OmiGroup),Nhân viên,Cử nhân,2,hà nội,2024-12-25,0.0,0.0,-4.098944018369929e+18,kỹ sư phần mềm
+123,CareerLink,CÔNG TY CỔ PHẦN NÔNG NGHIỆP TRƯỜNG HẢI,Nhân viên,Cử nhân,2,gia lai,2024-12-20,0.0,0.0,-4.0989440183753155e+18,công nghệ thông tin
+124,CareerLink,Công Ty Cổ Phần Tập Đoàn Omi (OmiGroup),Nhân viên,Cử nhân,2,hà nội,2024-12-21,0.0,0.0,-4.098944018369929e+18,kỹ sư phần mềm
+125,CareerLink,CÔNG TY CỔ PHẦN TẬP ĐOÀN KHOA HỌC CÔNG NGHỆ BÁCH KHOA,Nhân viên,kỹ sư,2,hồ chí minh,2024-12-20,0.0,0.0,1.208783178531114e+19,công nghệ thông tin
+126,CareerLink,CÔNG TY TNHH THỜI TRANG SÀI GÒN XUÂN HOÀ,Nhân viên,Trung cấp,1,hồ chí minh,2024-12-22,0.0,0.0,-4.0989440183766057e+18,chuyên viên hỗ trợ kỹ thuật
+127,CareerLink,CÔNG TY CỔ PHẦN THƯƠNG MẠI VÀ DỊCH VỤ EMALL,Mới đi làm,Cử nhân,0,hồ chí minh,2024-12-20,0.0,0.0,8.929263491046756e+18,công nghệ thông tin
+128,CareerLink,CareerLink's Client,Nhân viên,Cử nhân,2,hà nội,2024-12-22,0.0,0.0,-3.019589328909095e+18,kỹ sư cơ sở dữ liệu
+129,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Nhân viên,Trung học,0,ninh thuận,2024-12-20,6000000.0,10000000.0,7925760.0,chuyên viên hỗ trợ kỹ thuật
+130,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Nhân viên,Trung học,0,tiền giang,2024-12-30,8000000.0,12000000.0,10100736.0,chuyên viên hỗ trợ kỹ thuật
+131,CareerLink,Công Ty Cổ Phần Funtap,Nhân viên,Cử nhân,3,hà nội,2024-12-20,0.0,0.0,21004288.0,kỹ sư phần mềm
+132,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Nhân viên,Trung học,0,gia lai,2024-12-28,5000000.0,9000000.0,7827456.0,chuyên viên hỗ trợ kỹ thuật
+133,CareerLink,CÔNG TY TNHH BOK VIỆT NAM,Kỹ thuật viên / Kỹ sư,Cử nhân,2,hà nội,2024-12-25,0.0,0.0,-4.09894401836902e+18,kỹ sư phần mềm
+134,CareerLink,CÔNG TY TRÁCH NHIỆM HỮU HẠN SÀI GÒN PRECISION,Quản lý / Trưởng phòng,Cử nhân,1,hồ chí minh,2024-12-29,0.0,0.0,1.1287633830921011e+18,nhà phân tích dữ liệu
+135,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Nhân viên,Trung học,0,đồng tháp,2024-12-24,8000000.0,12000000.0,5.675166357412991e+18,chuyên viên hỗ trợ kỹ thuật
+136,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Nhân viên,Trung học,0,quảng nam,2024-12-28,6000000.0,11000000.0,8466432.0,chuyên viên hỗ trợ kỹ thuật
+137,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Nhân viên,Trung học,0,bắc giang,2024-12-19,7000000.0,10000000.0,8851456.0,chuyên viên hỗ trợ kỹ thuật
+138,CareerLink,Công Ty Bánh Đồng Tiến Đà Nẵng,Kỹ thuật viên / Kỹ sư,Cử nhân,2,đà nẵng,2024-12-19,0.0,0.0,4169728.0,kỹ sư học máy
+139,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Nhân viên,Trung học,0,bắc giang,2024-12-30,7000000.0,12000000.0,8851456.0,chuyên viên hỗ trợ kỹ thuật
+140,CareerLink,Công Ty Bánh Đồng Tiến Đà Nẵng,Nhân viên,Cử nhân,2,đà nẵng,2024-12-26,10000000.0,12000000.0,11051008.0,kỹ sư phần mềm
+141,CareerLink,FPT Telecom,Nhân viên,Cử nhân,2,hồ chí minh,2024-12-19,0.0,0.0,21950464.0,kỹ sư phần mềm
+142,CareerLink,CÔNG TY TNHH QUICK VIỆT NAM,Nhân viên,Cử nhân,2,hồ chí minh,2024-12-28,25000000.0,35000000.0,25022464.0,kỹ sư phần mềm
+143,CareerLink,FPT Telecom,Sinh viên / Thực tập sinh,Cử nhân,0,hồ chí minh,2024-12-28,7000000.0,10000000.0,11661312.0,kỹ sư phần mềm
+144,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Nhân viên,Trung học,0,bắc giang,2024-12-27,7000000.0,10000000.0,8851456.0,chuyên viên hỗ trợ kỹ thuật
+145,CareerLink,TRƯỜNG ĐẠI HỌC KINH TẾ TÀI CHÍNH TP.HCM,Quản lý / Trưởng phòng,thạc sĩ,2,hồ chí minh,2024-12-27,0.0,0.0,2.5176953659035496e+19,công nghệ thông tin
+146,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Nhân viên,Trung học,0,hà nội,2024-12-18,8000000.0,15000000.0,10133504.0,chuyên viên hỗ trợ kỹ thuật
+148,CareerLink,TỔNG CÔNG TY CP DỆT MAY HÒA THỌ,Nhân viên,Cử nhân,1,đà nẵng,2024-12-18,0.0,0.0,-4.098944018373116e+18,kỹ sư phần mềm
+150,CareerLink,CareerLink's Client,Nhân viên,Cử nhân,1,hà nội,2024-12-24,9000000.0,14000000.0,14016512.0,chuyên viên hỗ trợ kỹ thuật
+151,CareerLink,Computime Limited,Nhân viên,Cử nhân,2,bình dương,2024-12-17,0.0,0.0,-4.098944018369491e+18,kỹ sư phần mềm
+152,CareerLink,Công Ty Cổ Phần Funtap,Nhân viên,Cử nhân,2,hà nội,2024-12-24,0.0,0.0,14274560.0,kỹ sư kiểm thử phần mềm
+153,CareerLink,Công Ty TNHH Thực Phẩm Thái Sơn,Nhân viên,Cử nhân,2,hồ chí minh,2024-12-17,0.0,0.0,-4.0989440183694664e+18,kỹ sư phần mềm
+154,CareerLink,CareerLink's Client,Nhân viên,Cử nhân,2,bình dương,2024-12-24,0.0,0.0,21032960.0,kỹ sư phần mềm
+155,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Nhân viên,Trung học,0,gia lai,2024-12-17,6000000.0,10000000.0,7827456.0,chuyên viên hỗ trợ kỹ thuật
+156,CareerLink,CÔNG TY CỔ PHẦN TẬP ĐOÀN AUSTDOOR,Nhân viên,Cử nhân,1,hà nội,2024-12-26,0.0,0.0,-8.904773606015975e+18,nhà phân tích dữ liệu
+157,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Nhân viên,Trung học,0,quảng ngãi,2024-12-27,6000000.0,9000000.0,7499776.0,chuyên viên hỗ trợ kỹ thuật
+158,CareerLink,Công Ty Cổ Phần Funtap,Nhân viên,Cử nhân,2,hà nội,2024-12-28,0.0,0.0,8.276378211862827e+18,nhà thiết kế
+159,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Nhân viên,Trung học,0,lâm đồng,2024-12-16,6000000.0,10000000.0,8245248.0,chuyên viên hỗ trợ kỹ thuật
+161,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Nhân viên,Trung học,0,hậu giang,2024-12-19,7000000.0,12000000.0,9486336.0,chuyên viên hỗ trợ kỹ thuật
+162,CareerLink,Công Ty Cổ Phần Tập Đoàn Omi (OmiGroup),Kỹ thuật viên / Kỹ sư,Cử nhân,2,nhật bản,2024-12-16,0.0,0.0,-7.196273733102846e+18,kỹ sư hệ thống
+163,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Nhân viên,Trung học,0,hậu giang,2024-12-24,7000000.0,12000000.0,9486336.0,chuyên viên hỗ trợ kỹ thuật
+165,CareerLink,TRƯỜNG ĐẠI HỌC YERSIN ĐÀ LẠT,Nhân viên,tiến sĩ,1,lâm đồng,2024-12-18,0.0,0.0,1.9949246257561706e+19,công nghệ thông tin
+166,CareerLink,Công Ty Cổ Phần Tập Đoàn Omi (OmiGroup),Nhân viên,Cử nhân,2,nhật bản,2024-12-29,0.0,0.0,1.7084998729295708e+18,chuyên viên tư vấn cntt
+167,CareerLink,Công Ty Cổ Phần Người Bạn Vàng,Nhân viên,Cử nhân,2,hồ chí minh,2024-12-29,0.0,0.0,-1.3694990771116646e+18,chuyên viên phát triển ứng dụng web
+168,CareerLink,Công Ty Cổ Phần Tập Đoàn Omi (OmiGroup),Nhân viên,Cử nhân,2,hà nội nhật bản,2024-12-30,0.0,0.0,1.7084998729295708e+18,chuyên viên tư vấn cntt
+170,CareerLink,CareerLink's Client,Trưởng nhóm / Giám sát,Trung cấp,3,hồ chí minh,2024-12-14,25000000.0,50000000.0,-5.6605556341252506e+17,kỹ sư phần mềm
+171,CareerLink,FPT Telecom,Nhân viên,Cử nhân,1,hồ chí minh,2024-12-28,0.0,0.0,19709952.0,kỹ sư phần mềm
+172,CareerLink,CareerLink's Client,Nhân viên,Cử nhân,1,đà nẵng,2024-12-14,0.0,0.0,17375232.0,kỹ sư hệ thống
+173,CareerLink,Công Ty Cổ Phần Thực Phẩm Dinh Dưỡng NutiFood,Nhân viên,Cử nhân,0,hồ chí minh,2024-12-17,0.0,0.0,-4.098944018373972e+18,kỹ sư hệ thống
+174,CareerLink,Innovature Consulting Ltd.,Nhân viên,Cử nhân,1,hồ chí minh,2024-12-13,0.0,0.0,-4.0989440183717315e+18,kỹ sư hệ thống
+175,CareerLink,Công Ty Cổ Phần Hanacans,Kỹ thuật viên / Kỹ sư,Cử nhân,2,bắc ninh,2024-12-13,12000000.0,20000000.0,16019456.0,công nghệ thông tin
+176,CareerLink,Công Ty TNHH Taixin Printing Vina,Trưởng nhóm / Giám sát,Cử nhân,3,hà nội,2024-12-23,0.0,0.0,1.1986479026438476e+19,quản lý dự án
+177,CareerLink,CÔNG TY TRÁCH NHIỆM HỮU HẠN SÀI GÒN PRECISION,Trưởng nhóm / Giám sát,Cử nhân,2,hồ chí minh,2024-12-13,0.0,0.0,-4.6649995818078e+18,công nghệ thông tin
+178,CareerLink,Công Ty TNHH Taixin Printing Vina,Nhân viên,Trung cấp,1,hà nội,2024-12-17,0.0,0.0,-4.098944018372731e+18,kỹ sư phần mềm
+179,CareerLink,MyTeam VietNam Company Limited,Kỹ thuật viên / Kỹ sư,Cử nhân,2,đà nẵng,2024-12-20,25000000.0,50000000.0,-4.098944018369962e+18,kỹ sư phần mềm
+180,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Nhân viên,Cử nhân,2,hồ chí minh,2024-12-13,0.0,0.0,2.729444941279138e+18,scrum master
+181,CareerLink,CareerLink's Client,Nhân viên,Cử nhân,2,hải phòng,2024-12-13,15000000.0,20000000.0,23236608.0,kỹ sư phần mềm
+182,CareerLink,Công Ty Cổ Phần Funtap,Nhân viên,Cử nhân,1,hà nội,2024-12-28,0.0,0.0,8.276378211860586e+18,nhà thiết kế
+183,CareerLink,CareerLink's Client,Nhân viên,Cử nhân,1,hà nội,2024-12-13,12000000.0,25000000.0,18317312.0,kỹ sư hệ thống
+184,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Nhân viên,Trung học,0,quảng ngãi,2024-12-30,6000000.0,10000000.0,7499776.0,chuyên viên hỗ trợ kỹ thuật
+187,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Nhân viên,Trung học,0,lâm đồng,2024-12-28,7000000.0,10000000.0,8245248.0,chuyên viên hỗ trợ kỹ thuật
+188,CareerLink,Công Ty Cổ Phần Funtap,Nhân viên,Cử nhân,1,hà nội,2024-12-30,0.0,0.0,12034048.0,kỹ sư kiểm thử phần mềm
+189,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Nhân viên,Trung học,0,hà nội,2024-12-22,8000000.0,15000000.0,10133504.0,chuyên viên hỗ trợ kỹ thuật
+190,CareerLink,Công Ty TNHH Trang Phục Ngoài Trời CPPC (Việt Nam),Kỹ thuật viên / Kỹ sư,kỹ sư,0,bình định,2024-12-20,0.0,0.0,8.990502070572057e+18,chuyên viên hỗ trợ kỹ thuật
+192,CareerLink,CareerLink's Client,Nhân viên,Cử nhân,2,hồ chí minh,2024-12-26,18000000.0,30000000.0,21057536.0,kỹ sư phần mềm
+193,CareerLink,CÔNG TY TNHH BOK VIỆT NAM,Quản lý / Trưởng phòng,Cử nhân,2,hồ chí minh,2024-12-12,0.0,0.0,1.1287633830966559e+18,công nghệ thông tin
+194,CareerLink,CareerLink's Client,Nhân viên,Cử nhân,2,hồ chí minh,2024-12-21,22000000.0,40000000.0,21057536.0,kỹ sư phần mềm
+195,CareerLink,CÔNG TY TNHH RORZE ROBOTECH,Nhân viên,Cử nhân,0,hải phòng,2024-12-17,0.0,0.0,-4.0989440183717683e+18,kỹ sư phần mềm
+196,CareerLink,CareerLink's Client,Kỹ thuật viên / Kỹ sư,Cử nhân,2,hồ chí minh,2024-12-12,20000000.0,22000000.0,21966848.0,kỹ sư phần mềm
+197,CareerLink,CÔNG TY TNHH RORZE ROBOTECH,Nhân viên,Cử nhân,1,hải phòng,2024-12-17,0.0,0.0,-4.098944018369528e+18,kỹ sư phần mềm
+198,CareerLink,CareerLink's Client,Nhân viên,Cử nhân,2,hồ chí minh,2024-12-20,18000000.0,30000000.0,21057536.0,kỹ sư phần mềm
+199,CareerLink,CareerLink's Client,Kỹ thuật viên / Kỹ sư,Cử nhân,2,hồ chí minh,2024-12-30,17000000.0,25000000.0,21966848.0,kỹ sư phần mềm
+200,CareerLink,Fois ICT PRO,Nhân viên,Trung cấp,2,thanh hóa,2024-12-28,35000000.0,0.0,-4.068738886478377e+18,kỹ sư phần mềm
+201,CareerLink,Fois ICT PRO,Nhân viên,Trung học,1,hồ chí minh,2024-12-11,15000000.0,25000000.0,20029440.0,công nghệ thông tin
+202,CareerLink,Fois ICT PRO,Nhân viên,Trung cấp,2,hồ chí minh hà nội,2024-12-10,25000000.0,40000000.0,32505856.0,kỹ sư phần mềm
+203,CareerLink,CÔNG TY CỔ PHẦN CÔNG NGHỆ THỰC PHẨM CHÂU Á (AFOTECH),Quản lý / Trưởng phòng,Cử nhân,3,hà nội,2024-12-30,0.0,0.0,1.1287633830984335e+18,công nghệ thông tin
+204,CareerLink,CÔNG TY CỔ PHẦN NÔNG NGHIỆP TRƯỜNG HẢI,Trưởng nhóm / Giám sát,Cử nhân,2,gia lai,2024-12-19,0.0,0.0,-4.664999581807526e+18,kỹ sư hệ thống
+205,CareerLink,FPT Telecom,Kỹ thuật viên / Kỹ sư,Cử nhân,3,hồ chí minh,2024-12-17,50000000.0,87000000.0,17305600.0,kỹ sư học máy
+206,CareerLink,CÔNG TY CỔ PHẦN NÔNG NGHIỆP TRƯỜNG HẢI,Trưởng nhóm / Giám sát,Cử nhân,2,gia lai,2024-12-13,0.0,0.0,-4.664999581807526e+18,kỹ sư hệ thống
+208,CareerLink,CÔNG TY CỔ PHẦN NÔNG NGHIỆP TRƯỜNG HẢI,Trưởng nhóm / Giám sát,Cử nhân,2,gia lai,2024-12-24,0.0,0.0,1.1986479026433925e+19,quản lý dự án
+209,CareerLink,FPT Telecom,Nhân viên,Trung cấp,0,quảng bình,2024-12-28,8000000.0,20000000.0,14000128.0,chuyên viên hỗ trợ kỹ thuật
+210,CareerLink,CÔNG TY CỔ PHẦN NÔNG NGHIỆP TRƯỜNG HẢI,Quản lý / Trưởng phòng,Cử nhân,3,gia lai,2024-12-25,0.0,0.0,1.1287633830961234e+18,công nghệ thông tin
+212,CareerLink,Công Ty Cổ Phần Gỗ An Cường,Nhân viên,Cử nhân,2,bình dương,2024-12-27,10000000.0,18000000.0,-3.131106227792644e+19,kỹ sư phần mềm
+213,CareerLink,CareerLink's Client,Nhân viên,Cử nhân,2,hồ chí minh,2024-12-09,12000000.0,28000000.0,8.276378211865121e+18,nhà thiết kế
+214,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Nhân viên,Trung học,0,khánh hòa,2024-12-30,6000000.0,10000000.0,8011776.0,chuyên viên hỗ trợ kỹ thuật
+215,CareerLink,TRƯỜNG ĐẠI HỌC KINH TẾ TÀI CHÍNH TP.HCM,Nhân viên,thạc sĩ,2,hồ chí minh,2024-12-27,0.0,0.0,1.994924625756938e+19,kỹ sư phần mềm
+216,CareerLink,Tập Đoàn Vàng Bạc Đá Quý DOJI,Nhân viên,Cử nhân,2,hà nội,2024-12-09,25000000.0,35000000.0,30035968.0,chuyên viên bảo mật thông tin
+218,CareerLink,Công Ty TNHH Yakult Việt Nam,Nhân viên,Cử nhân,1,hồ chí minh,2024-12-09,0.0,0.0,-4.0989440183717315e+18,kỹ sư hệ thống
+219,CareerLink,CareerLink's Client,Quản lý / Trưởng phòng,Cử nhân,2,hà nội,2024-12-09,0.0,0.0,5.227707401486709e+18,công nghệ thông tin
+220,CareerLink,CÔNG TY TNHH BOK VIỆT NAM,Kỹ thuật viên / Kỹ sư,Cử nhân,2,hồ chí minh,2024-12-09,0.0,0.0,-4.098944018371633e+18,công nghệ thông tin
+222,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Nhân viên,Trung học,0,đắk lắk,2024-12-09,6000000.0,10000000.0,-9.109514060073136e+18,chuyên viên hỗ trợ kỹ thuật
+223,CareerLink,FPT Telecom,Sinh viên / Thực tập sinh,Cử nhân,0,hồ chí minh,2024-12-07,0.0,0.0,8.276378211855725e+18,nhà thiết kế
+224,CareerLink,TRƯỜNG ĐẠI HỌC KINH TẾ TÀI CHÍNH TP.HCM,Nhân viên,thạc sĩ,2,hồ chí minh,2024-12-20,0.0,0.0,1.994924625756938e+19,kỹ sư phần mềm
+225,CareerLink,CareerLink's Client,Nhân viên,Cử nhân,2,hà nội,2024-12-09,45000000.0,62000000.0,8.904773606053884e+18,chuyên viên tư vấn cntt
+226,CareerLink,Diag Medical,Nhân viên,Cử nhân,3,hồ chí minh,2024-12-06,50000000.0,80000000.0,-4.098944018367226e+18,kỹ sư phần mềm
+227,CareerLink,CareerLink's Client,Nhân viên,Cử nhân,1,hồ chí minh,2024-12-21,10000000.0,17000000.0,18817024.0,kỹ sư phần mềm
+228,CareerLink,CareerLink's Client,Trưởng nhóm / Giám sát,Cử nhân,3,hà nội,2024-12-06,70000000.0,90000000.0,8.338718042620871e+18,chuyên viên tư vấn cntt
+229,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Nhân viên,Trung học,0,hồ chí minh,2024-12-06,7000000.0,10000000.0,10600448.0,chuyên viên hỗ trợ kỹ thuật
+230,CareerLink,TRƯỜNG ĐẠI HỌC KINH TẾ TÀI CHÍNH TP.HCM,Nhân viên,kỹ sư,2,hồ chí minh,2024-12-06,0.0,0.0,1.2087831785314218e+19,kỹ sư phần mềm
+232,CareerLink,IDEA TECHNOLOGY SOLUTIONS,Nhân viên,Cử nhân,1,đà nẵng,2024-12-25,0.0,0.0,-1.9494282511110308e+18,kỹ sư phần mềm
+233,CareerLink,FPT Telecom,Sinh viên / Thực tập sinh,Cử nhân,0,hồ chí minh,2024-12-10,10000000.0,12000000.0,7176192.0,kỹ sư kiểm thử phần mềm
+234,CareerLink,IDEA TECHNOLOGY SOLUTIONS,Nhân viên,Cử nhân,1,đà nẵng,2024-12-28,0.0,0.0,-1.9494282511110636e+18,kỹ sư hệ thống
+235,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Nhân viên,Trung học,0,hồ chí minh,2024-12-10,7000000.0,10000000.0,10600448.0,chuyên viên hỗ trợ kỹ thuật
+236,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Nhân viên,Trung học,0,hà nội,2024-12-24,7000000.0,10000000.0,10133504.0,chuyên viên hỗ trợ kỹ thuật
+237,CareerLink,"Mitalab Co.,Ltd",Nhân viên,Cử nhân,0,hà nội,2024-12-28,0.0,0.0,-4.0989440183788954e+18,kỹ sư kiểm thử phần mềm
+238,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Nhân viên,Trung học,0,hà nội,2024-12-05,8000000.0,15000000.0,10133504.0,chuyên viên hỗ trợ kỹ thuật
+240,CareerLink,CareerLink's Client,Nhân viên,Cử nhân,2,hồ chí minh,2024-12-26,50000000.0,0.0,21057536.0,kỹ sư phần mềm
+241,CareerLink,CareerLink Asia,Kỹ thuật viên / Kỹ sư,Cử nhân,2,nhật bản,2024-12-30,65000000.0,125000000.0,-7.196273733102813e+18,kỹ sư phần mềm
+242,CareerLink,IDEA TECHNOLOGY SOLUTIONS,Nhân viên,Cử nhân,2,hồ chí minh,2024-12-25,10000000.0,13000000.0,7.800166901504123e+17,kỹ sư thiết kế
+243,CareerLink,CareerLink Asia,Kỹ thuật viên / Kỹ sư,Cử nhân,0,nhật bản,2024-12-24,43000000.0,80000000.0,-7.196273733107327e+18,kỹ sư hệ thống
+244,CareerLink,"Mitalab Co.,Ltd",Nhân viên,Cử nhân,2,hà nội,2024-12-28,0.0,0.0,-4.098944018369929e+18,kỹ sư phần mềm
+246,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Nhân viên,Trung học,0,kiên giang,2024-12-26,8000000.0,12000000.0,10055680.0,chuyên viên hỗ trợ kỹ thuật
+247,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Nhân viên,Trung học,0,khánh hòa,2024-12-29,6000000.0,10000000.0,8011776.0,chuyên viên hỗ trợ kỹ thuật
+248,CareerLink,Công Ty CP Tập Đoàn Hà Đô,Kỹ thuật viên / Kỹ sư,kỹ sư,3,hà nội,2024-12-29,0.0,0.0,1.2087831785313825e+19,công nghệ thông tin
+249,CareerLink,FPT Telecom,Sinh viên / Thực tập sinh,Cử nhân,0,hồ chí minh,2024-12-26,9000000.0,10000000.0,11632640.0,kỹ sư hệ thống
+250,CareerLink,FPT Telecom,Sinh viên / Thực tập sinh,Cử nhân,0,hồ chí minh,2024-12-19,9000000.0,10000000.0,7176192.0,kỹ sư kiểm thử phần mềm
+251,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Nhân viên,Trung học,0,bình định,2024-12-27,5000000.0,10000000.0,-3.0973297147236557e+18,chuyên viên hỗ trợ kỹ thuật
+252,CareerLink,FPT Telecom,Sinh viên / Thực tập sinh,Cử nhân,0,hồ chí minh,2024-12-19,6000000.0,10000000.0,7176192.0,kỹ sư kiểm thử phần mềm
+253,CareerLink,Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT,Nhân viên,Trung học,0,đăk nông,2024-11-30,6000000.0,10000000.0,-8.951175697093923e+18,chuyên viên hỗ trợ kỹ thuật
+254,CareerLink,Công Ty TNHH Wisol Hà Nội,Nhân viên,Cử nhân,3,bắc ninh,2024-11-30,0.0,0.0,4.177434193474855e+18,nhà thiết kế
+255,CareerLink,CareerLink's Client,Kỹ thuật viên / Kỹ sư,Cử nhân,2,hồ chí minh,2024-11-30,15000000.0,30000000.0,21966848.0,kỹ sư phần mềm
+256,CareerLink,Công Ty TNHH Viễn Thông Phương Dung,Nhân viên,Trung cấp,1,hồ chí minh,2024-12-16,0.0,0.0,-1.3694990771144704e+18,kỹ thuật viên máy tính
+257,CareerLink,CareerLink's Client,Nhân viên,Cử nhân,2,hồ chí minh,2024-12-20,13000000.0,15000000.0,21057536.0,kỹ sư phần mềm
+258,CareerLink,CÔNG TY CỔ PHẦN XÂY DỰNG VÀ ĐẦU TƯ THƯƠNG MẠI HOÀNG HÀ,Nhân viên,chứng chỉ,0,bạc liêu,2024-12-28,2300000.0,3000000.0,2658304.0,chuyên viên hỗ trợ kỹ thuật
+259,CareerLink,CÔNG TY TNHH TIN HỌC & DỊCH VỤ NAM LONG,Nhân viên,chứng chỉ,2,hồ chí minh,2024-11-30,0.0,0.0,-4.0989440183733903e+18,kỹ sư phần mềm
+260,CareerLink,CÔNG TY TNHH PHÁT TRIỂN HỆ THỐNG NICHIETSU,Nhân viên,Cử nhân,2,hồ chí minh,2024-12-15,20000000.0,27000000.0,20549632.0,kỹ sư phần mềm
+261,CareerLink,CÔNG TY TNHH TIN HỌC & DỊCH VỤ NAM LONG,Nhân viên,chứng chỉ,2,hồ chí minh,2024-11-30,0.0,0.0,-4.0989440183733903e+18,kỹ sư phần mềm
+262,CareerLink,CÔNG TY CỔ PHẦN DILIGO HOLDINGS,Nhân viên,Cử nhân,2,hà nội,2024-12-27,10000000.0,18000000.0,13979648.0,nhà phân tích dữ liệu
+263,CareerLink,CÔNG TY TNHH TIN HỌC & DỊCH VỤ NAM LONG,Nhân viên,Cử nhân,2,hồ chí minh,2024-12-11,0.0,0.0,-4.0989440183694664e+18,kỹ sư phần mềm
+264,CareerLink,CÔNG TY CP NHA KHOA DETEC,Nhân viên,Cử nhân,2,hà nội,2024-12-30,0.0,0.0,-4.098944018374267e+18,chuyên viên hỗ trợ kỹ thuật
+265,CareerLink,CÔNG TY TNHH TIN HỌC & DỊCH VỤ NAM LONG,Nhân viên,Cử nhân,2,hồ chí minh,2024-12-17,0.0,0.0,-4.0989440183694664e+18,kỹ sư phần mềm
+266,CareerLink,CÔNG TY CỔ PHẦN THỰC PHẨM GN,Nhân viên,Cử nhân,1,hồ chí minh long an,2024-12-30,8000000.0,12000000.0,10006528.0,chuyên viên hỗ trợ kỹ thuật
+267,CareerLink,CÔNG TY TNHH TIN HỌC & DỊCH VỤ NAM LONG,Nhân viên,chứng chỉ,2,hồ chí minh,2024-12-28,0.0,0.0,-4.0989440183733903e+18,kỹ sư phần mềm
+268,CareerLink,FPT Education Hồ Chí Minh,Nhân viên,thạc sĩ,2,hồ chí minh,2024-12-28,0.0,0.0,1.9949246257565204e+19,giảng viên
+269,CareerLink,CÔNG TY TNHH TIN HỌC & DỊCH VỤ NAM LONG,Nhân viên,chứng chỉ,2,hồ chí minh,2024-12-27,0.0,0.0,-4.0989440183733903e+18,kỹ sư phần mềm
+270,CareerLink,FPT Education Hồ Chí Minh,Nhân viên,thạc sĩ,2,hồ chí minh,2024-12-28,0.0,0.0,1.9949246257565204e+19,giảng viên
+271,CareerLink,CÔNG TY CỔ PHẦN ĐẦU TƯ PHÁT TRIỂN MÁY VIỆT NAM,Nhân viên,Cử nhân,2,hà nội,2024-12-30,15000000.0,18000000.0,26140672.0,nhà phân tích dữ liệu
+273,CareerLink,CÔNG TY CỔ PHẦN GIẢI PHÁP KINH DOANH NỀN TẢNG,Nhân viên,Cử nhân,2,hồ chí minh,2024-12-30,9000000.0,0.0,24776704.0,kỹ sư phần mềm
+274,CareerLink,CÔNG TY CỔ PHẦN GIẢI PHÁP KINH DOANH NỀN TẢNG,Nhân viên,Cử nhân,2,hồ chí minh,2024-12-26,17000000.0,30000000.0,24776704.0,kỹ sư phần mềm
+276,CareerLink,CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ CÔNG NGHỆ HTI,Kỹ thuật viên / Kỹ sư,Cử nhân,2,hà nội,2024-12-30,0.0,0.0,-4.09894401836902e+18,kỹ sư phần mềm
+277,CareerLink,CÔNG TY CỔ PHẦN GIẢI PHÁP KINH DOANH NỀN TẢNG,Nhân viên,Cử nhân,2,hồ chí minh,2024-12-27,17000000.0,25000000.0,21037056.0,kỹ sư triển khai voip
+278,CareerLink,Công ty TNHH Avada Group (Mageplaza),Nhân viên,Cử nhân,1,hà nội,2024-12-26,9000000.0,12000000.0,10510336.0,junior tester
+279,CareerLink,CÔNG TY CỔ PHẦN GIẢI PHÁP KINH DOANH NỀN TẢNG,Nhân viên,Cử nhân,1,hồ chí minh,2024-12-27,25000000.0,37000000.0,22536192.0,kỹ sư phần mềm
+280,CareerLink,Công Ty Cổ Phần Sáng Tạo Trẻ Việt Nam Miichisoft,Mới đi làm,Cử nhân,0,hà nội,2024-12-26,8000000.0,15000000.0,11497472.0,kỹ sư phần mềm
+283,CareerLink,CÔNG TY CỔ PHẦN GIẢI PHÁP KINH DOANH NỀN TẢNG,Nhân viên,Cử nhân,1,hồ chí minh,2024-12-28,10000000.0,20000000.0,22536192.0,kỹ sư phần mềm
+284,CareerLink,CÔNG TY CỔ PHẨN VIETNAM TICKETS,Nhân viên,Cử nhân,2,hồ chí minh,2024-12-29,10000000.0,25000000.0,17620992.0,kỹ sư học máy
+285,CareerLink,CÔNG TY CỔ PHẦN GIẢI PHÁP KINH DOANH NỀN TẢNG,Nhân viên,Trung cấp,1,hồ chí minh,2024-12-25,0.0,0.0,21970944.0,kỹ sư phần mềm
+286,CareerLink,iCOM Design,Nhân viên,Trung cấp,1,cần thơ,2024-12-25,7000000.0,0.0,-4.4668287918487347e+18,nhà phát triển web
+287,CareerLink,CÔNG TY CỔ PHẦN GIẢI PHÁP KINH DOANH NỀN TẢNG,Nhân viên,Cử nhân,1,hồ chí minh,2024-12-25,17000000.0,25000000.0,22536192.0,kỹ sư phần mềm
+288,CareerLink,Công Ty TNHH Phần mềm DTS Việt Nam,Sinh viên / Thực tập sinh,Cử nhân,0,hà nội,2024-12-28,2000000.0,5000000.0,5427200.0,công nghệ thông tin
+289,CareerLink,CÔNG TY CỔ PHẦN GIẢI PHÁP KINH DOANH NỀN TẢNG,Kỹ thuật viên / Kỹ sư,Cử nhân,2,hồ chí minh,2024-12-30,15000000.0,25000000.0,25686016.0,kỹ sư phần mềm
+290,CareerLink,Công Ty TNHH Phần mềm DTS Việt Nam,Nhân viên,Cử nhân,2,hà nội,2024-12-25,15000000.0,25000000.0,18796544.0,kỹ sư phần mềm
+291,CareerLink,CÔNG TY CỔ PHẦN GIẢI PHÁP KINH DOANH NỀN TẢNG,Nhân viên,Cử nhân,1,hồ chí minh,2024-12-25,22000000.0,35000000.0,22536192.0,kỹ sư phần mềm
+292,CareerLink,Công Ty TNHH Sharp Manufacturing Việt Nam,Trưởng nhóm / Giám sát,Cử nhân,1,bình dương,2024-12-28,0.0,0.0,-4.664999581810065e+18,công nghệ thông tin
+296,CareerLink,CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ CÔNG NGHỆ HTI,Nhân viên,Cử nhân,2,hà nội,2024-12-25,0.0,0.0,-4.098944018369929e+18,kỹ sư phần mềm
+297,CareerLink,Công Ty Cổ Phần Dịch Vụ Và Giải Pháp Xử Lý Dữ Liệu Vbee,Nhân viên,Cử nhân,2,hà nội,2024-12-30,15000000.0,0.0,1.922994068641104e+19,kỹ sư kiểm thử phần mềm
+298,CareerLink,Công Ty TNHH Phần mềm DTS Việt Nam,Nhân viên,Cử nhân,1,hà nội,2024-12-26,12000000.0,25000000.0,16556032.0,kỹ sư phần mềm
+302,CareerLink,CÔNG TY TNHH BỆNH VIỆN ĐA KHOA TÂM TRÍ SÀI GÒN,Nhân viên,Cử nhân,1,hồ chí minh,2024-12-28,0.0,0.0,-4.098944018374783e+18,công nghệ thông tin
+304,CareerLink,CÔNG TY TNHH DAIWA VIỆT NAM,Nhân viên,Cử nhân,0,đà nẵng,2024-12-27,7000000.0,10000000.0,8445952.0,chuyên viên hỗ trợ kỹ thuật
+307,CareerLink,Công ty Cổ phần Dịch vụ Trực Tuyến Cộng Đồng Việt (Payoo),Nhân viên,Cử nhân,1,hồ chí minh,2024-12-30,0.0,0.0,-4.098944018376188e+18,kỹ sư kiểm thử phần mềm
+308,CareerLink,Công ty Cổ phần Dịch vụ Trực Tuyến Cộng Đồng Việt (Payoo),Nhân viên,Cử nhân,2,hồ chí minh,2024-12-25,0.0,0.0,-4.0989440183694664e+18,kỹ sư phần mềm
+309,CareerLink,KHU DU LỊCH SINH THÁI TRÀNG AN,Nhân viên,Trung cấp,1,ninh bình,2024-12-24,8000000.0,20000000.0,14008320.0,chuyên viên hỗ trợ kỹ thuật
+311,CareerLink,CÔNG TY TNHH FRIWO VIỆT NAM,Nhân viên,Cử nhân,2,đồng nai,2024-12-24,0.0,0.0,-4.098944018369487e+18,kỹ sư phần mềm
+312,CareerLink,CÔNG TY TNHH SAINT - HONORE ĐẦU TƯ VÀ THƯƠNG MẠI,Nhân viên,Cử nhân,1,hà nội,2024-12-28,7000000.0,10000000.0,8519680.0,chuyên viên hỗ trợ kỹ thuật
+313,CareerLink,Công Ty Cổ Phần Công Nghệ Thông Tin Địa Lý EK,Sinh viên / Thực tập sinh,Cử nhân,0,hà nội,2024-12-24,0.0,0.0,-4.0989440183832945e+18,công nghệ thông tin
+314,CareerLink,Công Ty TNHH Luxstay Việt Nam,Kỹ thuật viên / Kỹ sư,Cử nhân,3,hà nội,2024-12-25,28000000.0,40000000.0,30265344.0,kỹ sư phần mềm
+315,CareerLink,Công Ty TNHH Luxstay Việt Nam,Kỹ thuật viên / Kỹ sư,Cử nhân,2,hà nội,2024-12-24,25000000.0,40000000.0,28024832.0,kỹ sư phần mềm
+316,CareerLink,Công ty Cổ phần Dịch vụ Trực Tuyến Cộng Đồng Việt (Payoo),Nhân viên,Cử nhân,2,hồ chí minh,2024-12-24,0.0,0.0,-4.0989440183694664e+18,kỹ sư phần mềm
+317,CareerLink,CÔNG TY CỔ PHẦN XÂY DỰNG VÀ ĐẦU TƯ THƯƠNG MẠI HOÀNG HÀ,Nhân viên,chứng chỉ,0,lâm đồng,2024-12-25,2300000.0,3000000.0,2654208.0,chuyên viên hỗ trợ kỹ thuật
+318,CareerLink,Công ty Cổ phần Dịch vụ Trực Tuyến Cộng Đồng Việt (Payoo),Nhân viên,Cử nhân,1,hồ chí minh,2024-12-23,0.0,0.0,-4.098944018376188e+18,kỹ sư kiểm thử phần mềm
+320,CareerLink,Công Ty Cổ Phần Anvy,Nhân viên,Cử nhân,2,hà nội,2024-12-30,20000000.0,30000000.0,25038848.0,kỹ sư phần mềm
+321,CareerLink,Công Ty Cổ Phần Anvy,Nhân viên,Cử nhân,2,hà nội,2024-12-30,30000000.0,47000000.0,19644416.0,nhà phân tích dữ liệu
+322,CareerLink,DFM ENGINEERING,Nhân viên,kỹ sư,1,hồ chí minh,2024-12-23,0.0,0.0,1.4817276726569775e+19,lập trình viên c# wpf
+323,CareerLink,BSS Group,Nhân viên,Cử nhân,2,hà nội,2024-12-20,20000000.0,30000000.0,25001984.0,ceo assistant
+324,CareerLink,TẬP ĐOÀN KAROFI HOLDING,Nhân viên,Cử nhân,1,hà nội,2024-12-28,10000000.0,18000000.0,14016512.0,công nghệ thông tin
+328,CareerLink,CÔNG TY CỔ PHẦN CÔNG NGHỆ CYBER EYE,Nhân viên,Cử nhân,2,hà nội,2024-12-28,0.0,0.0,24436736.0,kỹ sư phần mềm
+329,CareerLink,CÔNG TY CỔ PHẦN CÔNG NGHỆ CYBER EYE,Nhân viên,Cử nhân,2,hà nội,2024-12-30,15000000.0,25000000.0,19951616.0,kỹ sư kiểm thử phần mềm
+330,CareerLink,CÔNG TY CỔ PHẦN NOSAFOOD,Nhân viên,Cử nhân,2,long an,2024-12-20,0.0,0.0,-4.0989440183738573e+18,chuyên viên hỗ trợ kỹ thuật
+331,CareerLink,CÔNG TY CỔ PHẦN PHƯƠNG TIỆN ĐIỆN THÔNG MINH SELEX,Kỹ thuật viên / Kỹ sư,Cử nhân,2,hà nội,2024-12-20,0.0,0.0,-4.09894401836902e+18,kỹ sư phần mềm
+332,CareerLink,CÔNG TY CP BIA & NGK HẠ LONG,Nhân viên,Cử nhân,1,hà nội,2024-12-30,12000000.0,16000000.0,-8.230917608013627e+18,nhà thiết kế
+333,CareerLink,CÔNG TY CỔ PHẦN PHƯƠNG TIỆN ĐIỆN THÔNG MINH SELEX,Kỹ thuật viên / Kỹ sư,Cử nhân,2,hà nội,2024-12-20,0.0,0.0,-4.0989440183713874e+18,kỹ sư mạng
+334,CareerLink,Công Ty Cổ Phần Anvy,Nhân viên,Cử nhân,2,hưng yên,2024-12-28,12000000.0,18000000.0,15048704.0,chuyên viên hỗ trợ kỹ thuật
+336,CareerLink,CÔNG TY CỔ PHẦN CÔNG NGHỆ & SÁNG TẠO TRẺ TEKY HOLDINGS,Nhân viên,Cử nhân,1,hải phòng,2024-12-28,8000000.0,12000000.0,9986048.0,giảng viên
+338,CareerLink,CÔNG TY CỔ PHẦN CÔNG NGHỆ & SÁNG TẠO TRẺ TEKY HOLDINGS,Nhân viên,Cử nhân,1,hải phòng,2024-12-28,8000000.0,12000000.0,9986048.0,giảng viên
+340,CareerLink,CÔNG TY CỔ PHẦN CÔNG NGHỆ & SÁNG TẠO TRẺ TEKY HOLDINGS,Sinh viên / Thực tập sinh,Cử nhân,0,hà nội,2024-12-26,2000000.0,5000000.0,3465216.0,kỹ sư phần mềm
+343,CareerLink,CÔNG TY CỔ PHẦN CÔNG NGHỆ AROBID,Kỹ thuật viên / Kỹ sư,Cử nhân,2,hồ chí minh,2024-12-18,0.0,0.0,-4.098944018368549e+18,kỹ sư phần mềm
+345,CareerLink,CÔNG TY CỔ PHẦN CÔNG NGHỆ AROBID,Nhân viên,Cử nhân,1,hồ chí minh,2024-12-21,0.0,0.0,-4.098944018371707e+18,kỹ sư phần mềm
+347,CareerLink,CÔNG TY CỔ PHẦN CÔNG NGHỆ AROBID,Nhân viên,Cử nhân,3,hồ chí minh,2024-12-18,0.0,0.0,-1.369499077109424e+18,senior net
+348,CareerLink,CÔNG TY CỔ PHẦN CÔNG NGHỆ AROBID,Nhân viên,Cử nhân,3,hồ chí minh,2024-12-23,0.0,0.0,-1.369499077109424e+18,scrum master
+350,CareerLink,CÔNG TY CỔ PHẦN CÔNG NGHỆ AROBID,Trưởng nhóm / Giám sát,Cử nhân,3,hồ chí minh,2024-12-18,0.0,0.0,-4.66499958180248e+18,kỹ sư phần mềm
+351,CareerLink,Công Ty TNHH Luxstay Việt Nam,Nhân viên,Cử nhân,0,hà nội,2024-12-25,12000000.0,26000000.0,22634496.0,kỹ sư phần mềm
+352,CareerLink,CÔNG TY CỔ PHẦN CÔNG NGHỆ AROBID,Kỹ thuật viên / Kỹ sư,Cử nhân,2,hồ chí minh,2024-12-27,0.0,0.0,-4.098944018368549e+18,kỹ sư phần mềm
+353,CareerLink,Công Ty TNHH Luxstay Việt Nam,Kỹ thuật viên / Kỹ sư,Cử nhân,2,hà nội,2024-12-18,30000000.0,50000000.0,28024832.0,kỹ sư phần mềm
+355,CareerLink,Công Ty TNHH Nippo Mechatronics Vietnam,Nhân viên,Cử nhân,2,hà nội,2024-12-30,13000000.0,0.0,-4.098944018374267e+18,chuyên viên hỗ trợ kỹ thuật
+356,CareerLink,CÔNG TY TRÁCH NHIỆM HỮU HẠN LEGE VIỆT NAM,Nhân viên,Cử nhân,1,bắc ninh,2024-12-24,0.0,0.0,4.177434193470374e+18,nhà thiết kế
+357,CareerLink,CÔNG TY TNHH THỦY KIM SINH,Nhân viên,Cử nhân,1,đắk lắk,2024-12-28,0.0,0.0,-1.3208458078458524e+19,công nghệ thông tin
+359,CareerLink,Công Ty TNHH Nippo Mechatronics Vietnam,Nhân viên,Cử nhân,2,hà nội,2024-12-18,13000000.0,0.0,-4.098944018374267e+18,chuyên viên hỗ trợ kỹ thuật
+360,CareerLink,Beetechsoft,Sinh viên / Thực tập sinh,Cử nhân,0,hà nội,2024-12-28,0.0,0.0,11177984.0,công nghệ thông tin
+361,CareerLink,Công Ty TNHH Phương Anh,Nhân viên,Cử nhân,1,hưng yên,2024-12-19,0.0,0.0,-4.09894401838216e+18,chuyên viên hỗ trợ kỹ thuật
+362,CareerLink,DFM ENGINEERING,Sinh viên / Thực tập sinh,Cử nhân,0,hồ chí minh,2024-12-30,0.0,0.0,-4.0989440183797514e+18,kỹ sư phần mềm
+363,CareerLink,VIỆN THẨM MỸ MEDIC SKIN,Nhân viên,Cử nhân,0,hà nội,2024-12-23,14000000.0,18000000.0,16044032.0,nhà phân tích dữ liệu
+365,CareerLink,Trường Đại Học Công Nghệ Thành Phố Hồ Chí Minh,Nhân viên,thạc sĩ,2,hồ chí minh,2024-12-18,0.0,0.0,1.99492462575663e+19,công nghệ thông tin
+366,CareerLink,Công Ty Cổ Phần Sáng Tạo Trẻ Việt Nam Miichisoft,Nhân viên,Cử nhân,2,hà nội,2024-12-18,0.0,0.0,-1.3028207509410877e+19,công nghệ thông tin
+367,CareerLink,Tổ Chức Giáo Dục FPT Đà Nẵng,Nhân viên,tiến sĩ,2,đà nẵng,2024-12-27,0.0,0.0,1.994924625756489e+19,công nghệ thông tin
+368,CareerLink,Công Ty Cổ Phần Sáng Tạo Trẻ Việt Nam Miichisoft,Nhân viên,Cử nhân,0,hà nội,2024-12-27,0.0,0.0,-1.3028207509415358e+19,công nghệ thông tin
+369,CareerLink,CÔNG TY CỔ PHẦN 88 GROUP (LAPTOP88),Nhân viên,Trung cấp,0,hà nội,2024-12-28,7000000.0,10000000.0,8527872.0,chuyên viên hỗ trợ kỹ thuật
+370,CareerLink,CÔNG TY CỔ PHẦN 88 GROUP (LAPTOP88),Nhân viên,Trung cấp,0,hà nội,2024-12-29,7000000.0,10000000.0,8527872.0,chuyên viên hỗ trợ kỹ thuật
+371,CareerLink,BSS Group,Mới đi làm,Cử nhân,1,hà nội,2024-12-29,8000000.0,14000000.0,1.5757652450697175e+19,customer support executive
+372,CareerLink,CÔNG TY CỔ PHẦN 88 GROUP (LAPTOP88),Nhân viên,Trung cấp,0,hà nội,2024-12-30,7000000.0,10000000.0,8527872.0,chuyên viên hỗ trợ kỹ thuật
+374,CareerLink,Công Ty Cổ Phần Sáng Tạo Trẻ Việt Nam Miichisoft,Nhân viên,kỹ sư,2,hà nội,2024-12-17,40000000.0,70000000.0,1.2063341900309174e+19,chuyên viên tư vấn cntt
+375,CareerLink,CÔNG TY TNHH PHẦN MỀM BIWOCO,Nhân viên,Cử nhân,2,cần thơ,2024-12-24,0.0,0.0,-7.196273733103727e+18,kỹ sư phần mềm
+376,CareerLink,CÔNG TY CỔ PHẦN ĐẦU TƯ PHÁT TRIỂN MÁY VIỆT NAM,Nhân viên,Cử nhân,2,hà nội,2024-12-17,25000000.0,38000000.0,31535104.0,kỹ sư phần mềm
+378,CareerLink,Công Ty CP Thương mại và Chuyển Phát Nhanh Nội Bài,Nhân viên,Cử nhân,2,hồ chí minh,2024-12-23,25000000.0,35000000.0,29986816.0,kỹ sư phần mềm
+379,CareerLink,CÔNG TY TNHH PHẦN MỀM BIWOCO,Nhân viên,Cử nhân,2,cần thơ,2024-12-22,0.0,0.0,-7.196273733103727e+18,kỹ sư phần mềm
+382,CareerLink,Bến Tre Riverside Resort,Nhân viên,Trung cấp,1,bến tre,2024-12-17,0.0,0.0,-7.196273733109608e+18,công nghệ thông tin
+383,CareerLink,Bến Tre Riverside Resort,Nhân viên,Trung cấp,1,bến tre,2024-12-17,0.0,0.0,-7.196273733110866e+18,chuyên viên hỗ trợ kỹ thuật
+384,CareerLink,CÔNG TY TNHH PHẦN MỀM BIWOCO,Nhân viên,Cử nhân,2,cần thơ,2024-12-16,0.0,0.0,-7.196273733103727e+18,kỹ sư phần mềm
+386,CareerLink,CÔNG TY TNHH PHẦN MỀM BIWOCO,Nhân viên,Cử nhân,2,cần thơ,2024-12-16,0.0,0.0,-7.196273733103727e+18,kỹ sư phần mềm
+387,CareerLink,Công Ty Cổ Phần Đầu Tư Và Công Nghệ Bavaan,Sinh viên / Thực tập sinh,Cử nhân,0,hà nội,2024-12-16,0.0,0.0,-4.0989440183802184e+18,kỹ sư phần mềm
+388,CareerLink,CÔNG TY CỔ PHẦN CÔNG NGHỆ & SÁNG TẠO TRẺ TEKY HOLDINGS,Nhân viên,Cử nhân,0,hải phòng,2024-12-25,8000000.0,12000000.0,11915264.0,kỹ sư phần mềm
+389,CareerLink,DFM ENGINEERING,Nhân viên,Cử nhân,0,hồ chí minh,2024-12-20,0.0,0.0,-1.3694990771161457e+18,kỹ sư lập trình tự động hóa
+390,CareerLink,Công Ty Cổ Phần Dịch Vụ Công Nghệ TSC Việt Nam,Nhân viên,Trung cấp,0,hà nam,2024-12-13,0.0,0.0,-7.196273733113106e+18,chuyên viên hỗ trợ kỹ thuật
+391,CareerLink,Công Ty Cổ Phần Dịch Vụ Và Giải Pháp Xử Lý Dữ Liệu Vbee,Nhân viên,Cử nhân,2,hà nội,2024-12-28,25000000.0,0.0,1.9229940686415528e+19,kỹ sư phần mềm
+392,CareerLink,CÔNG TY CỔ PHẦN CÔNG NGHỆ CYBER EYE,Nhân viên,Cử nhân,2,hà nội,2024-12-19,15000000.0,20000000.0,19951616.0,kỹ sư kiểm thử phần mềm
+394,CareerLink,CÔNG TY CỔ PHẦN TỔNG CÔNG TY NOVA SERVICE,Quản lý / Trưởng phòng,Cử nhân,2,bà rịa - vũng tàu,2024-12-17,0.0,0.0,-2.548161000154235e+18,công nghệ thông tin
+395,CareerLink,Công Ty Cổ Phần Dịch Vụ Và Giải Pháp Xử Lý Dữ Liệu Vbee,Nhân viên,Cử nhân,2,hà nội,2024-12-16,20000000.0,25000000.0,1.9229940686415528e+19,kỹ sư phần mềm
+396,CareerLink,Công ty TNHH Lisod Việt Nam,Nhân viên,Cử nhân,2,hà nội,2024-12-29,0.0,0.0,26562560.0,kỹ sư phần mềm
+397,CareerLink,Công Ty Cổ Phần Dịch Vụ Và Giải Pháp Xử Lý Dữ Liệu Vbee,Nhân viên,Cử nhân,1,hà nội,2024-12-16,12000000.0,0.0,2.750631889825735e+19,nhà thiết kế
+398,CareerLink,Công Ty Cổ Phần Dịch Vụ Và Giải Pháp Xử Lý Dữ Liệu Vbee,Nhân viên,Cử nhân,2,hà nội,2024-12-15,22000000.0,0.0,1.9229940686415528e+19,kỹ sư phần mềm
+399,CareerLink,CÔNG TY CỔ PHẦN CÔNG NGHỆ CYBER EYE,Nhân viên,Cử nhân,2,hà nội,2024-12-12,0.0,0.0,24436736.0,kỹ sư phần mềm
+400,CareerLink,Công ty TNHH Lisod Việt Nam,Nhân viên,Cử nhân,2,hà nội,2024-12-12,0.0,0.0,26562560.0,kỹ sư phần mềm
+402,CareerLink,Khu Du Lịch Văn Hóa Tâm Linh Chùa Bái Đính,Nhân viên,Cử nhân,1,ninh bình,2024-12-12,0.0,0.0,4.3999183484332564e+18,công nghệ thông tin
+403,CareerLink,Công Ty TNHH Luxstay Việt Nam,Nhân viên,Cử nhân,2,hà nội,2024-12-27,12000000.0,20000000.0,22630400.0,kỹ sư kiểm thử phần mềm
+404,CareerLink,Công ty TNHH Qisda Việt Nam,Kỹ thuật viên / Kỹ sư,Cử nhân,1,hà nam,2024-12-12,0.0,0.0,-7.196273733105054e+18,kỹ sư phần mềm
+405,CareerLink,Công Ty TNHH Luxstay Việt Nam,Kỹ thuật viên / Kỹ sư,Cử nhân,2,hồ chí minh,2024-12-12,20000000.0,36000000.0,28495872.0,kỹ sư phần mềm
+406,CareerLink,Công Ty Cổ Phần Tập Đoàn Đầu Tư KLB,Kỹ thuật viên / Kỹ sư,Cử nhân,2,hà nội,2024-12-12,12000000.0,15000000.0,13545472.0,kỹ sư hệ thống
+407,CareerLink,Công Ty TNHH Luxstay Việt Nam,Kỹ thuật viên / Kỹ sư,Cử nhân,2,hà nội,2024-12-15,20000000.0,36000000.0,28024832.0,kỹ sư phần mềm
+408,CareerLink,CÔNG TY TNHH KANACARE VIỆT NAM,Mới đi làm,Cử nhân,0,hồ chí minh,2024-12-26,3000000.0,5000000.0,7.924275112617765e+18,công nghệ thông tin
+409,CareerLink,Công Ty TNHH Luxstay Việt Nam,Nhân viên,Cử nhân,2,hà nội,2024-12-29,20000000.0,35000000.0,27115520.0,kỹ sư phần mềm
+410,CareerLink,Công Ty TNHH Luxstay Việt Nam,Nhân viên,Cử nhân,2,hà nội,2024-12-26,18000000.0,35000000.0,26533888.0,performance tester
+411,CareerLink,CÔNG TY CỔ PHẦN XÂY DỰNG VÀ ĐẦU TƯ THƯƠNG MẠI HOÀNG HÀ,Nhân viên,Trung học,0,hồ chí minh,2024-12-12,6000000.0,8000000.0,7008256.0,chuyên viên hỗ trợ kỹ thuật
+412,CareerLink,Công Ty TNHH Luxstay Việt Nam,Nhân viên,Cử nhân,1,hà nội,2024-12-12,20000000.0,35000000.0,24875008.0,kỹ sư phần mềm
+413,CareerLink,Trường Đại Học Công Nghệ Thành Phố Hồ Chí Minh,Quản lý / Trưởng phòng,Cử nhân,2,hồ chí minh,2024-12-27,0.0,0.0,1.7780241991341156e+19,quản lý dự án
+414,CareerLink,Công Ty TNHH Luxstay Việt Nam,Kỹ thuật viên / Kỹ sư,Cử nhân,2,hà nội,2024-12-28,20000000.0,35000000.0,28024832.0,kỹ sư phần mềm
+415,CareerLink,Trường Đại Học Công Nghệ Thành Phố Hồ Chí Minh,Quản lý / Trưởng phòng,thạc sĩ,2,hồ chí minh,2024-12-16,0.0,0.0,2.5176953659035496e+19,công nghệ thông tin
+416,CareerLink,CÔNG TY CỔ PHẦN SỞ GIAO DỊCH HÀNG HÓA VIỆT NAM TOÀN CẦU,Nhân viên,Cử nhân,2,hà nội,2024-12-16,22000000.0,32000000.0,27078656.0,kỹ sư phần mềm
+418,CareerLink,CÔNG TY CP GIÁO DỤC EDUCA - CORPORATION,Nhân viên,Cử nhân,2,hà nội,2024-12-16,0.0,0.0,-4.0989440183744143e+18,kỹ sư kiểm thử phần mềm
+420,CareerLink,N-TEK DISTRIBUTION TECHNOLOGY COMPANY LIMITED,Quản lý / Trưởng phòng,Cử nhân,2,hà nội,2024-12-18,0.0,0.0,1.4132481007521163e+19,chuyên viên tư vấn cntt
+422,CareerLink,N-TEK DISTRIBUTION TECHNOLOGY COMPANY LIMITED,Nhân viên,Cử nhân,2,hồ chí minh,2024-12-30,10000000.0,20000000.0,14798848.0,chuyên viên hỗ trợ kỹ thuật
+423,CareerLink,CÔNG TY CỔ PHẦN ĐẦU TƯ PHÁT TRIỂN MÁY VIỆT NAM,Nhân viên,Cử nhân,1,hà nội,2024-12-11,0.0,0.0,29294592.0,kỹ sư phần mềm
+424,CareerLink,N-TEK DISTRIBUTION TECHNOLOGY COMPANY LIMITED,Kỹ thuật viên / Kỹ sư,Cử nhân,2,hà nội,2024-12-11,10000000.0,20000000.0,15245312.0,chuyên viên hỗ trợ kỹ thuật
+425,CareerLink,FPT Education Hồ Chí Minh,Nhân viên,thạc sĩ,2,hồ chí minh,2024-12-11,0.0,0.0,1.9949246257565204e+19,giảng viên
+426,CareerLink,TẬP ĐOÀN MẮT KÍNH AR GROUP,Nhân viên,Cử nhân,1,hồ chí minh,2024-12-28,0.0,0.0,-4.0989440183760404e+18,chuyên viên hỗ trợ kỹ thuật
+427,CareerLink,FPT Education Hồ Chí Minh,Nhân viên,thạc sĩ,2,hồ chí minh,2024-12-28,0.0,0.0,1.9949246257565204e+19,giảng viên
+428,CareerLink,CÔNG TY TNHH VAREAL VIỆT NAM,Trưởng nhóm / Giám sát,Cử nhân,2,hà nội,2024-12-11,0.0,0.0,7.951985455172833e+18,ruby on rails team leader
+429,CareerLink,CÔNG TY CỔ PHẦN TRƯỜNG HỌC CÔNG NGHỆ MINDX,Trưởng nhóm / Giám sát,Cử nhân,2,hồ chí minh,2024-12-11,18000000.0,25000000.0,21569536.0,r&d k12 coding & robotics team leader
+430,CareerLink,CÔNG TY TNHH VAREAL VIỆT NAM,Nhân viên,Cử nhân,0,hà nội,2024-12-11,0.0,0.0,5.788596077345812e+18,kỹ sư phần mềm
+431,CareerLink,CÔNG TY CỔ PHẦN TẬP ĐOÀN N&G (N&G GROUP),Nhân viên,Cử nhân,2,hà nội,2024-12-19,0.0,0.0,-4.0989440183730053e+18,công nghệ thông tin
+432,CareerLink,CÔNG TY TNHH VAREAL VIỆT NAM,Nhân viên,Cử nhân,1,hà nội,2024-12-11,0.0,0.0,5.788596077348053e+18,kỹ sư phần mềm
+433,CareerLink,Công Ty TNHH Medochemie (Viễn Đông),Nhân viên,Cử nhân,2,bình dương,2024-12-11,0.0,0.0,1.2552534589871931e+19,quản lý dự án
+434,CareerLink,CÔNG TY TNHH VAREAL VIỆT NAM,Nhân viên,Cử nhân,2,hà nội,2024-12-11,15000000.0,20000000.0,17518592.0,executive assistant
+435,CareerLink,TRƯỜNG TIỂU HỌC TRUNG HỌC CƠ SỞ VÀ TRUNG HỌC PHỔ THÔNG HỒNG ĐỨC,Nhân viên,Cử nhân,1,hưng yên,2024-12-30,10000000.0,12000000.0,11022336.0,giảng viên
+436,CareerLink,Công Ty TNHH East West Industries Việt Nam,Nhân viên,Cử nhân,2,bình dương,2024-12-11,0.0,0.0,-4.098944018369491e+18,kỹ sư phần mềm
+437,CareerLink,TRƯỜNG TIỂU HỌC TRUNG HỌC CƠ SỞ VÀ TRUNG HỌC PHỔ THÔNG HỒNG ĐỨC,Nhân viên,Cử nhân,1,hưng yên,2024-12-10,10000000.0,12000000.0,11022336.0,giảng viên
+439,CareerLink,TRƯỜNG TIỂU HỌC TRUNG HỌC CƠ SỞ VÀ TRUNG HỌC PHỔ THÔNG HỒNG ĐỨC,Nhân viên,Cử nhân,1,hưng yên,2024-12-16,10000000.0,12000000.0,11022336.0,giảng viên
+440,CareerLink,Khu Du Lịch Văn Hóa Tâm Linh Chùa Bái Đính,Nhân viên,Cử nhân,1,ninh bình,2024-12-24,0.0,0.0,4.399918348431999e+18,chuyên viên hỗ trợ kỹ thuật
+447,CareerLink,Beetechsoft,Nhân viên,Cử nhân,2,hồ chí minh,2024-12-27,10000000.0,40000000.0,25006080.0,kỹ sư phần mềm
+448,CareerLink,CÔNG TY CỔ PHẦN CÔNG NGHỆ & SÁNG TẠO TRẺ TEKY HOLDINGS,Sinh viên / Thực tập sinh,Cử nhân,0,hải phòng,2024-12-10,3000000.0,7000000.0,3031040.0,công nghệ thông tin
+450,CareerLink,Beetechsoft,Nhân viên,Cử nhân,2,đà nẵng,2024-12-13,10000000.0,40000000.0,23597056.0,kỹ sư phần mềm
+451,CareerLink,Công ty TNHH Avada Group (Mageplaza),Nhân viên,Cử nhân,1,hà nội,2024-12-09,10000000.0,20000000.0,14999552.0,nhà thiết kế
+452,CareerLink,TỔNG CÔNG TY BƯU ĐIỆN VIỆT NAM,Quản lý / Trưởng phòng,Cử nhân,2,hà nội,2024-12-12,60000000.0,0.0,1.128763383096193e+18,công nghệ thông tin
+453,CareerLink,Khách Sạn Thiên Ân Bắc Giang,Nhân viên,Trung cấp,1,bắc giang,2024-12-09,0.0,0.0,-4.0989440183783506e+18,chuyên viên hỗ trợ kỹ thuật
+454,CareerLink,TỔNG CÔNG TY BƯU ĐIỆN VIỆT NAM,Nhân viên,Cử nhân,1,hà nội,2024-12-27,0.0,0.0,-4.0989440183721697e+18,kỹ sư phần mềm
+456,CareerLink,TỔNG CÔNG TY BƯU ĐIỆN VIỆT NAM,Nhân viên,Cử nhân,1,hà nội,2024-12-25,0.0,0.0,-4.0989440183721984e+18,kỹ sư hệ thống
+457,CareerLink,CÔNG TY CỔ PHẦN ĐẦU TƯ PHÁT TRIỂN MÁY VIỆT NAM,Nhân viên,Cử nhân,2,hà nội,2024-12-28,15000000.0,22000000.0,2.7294449412893327e+18,nhân viên phân tích nghiệp vụ ba
+458,CareerLink,BSS Group,Nhân viên,Cử nhân,0,hà nội,2024-12-06,7000000.0,14000000.0,10477568.0,fresher tester
+462,CareerLink,Công Ty TNHH Truyền thông Và Quảng Cáo Siêu Kinh Doanh,Nhân viên,Trung cấp,0,hồ chí minh,2024-12-05,7000000.0,15000000.0,11063296.0,chuyên viên tư vấn cntt
+463,CareerLink,Công Ty Cổ Phần Dịch Vụ Và Giải Pháp Xử Lý Dữ Liệu Vbee,Nhân viên,Cử nhân,2,hà nội,2024-12-28,22000000.0,0.0,1.9229940686415528e+19,kỹ sư phần mềm
+464,CareerLink,Công Ty Cổ Phần Kim Long Motor Huế,Nhân viên,Cử nhân,1,thừa thiên - huế,2024-12-05,0.0,0.0,-4.019699239804518e+16,chuyên viên hệ thống số hóa
+465,CareerLink,Công Ty Cổ Phần Dịch Vụ Và Giải Pháp Xử Lý Dữ Liệu Vbee,Quản lý / Trưởng phòng,Cử nhân,2,hà nội,2024-12-28,22000000.0,0.0,2.4457648087879336e+19,nhà phân tích dữ liệu
+466,CareerLink,CÔNG TY TNHH KEGMIL VIỆT NAM,Kỹ thuật viên / Kỹ sư,Cử nhân,3,hồ chí minh,2024-12-05,0.0,0.0,-4.0989440183663084e+18,kỹ sư phần mềm
+467,CareerLink,Công Ty Cổ Phần Dịch Vụ Và Giải Pháp Xử Lý Dữ Liệu Vbee,Kỹ thuật viên / Kỹ sư,Cử nhân,2,hà nội,2024-12-18,22000000.0,0.0,1.9229940686416437e+19,kỹ sư phần mềm
+468,CareerLink,CÔNG TY CỔ PHẦN CÔNG NGHỆ VTS,Nhân viên,Cử nhân,2,bà rịa - vũng tàu,2024-12-05,0.0,0.0,-7.775868401622725e+18,kỹ sư mạng
+469,CareerLink,Công Ty Cổ Phần Dịch Vụ Và Giải Pháp Xử Lý Dữ Liệu Vbee,Nhân viên,Cử nhân,2,hà nội,2024-12-05,25000000.0,0.0,1.9229940686415528e+19,kỹ sư phần mềm
+470,CareerLink,CÔNG TY CỔ PHẦN XÂY DỰNG VÀ ĐẦU TƯ THƯƠNG MẠI HOÀNG HÀ,Nhân viên,Trung học,0,bình dương,2024-12-05,6000000.0,8000000.0,6983680.0,chuyên viên hỗ trợ kỹ thuật
+472,CareerLink,LA VELA SAIGON HOTEL,Nhân viên,Cử nhân,1,hồ chí minh,2024-12-09,0.0,0.0,-4.098944018371707e+18,kỹ sư phần mềm
+474,CareerLink,TRƯỜNG TIỂU HỌC TRUNG HỌC CƠ SỞ VÀ TRUNG HỌC PHỔ THÔNG HỒNG ĐỨC,Nhân viên,Cử nhân,1,hưng yên,2024-12-25,10000000.0,12000000.0,11022336.0,giảng viên
+476,CareerLink,EMG Education,Quản lý / Trưởng phòng,Cử nhân,2,hồ chí minh,2024-12-22,0.0,0.0,1.7780241991341156e+19,quản lý dự án
+477,CareerLink,Công Ty Cổ Phần Dịch Vụ Và Giải Pháp Xử Lý Dữ Liệu Vbee,Nhân viên,Cử nhân,2,hà nội,2024-12-21,22000000.0,0.0,1.9229940686415528e+19,kỹ sư phần mềm
+478,CareerLink,CÔNG TY TNHH KEGMIL VIỆT NAM,Mới đi làm,Cử nhân,1,hồ chí minh,2024-12-05,0.0,0.0,8.929263491048997e+18,công nghệ thông tin
+479,CareerLink,LA VELA SAIGON HOTEL,Nhân viên,Cử nhân,1,hồ chí minh,2024-12-10,0.0,0.0,-4.098944018371707e+18,kỹ sư phần mềm
+481,CareerLink,CÔNG TY TNHH SOFT WORLD VIỆT NAM,Trưởng nhóm / Giám sát,Cử nhân,3,hồ chí minh,2024-12-30,0.0,0.0,-4.66499958180248e+18,kỹ sư phần mềm
+482,CareerLink,CÔNG TY TNHH SOFT WORLD VIỆT NAM,Trưởng nhóm / Giám sát,Cử nhân,3,thừa thiên - huế,2024-12-17,0.0,0.0,-3.3356974970866196e+18,kỹ sư phần mềm
+483,CareerLink,CÔNG TY CỔ PHẦN XÂY DỰNG VÀ ĐẦU TƯ THƯƠNG MẠI HOÀNG HÀ,Nhân viên,Trung học,0,đồng nai,2024-12-27,6000000.0,8000000.0,6983680.0,chuyên viên hỗ trợ kỹ thuật
+484,CareerLink,CÔNG TY TNHH SOFT WORLD VIỆT NAM,Nhân viên,Cử nhân,1,hồ chí minh,2024-12-05,0.0,0.0,-4.098944018371707e+18,kỹ sư phần mềm
+485,CareerLink,FPT Education Hồ Chí Minh,Nhân viên,thạc sĩ,2,hồ chí minh,2024-11-30,0.0,0.0,1.9949246257565204e+19,giảng viên
+486,CareerLink,Công Ty Cổ Phần Anvy,Nhân viên,Cử nhân,2,hưng yên,2024-12-05,12000000.0,18000000.0,15048704.0,chuyên viên hỗ trợ kỹ thuật
+487,CareerLink,FPT Education Hồ Chí Minh,Nhân viên,thạc sĩ,2,hồ chí minh,2024-12-28,0.0,0.0,1.9949246257565204e+19,giảng viên
+488,CareerLink,Fairfield By Marriott South Binh Duong,Sinh viên / Thực tập sinh,Cử nhân,0,bình dương,2024-12-28,0.0,0.0,-4.098944018382856e+18,công nghệ thông tin
+489,CareerLink,Công ty TNHH Lisod Việt Nam,Nhân viên,Cử nhân,2,hà nội,2024-12-26,20000000.0,40000000.0,26562560.0,kỹ sư phần mềm
+490,CareerLink,Công ty TNHH Lisod Việt Nam,Nhân viên,Cử nhân,1,hà nội,2024-12-28,10000000.0,16000000.0,13000704.0,nhân viên qc
+492,CareerLink,Công Ty TNHH Tech-Link Silicones (VN),Nhân viên,Cử nhân,1,hồ chí minh,2024-12-05,10000000.0,12000000.0,11005952.0,nhân viên erp
+493,CareerLink,Công ty TNHH Lisod Việt Nam,Trưởng nhóm / Giám sát,Cử nhân,2,hà nội,2024-12-23,32000000.0,0.0,8.338718042624602e+18,chuyên viên tư vấn cntt
+494,CareerLink,CÔNG TY TNHH LEVINCI,Nhân viên,Cử nhân,1,hồ chí minh,2024-12-08,0.0,0.0,-4.098944018371707e+18,kỹ sư phần mềm
+495,CareerLink,Công ty TNHH Lisod Việt Nam,Nhân viên,Cử nhân,2,hà nội,2024-12-30,15000000.0,25000000.0,23482368.0,công nghệ thông tin
+496,CareerLink,CÔNG TY TNHH LEVINCI,Nhân viên,Cử nhân,2,hồ chí minh,2024-12-08,0.0,0.0,-1.3694990771116646e+18,php magento
+497,CareerLink,CÔNG TY CỔ PHẦN ĐẦU TƯ LIÊN DOANH VIỆT ANH,Nhân viên,Cử nhân,2,hà nội,2024-12-18,15000000.0,20000000.0,17485824.0,kỹ sư phần mềm
+498,CareerLink,CÔNG TY TNHH PHÁT TRIỂN HỆ THỐNG NICHIETSU,Kỹ thuật viên / Kỹ sư,Cử nhân,2,hồ chí minh,2024-12-24,18000000.0,25000000.0,21458944.0,kỹ sư phần mềm
+499,CareerLink,BSS Group,Sinh viên / Thực tập sinh,Cử nhân,0,hà nội,2024-12-24,4000000.0,5000000.0,4472832.0,công nghệ thông tin
+501,CareerLink,Công Ty TNHH Leetray,Chuyên viên- nhân viên,Cử nhân,1,tp.hcm,2024-12-23,15000000.0,30000000.0,22478848.0,kỹ sư dữ liệu
+503,CareerLink,Công Ty TNHH Vacif,Quản lý cấp trung,Cử nhân,1,tp.hcm,2024-12-23,15000000.0,25000000.0,19984384.0,technical manager
+504,CareerLink,Công Ty TNHH Develop.Software,Chuyên viên- nhân viên,Không yêu cầu,0,tp.hcm,2024-12-23,8000000.0,15000000.0,11481088.0,kỹ sư phần mềm
+505,CareerLink,Công Ty Cổ Phần FFC,Chuyên viên- nhân viên,Không yêu cầu,0,hà nội,2024-12-23,12000000.0,18000000.0,15003648.0,chuyên viên hỗ trợ kỹ thuật
+506,CareerLink,Công Ty TNHH Kỹ Thuật Hiệp Nguyễn,Chuyên viên- nhân viên,Không yêu cầu,0,bình dương,2024-12-23,10000000.0,15000000.0,12505088.0,chuyên viên hỗ trợ kỹ thuật
+506,CareerLink,Công Ty TNHH Kỹ Thuật Hiệp Nguyễn,Chuyên viên- nhân viên,Không yêu cầu,0,tp.hcm,2024-12-23,10000000.0,15000000.0,12480512.0,chuyên viên hỗ trợ kỹ thuật
+507,CareerLink,Công Ty Cổ Phần Med - Aid Công Minh,Chuyên viên- nhân viên,Không yêu cầu,2,hà nội,2024-12-23,10000000.0,15000000.0,-4.0500627719480156e+18,kỹ sư phần mềm
+508,CareerLink,Công Ty Cổ Phần Viễn Thông Act,Chuyên viên- nhân viên,Không yêu cầu,0,tp.hcm,2024-12-23,8000000.0,17000000.0,12488704.0,chuyên viên hỗ trợ kỹ thuật
+510,CareerLink,Công Ty TNHH Bmo Int,Chuyên viên- nhân viên,Không yêu cầu,2,tp.hcm,2024-12-11,15000000.0,25000000.0,20025344.0,kỹ sư phần mềm
+512,CareerLink,Công Ty Cổ Phần Giải Pháp Công Nghệ Thế Giới Số,Chuyên viên- nhân viên,Cử nhân,0,tp.hcm,2024-12-11,8000000.0,14000000.0,10960896.0,chuyên viên hỗ trợ kỹ thuật
+515,CareerLink,Pathway School (Công Ty CP Giáo Dục Liên Minh Bách Khoa),Chuyên viên- nhân viên,Cử nhân,1,tp.hcm,2024-12-11,10000000.0,12000000.0,10989568.0,giảng viên
+516,CareerLink,Công Ty Cổ Phần Cơ Điện Hợp Nhất,Chuyên viên- nhân viên,Cử nhân,0,tp.hcm,2024-12-11,9000000.0,12000000.0,10731520.0,kỹ sư phần mềm
+517,CareerLink,Công Ty Cổ Phần Tập Đoàn Gia Định,Chuyên viên- nhân viên,Cử nhân,1,tp.hcm,2024-12-11,10000000.0,15000000.0,12521472.0,chuyên viên hỗ trợ kỹ thuật
+519,CareerLink,Công Ty TNHH Develop.Software,Chuyên viên- nhân viên,Không yêu cầu,0,tp.hcm,2024-12-10,8000000.0,15000000.0,11481088.0,kỹ sư phần mềm
+520,CareerLink,Công Ty TNHH Hải Triều Việt Nam (Đồng Hồ Hải Triều),Chuyên viên- nhân viên,Cử nhân,2,tp.hcm,2024-12-10,10000000.0,15000000.0,12500992.0,công nghệ thông tin
+521,CareerLink,Công Ty TNHH Thương Mại Và Tư Vấn Phát Triển Công Nghệ Dna,Chuyên viên- nhân viên,Cử nhân,0,hà nội,2024-12-10,15000000.0,18000000.0,16470016.0,chuyên viên hỗ trợ kỹ thuật
+522,CareerLink,Công Ty TNHH Akc Vina,Chuyên viên- nhân viên,Cử nhân,0,bắc ninh,2024-12-10,16000000.0,26000000.0,20983808.0,kỹ sư phần mềm
+523,CareerLink,Liên Hiệp Hợp Tác Xã TM TP Hồ Chí Minh (Sài Gòn Co-op),Chuyên viên- nhân viên,Không yêu cầu,0,bình thuận,2024-12-10,7000000.0,9000000.0,8007680.0,công nghệ thông tin
+525,CareerLink,Digiworld Corporation,Chuyên viên- nhân viên,Trung cấp,0,phú thọ,2024-12-10,9000000.0,10000000.0,9523200.0,chuyên viên hỗ trợ kỹ thuật
+528,CareerLink,Công Ty TNHH Polytex Far Eastern (Việt Nam),Chuyên viên- nhân viên,Cử nhân,2,tp.hcm,2024-12-10,13000000.0,18000000.0,15532032.0,kỹ sư phần mềm
+531,CareerLink,Công Ty Cổ Phần Thương Mại Và Dịch Vụ Thành Phố Mới,Chuyên viên- nhân viên,Không yêu cầu,0,bình dương,2024-12-09,10000000.0,15000000.0,12505088.0,chuyên viên hỗ trợ kỹ thuật
+532,CareerLink,Trường Cao Đẳng Công Thương Việt Nam,Quản lý cấp cao,Cử nhân,0,tp.hcm,2024-12-09,0.0,0.0,1.1287633830921298e+18,công nghệ thông tin
+533,CareerLink,Công Ty TNHH Bảo Dưỡng Công Nghệ Toàn Cầu VN,Chuyên viên- nhân viên,Cử nhân,0,tp.hcm,2024-12-09,15000000.0,18000000.0,16474112.0,công nghệ thông tin
+534,CareerLink,Công Ty Cổ Phần Viễn Thông Fpt,Chuyên viên- nhân viên,Không yêu cầu,0,tp.hcm,2024-12-09,8000000.0,15000000.0,11665408.0,kỹ thuật viên
+534,CareerLink,Công Ty Cổ Phần Viễn Thông Fpt,Chuyên viên- nhân viên,Không yêu cầu,0,kiên giang,2024-12-09,8000000.0,15000000.0,11169792.0,kỹ thuật viên
+534,CareerLink,Công Ty Cổ Phần Viễn Thông Fpt,Chuyên viên- nhân viên,Không yêu cầu,0,an giang,2024-12-09,8000000.0,15000000.0,11476992.0,kỹ thuật viên
+536,CareerLink,Công ty TNHH Trường Quốc Tế Dạy Bằng Tiếng Anh,Chuyên viên- nhân viên,Không yêu cầu,1,tp.hcm,2024-12-09,10000000.0,15000000.0,12513280.0,chuyên viên hỗ trợ kỹ thuật
+537,CareerLink,Công Ty TNHH Thương Mại Dược Phẩm Minh Tín,Chuyên viên- nhân viên,chứng chỉ,2,tp.hcm,2024-12-09,9000000.0,15000000.0,12046336.0,chuyên viên hỗ trợ kỹ thuật
+538,CareerLink,Công Ty TNHH Công Nghệ Akas,Chuyên viên- nhân viên,Trung cấp,1,tp.hcm,2024-12-09,8000000.0,10000000.0,9027584.0,chuyên viên hỗ trợ kỹ thuật
+539,CareerLink,Công Ty Tnhh Một Thành Viên Kỹ Thuật Kinh Doanh Tư Duy Việt,Chuyên viên- nhân viên,Cử nhân,1,tp.hcm,2024-12-09,15000000.0,25000000.0,20017152.0,chuyên viên hỗ trợ kỹ thuật
+540,CareerLink,Công Ty Tnhh In Nhãn Bao Bì Sài Gòn Label,Chuyên viên- nhân viên,Không yêu cầu,2,tp.hcm,2024-12-09,28000000.0,30000000.0,29032448.0,kỹ sư hệ thống
+541,CareerLink,Công Ty TNHH SX & TM Tân Quang Minh,Chuyên viên- nhân viên,Không yêu cầu,2,tp.hcm,2024-12-09,12000000.0,15000000.0,13537280.0,chuyên viên hỗ trợ kỹ thuật
+545,CareerLink,Công Ty Cổ Phần Viễn Thông FPT,Chuyên viên- nhân viên,Không yêu cầu,0,cà mau,2024-12-24,10000000.0,15000000.0,12496896.0,chuyên viên hỗ trợ kỹ thuật
+546,CareerLink,Công Ty Cổ Phần Công Nghệ Oryza Systems,Chuyên viên- nhân viên,Không yêu cầu,0,bình dương,2024-12-09,8000000.0,15000000.0,11513856.0,chuyên viên hỗ trợ kỹ thuật
+547,CareerLink,Công Ty TNHH DV& TM Giải Pháp Kỹ Thuật Công Nghiệp Việt Nam,Chuyên viên- nhân viên,Không yêu cầu,1,hà nội,2024-12-09,15000000.0,30000000.0,22523904.0,kỹ sư phần mềm
+549,CareerLink,Công Ty Cổ Phần Công Nghệ Lami Việt Nam,Chuyên viên- nhân viên,Trung cấp,0,hà nội,2024-12-09,8000000.0,15000000.0,11530240.0,chuyên viên hỗ trợ kỹ thuật
+552,CareerLink,Công Ty Cổ Phần Đầu Tư Và Công Nghiệp Tân Tạo - Tập Đoàn Tân Tạo (Itaco),Chuyên viên- nhân viên,Không yêu cầu,1,long an,2024-12-25,12000000.0,15000000.0,13496320.0,nhân viên bảo đảm chất lượng
+553,CareerLink,Công Ty Cổ Phần Đầu Tư Và Công Nghiệp Tân Tạo - Tập Đoàn Tân Tạo (Itaco),Chuyên viên- nhân viên,Không yêu cầu,1,long an,2024-12-24,12000000.0,16000000.0,14008320.0,nhân viên khảo thí
+554,CareerLink,Công Ty Cổ Phần Az Technologies,Chuyên viên- nhân viên,Cử nhân,0,tp.hcm,2024-12-23,3000000.0,4000000.0,3485696.0,công nghệ thông tin
+555,CareerLink,Công Ty Cổ Phần Trang Trại Tomita Việt Nam,Chuyên viên- nhân viên,Không yêu cầu,0,hà nội,2024-12-23,8000000.0,10000000.0,8990720.0,chuyên viên hỗ trợ kỹ thuật
+556,CareerLink,Công Ty TNHH Cocreation Grass Corporation Việt Nam,Chuyên viên- nhân viên,Cử nhân,0,tây ninh,2024-12-23,9000000.0,12000000.0,10911744.0,công nghệ thông tin
+557,CareerLink,Công Ty Cổ Phần Đầu Tư Pitc,Chuyên viên- nhân viên,Không yêu cầu,0,đà nẵng,2024-12-23,8000000.0,15000000.0,10813440.0,chuyên viên hỗ trợ kỹ thuật
+557,CareerLink,Công Ty Cổ Phần Đầu Tư Pitc,Chuyên viên- nhân viên,Không yêu cầu,0,thừa thiên huế,2024-12-23,8000000.0,15000000.0,11497472.0,chuyên viên hỗ trợ kỹ thuật
+557,CareerLink,Công Ty Cổ Phần Đầu Tư Pitc,Chuyên viên- nhân viên,Không yêu cầu,0,tp.hcm,2024-12-23,8000000.0,15000000.0,12177408.0,chuyên viên hỗ trợ kỹ thuật
+559,CareerLink,Công Ty TNHH Xây Dựng Thương Mại Sản Xuất Trang Trí Nội Thất Gia Bảo,Chuyên viên- nhân viên,Không yêu cầu,1,tp.hcm,2024-12-21,7000000.0,15000000.0,11001856.0,nhân viên seo web
+560,CareerLink,Công Ty Cổ Phần Sản Xuất Thương Mại Và Dịch Vụ Thép Vts,Chuyên viên- nhân viên,Không yêu cầu,0,tp.hcm,2024-12-21,10000000.0,12000000.0,10989568.0,vận hành
+560,CareerLink,Công Ty Cổ Phần Sản Xuất Thương Mại Và Dịch Vụ Thép Vts,Chuyên viên- nhân viên,Không yêu cầu,0,long an,2024-12-21,10000000.0,12000000.0,10977280.0,vận hành
+561,CareerLink,Công Ty TNHH Công Nghệ & Đào Tạo Kai Group,Chuyên viên- nhân viên,Không yêu cầu,0,bắc giang,2024-12-20,7000000.0,15000000.0,11001856.0,công nghệ thông tin
+563,CareerLink,Công Ty Tnhh Phát Triển Công Nghệ Điện Tử Bình Anh,Quản lý nhóm- giám sát,Không yêu cầu,0,hà nội,2024-12-20,7000000.0,12000000.0,9506816.0,chuyên viên hỗ trợ kỹ thuật
+564,CareerLink,Công Ty Tnhh Phát Triển Công Nghệ Điện Tử Bình Anh,Quản lý nhóm- giám sát,Không yêu cầu,0,quảng ninh,2024-12-20,7000000.0,12000000.0,9506816.0,chuyên viên hỗ trợ kỹ thuật
+567,CareerLink,Công Ty Cổ Phần Công Nghệ Qi,Chuyên viên- nhân viên,Trung cấp,1,tp.hcm,2024-12-20,9000000.0,12000000.0,10539008.0,chuyên viên hỗ trợ kỹ thuật
+569,CareerLink,Công Ty Cptm Sáng Tạo Công Nghệ Điện Tử Trung Bắc,Chuyên viên- nhân viên,Cử nhân,0,hà nội,2024-12-20,8000000.0,15000000.0,11481088.0,chuyên viên hỗ trợ kỹ thuật
+570,CareerLink,Công Ty Cổ Phần Viễn Thông FPT,Chuyên viên- nhân viên,Không yêu cầu,0,tp.hcm,2024-12-20,8000000.0,13000000.0,13627392.0,chuyên viên hỗ trợ kỹ thuật
+571,CareerLink,Công Ty TNHH Kinh Doanh Siêu Việt,Chuyên viên- nhân viên,Cử nhân,0,đồng nai,2024-12-20,7000000.0,15000000.0,11010048.0,chuyên viên hỗ trợ kỹ thuật
+572,CareerLink,Công Ty TNHH Cocreation Grass Corporation Việt Nam,Chuyên viên- nhân viên,Cử nhân,0,tây ninh,2024-12-20,9000000.0,12000000.0,10911744.0,công nghệ thông tin
+573,CareerLink,Công Ty Cổ Phần Cơ Điện Hợp Nhất,Chuyên viên- nhân viên,Không yêu cầu,0,tp.hcm,2024-12-20,9000000.0,12000000.0,10219520.0,kỹ sư phần mềm
+574,CareerLink,Công Ty TNHH Cocreation Grass Corporation Việt Nam,Chuyên viên- nhân viên,Cử nhân,0,tây ninh,2024-12-20,9000000.0,12000000.0,10911744.0,công nghệ thông tin
+576,Việclàm24h,Công Ty TNHH Leetray,Chuyên viên- nhân viên,Cử nhân,1,tp.hcm,2024-12-24,15000000.0,30000000.0,22478848.0,kỹ sư dữ liệu
+579,Việclàm24h,Công Ty TNHH Vacif,Quản lý cấp trung,Cử nhân,1,tp.hcm,2024-12-19,15000000.0,25000000.0,19984384.0,technical manager
+580,Việclàm24h,Công Ty TNHH Develop.Software,Chuyên viên- nhân viên,Không yêu cầu,0,tp.hcm,2024-12-27,8000000.0,15000000.0,11481088.0,kỹ sư phần mềm
+581,Việclàm24h,Công Ty Cổ Phần FFC,Chuyên viên- nhân viên,Không yêu cầu,0,hà nội,2024-12-25,12000000.0,18000000.0,15003648.0,chuyên viên hỗ trợ kỹ thuật
+582,Việclàm24h,Công Ty TNHH Kỹ Thuật Hiệp Nguyễn,Chuyên viên- nhân viên,Không yêu cầu,0,bình dương,2024-12-24,10000000.0,15000000.0,12505088.0,chuyên viên hỗ trợ kỹ thuật
+582,Việclàm24h,Công Ty TNHH Kỹ Thuật Hiệp Nguyễn,Chuyên viên- nhân viên,Không yêu cầu,0,tp.hcm,2024-12-24,10000000.0,15000000.0,12480512.0,chuyên viên hỗ trợ kỹ thuật
+583,Việclàm24h,Công Ty Cổ Phần Med - Aid Công Minh,Chuyên viên- nhân viên,Không yêu cầu,2,hà nội,2024-12-24,10000000.0,15000000.0,-4.0500627719480156e+18,kỹ sư phần mềm
+584,Việclàm24h,Công Ty Cổ Phần Viễn Thông Act,Chuyên viên- nhân viên,Không yêu cầu,0,tp.hcm,2024-12-24,8000000.0,17000000.0,12488704.0,chuyên viên hỗ trợ kỹ thuật
+586,Việclàm24h,Công Ty TNHH Bmo Int,Chuyên viên- nhân viên,Không yêu cầu,2,tp.hcm,2024-12-22,15000000.0,25000000.0,20025344.0,kỹ sư phần mềm
+588,Việclàm24h,Công Ty Cổ Phần Giải Pháp Công Nghệ Thế Giới Số,Chuyên viên- nhân viên,Cử nhân,0,tp.hcm,2024-12-17,8000000.0,14000000.0,10960896.0,chuyên viên hỗ trợ kỹ thuật
+591,Việclàm24h,Pathway School (Công Ty CP Giáo Dục Liên Minh Bách Khoa),Chuyên viên- nhân viên,Cử nhân,1,tp.hcm,2024-12-19,10000000.0,12000000.0,10989568.0,giảng viên
+592,Việclàm24h,Công Ty Cổ Phần Cơ Điện Hợp Nhất,Chuyên viên- nhân viên,Cử nhân,0,tp.hcm,2024-12-20,9000000.0,12000000.0,10731520.0,kỹ sư phần mềm
+593,Việclàm24h,Công Ty Cổ Phần Tập Đoàn Gia Định,Chuyên viên- nhân viên,Cử nhân,1,tp.hcm,2024-12-26,10000000.0,15000000.0,12521472.0,chuyên viên hỗ trợ kỹ thuật
+595,Việclàm24h,Công Ty TNHH Develop.Software,Chuyên viên- nhân viên,Không yêu cầu,0,tp.hcm,2024-12-03,8000000.0,15000000.0,11481088.0,kỹ sư phần mềm
+596,Việclàm24h,Công Ty TNHH Hải Triều Việt Nam (Đồng Hồ Hải Triều),Chuyên viên- nhân viên,Cử nhân,2,tp.hcm,2024-12-11,10000000.0,15000000.0,12500992.0,công nghệ thông tin
+597,Việclàm24h,Công Ty TNHH Thương Mại Và Tư Vấn Phát Triển Công Nghệ Dna,Chuyên viên- nhân viên,Cử nhân,0,hà nội,2024-12-11,15000000.0,18000000.0,16470016.0,chuyên viên hỗ trợ kỹ thuật
+598,Việclàm24h,Công Ty TNHH Akc Vina,Chuyên viên- nhân viên,Cử nhân,0,bắc ninh,2024-12-10,16000000.0,26000000.0,20983808.0,kỹ sư phần mềm
+599,Việclàm24h,Liên Hiệp Hợp Tác Xã TM TP Hồ Chí Minh (Sài Gòn Co-op),Chuyên viên- nhân viên,Không yêu cầu,0,bình thuận,2024-12-25,7000000.0,9000000.0,8007680.0,công nghệ thông tin
+601,Việclàm24h,Digiworld Corporation,Chuyên viên- nhân viên,Trung cấp,0,phú thọ,2024-12-03,9000000.0,10000000.0,9523200.0,chuyên viên hỗ trợ kỹ thuật
+604,Việclàm24h,Công Ty TNHH Polytex Far Eastern (Việt Nam),Chuyên viên- nhân viên,Cử nhân,2,tp.hcm,2024-12-19,13000000.0,18000000.0,15532032.0,kỹ sư phần mềm
+607,Việclàm24h,Công Ty Cổ Phần Thương Mại Và Dịch Vụ Thành Phố Mới,Chuyên viên- nhân viên,Không yêu cầu,0,bình dương,2024-12-10,10000000.0,15000000.0,12505088.0,chuyên viên hỗ trợ kỹ thuật
+608,Việclàm24h,Trường Cao Đẳng Công Thương Việt Nam,Quản lý cấp cao,Cử nhân,0,tp.hcm,2024-12-20,0.0,0.0,1.1287633830921298e+18,công nghệ thông tin
+609,Việclàm24h,Công Ty TNHH Bảo Dưỡng Công Nghệ Toàn Cầu VN,Chuyên viên- nhân viên,Cử nhân,0,tp.hcm,2024-12-05,15000000.0,18000000.0,16474112.0,công nghệ thông tin
+610,Việclàm24h,Công Ty TNHH Danu Vina,Chuyên viên- nhân viên,Không yêu cầu,0,tp.hcm,2024-12-11,7000000.0,12000000.0,3.897078196491092e+18,chuyên viên hỗ trợ kỹ thuật
+611,Việclàm24h,Công Ty Cổ Phần Viễn Thông Fpt,Chuyên viên- nhân viên,Không yêu cầu,0,tp.hcm,2024-12-05,8000000.0,15000000.0,11665408.0,kỹ thuật viên
+611,Việclàm24h,Công Ty Cổ Phần Viễn Thông Fpt,Chuyên viên- nhân viên,Không yêu cầu,0,kiên giang,2024-12-05,8000000.0,15000000.0,11169792.0,kỹ thuật viên
+611,Việclàm24h,Công Ty Cổ Phần Viễn Thông Fpt,Chuyên viên- nhân viên,Không yêu cầu,0,an giang,2024-12-05,8000000.0,15000000.0,11476992.0,kỹ thuật viên
+613,Việclàm24h,Công ty TNHH Trường Quốc Tế Dạy Bằng Tiếng Anh,Chuyên viên- nhân viên,Không yêu cầu,1,tp.hcm,2024-12-10,10000000.0,15000000.0,12513280.0,chuyên viên hỗ trợ kỹ thuật
+614,Việclàm24h,Công Ty TNHH Thương Mại Dược Phẩm Minh Tín,Chuyên viên- nhân viên,chứng chỉ,2,tp.hcm,2024-12-03,9000000.0,15000000.0,12046336.0,chuyên viên hỗ trợ kỹ thuật
+615,Việclàm24h,Công Ty TNHH Công Nghệ Akas,Chuyên viên- nhân viên,Trung cấp,1,tp.hcm,2024-12-14,8000000.0,10000000.0,9027584.0,chuyên viên hỗ trợ kỹ thuật
+616,Việclàm24h,Công Ty Tnhh Một Thành Viên Kỹ Thuật Kinh Doanh Tư Duy Việt,Chuyên viên- nhân viên,Cử nhân,1,tp.hcm,2024-12-06,15000000.0,25000000.0,20017152.0,chuyên viên hỗ trợ kỹ thuật
+617,Việclàm24h,Công Ty Tnhh In Nhãn Bao Bì Sài Gòn Label,Chuyên viên- nhân viên,Không yêu cầu,2,tp.hcm,2024-12-14,28000000.0,30000000.0,29032448.0,kỹ sư hệ thống
+618,Việclàm24h,Công Ty TNHH SX & TM Tân Quang Minh,Chuyên viên- nhân viên,Không yêu cầu,2,tp.hcm,2024-12-09,12000000.0,15000000.0,13537280.0,chuyên viên hỗ trợ kỹ thuật
+622,Việclàm24h,Công Ty Cổ Phần Viễn Thông FPT,Chuyên viên- nhân viên,Không yêu cầu,0,cà mau,2024-12-14,10000000.0,15000000.0,12496896.0,chuyên viên hỗ trợ kỹ thuật
+623,Việclàm24h,Công Ty Cổ Phần Công Nghệ Oryza Systems,Chuyên viên- nhân viên,Không yêu cầu,0,bình dương,2024-12-04,8000000.0,15000000.0,11513856.0,chuyên viên hỗ trợ kỹ thuật
+625,Việclàm24h,Công Ty TNHH DV& TM Giải Pháp Kỹ Thuật Công Nghiệp Việt Nam,Chuyên viên- nhân viên,Không yêu cầu,1,hà nội,2024-12-28,15000000.0,30000000.0,22523904.0,kỹ sư phần mềm
+627,Việclàm24h,Công Ty Cổ Phần Công Nghệ Lami Việt Nam,Chuyên viên- nhân viên,Trung cấp,0,hà nội,2024-12-28,8000000.0,15000000.0,11530240.0,chuyên viên hỗ trợ kỹ thuật
+630,Việclàm24h,Công Ty Cổ Phần Đầu Tư Và Công Nghiệp Tân Tạo - Tập Đoàn Tân Tạo (Itaco),Chuyên viên- nhân viên,Không yêu cầu,1,long an,2024-12-27,12000000.0,15000000.0,13496320.0,nhân viên bảo đảm chất lượng
+631,Việclàm24h,Công Ty Cổ Phần Đầu Tư Và Công Nghiệp Tân Tạo - Tập Đoàn Tân Tạo (Itaco),Chuyên viên- nhân viên,Không yêu cầu,1,long an,2024-12-27,12000000.0,16000000.0,14008320.0,nhân viên khảo thí
+632,Việclàm24h,Công Ty Cổ Phần Az Technologies,Chuyên viên- nhân viên,Cử nhân,0,tp.hcm,2024-12-27,3000000.0,4000000.0,3485696.0,công nghệ thông tin
+633,Việclàm24h,Công Ty Cổ Phần Trang Trại Tomita Việt Nam,Chuyên viên- nhân viên,Không yêu cầu,0,hà nội,2024-12-27,8000000.0,10000000.0,8990720.0,chuyên viên hỗ trợ kỹ thuật
+634,Việclàm24h,Công Ty TNHH Cocreation Grass Corporation Việt Nam,Chuyên viên- nhân viên,Cử nhân,0,tây ninh,2024-12-27,9000000.0,12000000.0,10911744.0,công nghệ thông tin
+636,Việclàm24h,Công Ty TNHH Xây Dựng Thương Mại Sản Xuất Trang Trí Nội Thất Gia Bảo,Chuyên viên- nhân viên,Không yêu cầu,1,tp.hcm,2024-12-27,7000000.0,15000000.0,11001856.0,nhân viên seo web
+637,Việclàm24h,Công Ty Cổ Phần Sản Xuất Thương Mại Và Dịch Vụ Thép Vts,Chuyên viên- nhân viên,Không yêu cầu,0,tp.hcm,2024-12-27,10000000.0,12000000.0,10989568.0,vận hành
+637,Việclàm24h,Công Ty Cổ Phần Sản Xuất Thương Mại Và Dịch Vụ Thép Vts,Chuyên viên- nhân viên,Không yêu cầu,0,long an,2024-12-27,10000000.0,12000000.0,10977280.0,vận hành
+638,Việclàm24h,Công Ty TNHH Công Nghệ & Đào Tạo Kai Group,Chuyên viên- nhân viên,Không yêu cầu,0,bắc giang,2024-12-27,7000000.0,15000000.0,11001856.0,công nghệ thông tin
+640,Việclàm24h,Công Ty Tnhh Phát Triển Công Nghệ Điện Tử Bình Anh,Quản lý nhóm- giám sát,Không yêu cầu,0,hà nội,2024-12-26,7000000.0,12000000.0,9506816.0,chuyên viên hỗ trợ kỹ thuật
+641,Việclàm24h,Công Ty Tnhh Phát Triển Công Nghệ Điện Tử Bình Anh,Quản lý nhóm- giám sát,Không yêu cầu,0,quảng ninh,2024-12-26,7000000.0,12000000.0,9506816.0,chuyên viên hỗ trợ kỹ thuật
+644,Việclàm24h,Công Ty Cổ Phần Công Nghệ Qi,Chuyên viên- nhân viên,Trung cấp,1,tp.hcm,2024-12-26,9000000.0,12000000.0,10539008.0,chuyên viên hỗ trợ kỹ thuật
+646,Việclàm24h,Công Ty Cptm Sáng Tạo Công Nghệ Điện Tử Trung Bắc,Chuyên viên- nhân viên,Cử nhân,0,hà nội,2024-12-26,8000000.0,15000000.0,11481088.0,chuyên viên hỗ trợ kỹ thuật
+647,Việclàm24h,Công Ty Cổ Phần Viễn Thông FPT,Chuyên viên- nhân viên,Không yêu cầu,0,tp.hcm,2024-12-26,8000000.0,13000000.0,13627392.0,chuyên viên hỗ trợ kỹ thuật
+648,Việclàm24h,Công Ty TNHH Kinh Doanh Siêu Việt,Chuyên viên- nhân viên,Cử nhân,0,đồng nai,2024-12-26,7000000.0,15000000.0,11010048.0,chuyên viên hỗ trợ kỹ thuật
+649,Việclàm24h,Công Ty TNHH Cocreation Grass Corporation Việt Nam,Chuyên viên- nhân viên,Cử nhân,0,tây ninh,2024-12-26,9000000.0,12000000.0,10911744.0,công nghệ thông tin
+650,Việclàm24h,Công Ty Cổ Phần Cơ Điện Hợp Nhất,Chuyên viên- nhân viên,Không yêu cầu,0,tp.hcm,2024-12-25,9000000.0,12000000.0,10219520.0,kỹ sư phần mềm
+651,Việclàm24h,Công Ty TNHH Cocreation Grass Corporation Việt Nam,Chuyên viên- nhân viên,Cử nhân,0,tây ninh,2024-12-25,9000000.0,12000000.0,10911744.0,công nghệ thông tin
+656,Việclàm24h,Công Ty TNHH Kỹ Thuật Công Nghệ Blue Dream,Chuyên viên- nhân viên,Không yêu cầu,1,tp.hcm,2024-12-24,15000000.0,40000000.0,27631616.0,kỹ sư phần mềm
+657,Việclàm24h,Công ty TNHH Mai Song Nguyễn,Chuyên viên- nhân viên,Không yêu cầu,0,tp.hcm,2024-12-24,7000000.0,18000000.0,12546048.0,chuyên viên hỗ trợ kỹ thuật
+658,Việclàm24h,Công Ty TNHH MTV Hiền Phát Lợi,Chuyên viên- nhân viên,Không yêu cầu,0,bình dương,2024-12-24,6000000.0,10000000.0,8069120.0,chuyên viên hỗ trợ kỹ thuật
+659,Việclàm24h,Công Ty Cổ Phần Phát Triển Phần Mềm Giải Pháp Phân Phối Dược Và Nhà Thuốc,Chuyên viên- nhân viên,Không yêu cầu,0,hà nội,2024-12-24,10000000.0,20000000.0,14958592.0,kỹ sư phần mềm
+660,Việclàm24h,Công Ty TNHH MTV Xuất Nhập Khẩu 2-9 Đắk Lắk,Chuyên viên- nhân viên,Cử nhân,2,đắk lắk,2024-12-24,10000000.0,15000000.0,12537856.0,công nghệ thông tin
+661,Việclàm24h,Công Ty TNHH Phát Triển Công Nghệ Minh Hà,Chuyên viên- nhân viên,Trung học,0,tp.hcm,2024-12-24,7000000.0,12000000.0,9187328.0,chuyên viên hỗ trợ kỹ thuật
+663,Việclàm24h,Công Ty TNHH Phát Triển Công Nghệ Minh Hà,Chuyên viên- nhân viên,Trung học,0,tp.hcm,2024-12-23,7000000.0,12000000.0,10440704.0,công nghệ thông tin
+665,Việclàm24h,Công Ty TNHH Cocreation Grass Corporation Việt Nam,Chuyên viên- nhân viên,Không yêu cầu,0,tây ninh,2024-12-23,9000000.0,12000000.0,10407936.0,công nghệ thông tin
+666,Việclàm24h,Công Ty TNHH Bmo Int,Chuyên viên- nhân viên,Không yêu cầu,2,tp.hcm,2024-12-23,15000000.0,25000000.0,20025344.0,kỹ sư phần mềm
+667,Việclàm24h,Công Ty TNHH Bmo Int,Chuyên viên- nhân viên,Không yêu cầu,2,tp.hcm,2024-12-23,15000000.0,25000000.0,20025344.0,kỹ sư phần mềm
+668,Việclàm24h,Công Ty TNHH Tin Học Và Thương Mại Hùng Phát,Chuyên viên- nhân viên,chứng chỉ,0,hà nam,2024-12-21,7000000.0,10000000.0,1.1837750692829878e+19,công nghệ thông tin
+669,Việclàm24h,Chi Nhánh 5 - Công Ty TNHH Truyền Hình Cáp Saigontourist,Chuyên viên- nhân viên,Trung cấp,0,tp.hcm,2024-12-21,7000000.0,10000000.0,8491008.0,kỹ thuật viên
+674,Việclàm24h,Công Ty TNHH Phát Triển Công Nghệ Minh Hà,Chuyên viên- nhân viên,Trung học,0,tp.hcm,2024-12-20,7000000.0,12000000.0,10440704.0,công nghệ thông tin
+675,Việclàm24h,Chi Nhánh Công Ty TNHH Hoàng Kim Precision,Chuyên viên- nhân viên,Cử nhân,1,tp.hcm,2024-12-20,15000000.0,18000000.0,16506880.0,kỹ sư phần mềm
+676,Việclàm24h,Công Ty TNHH Vietnam Concentrix Services,Quản lý cấp cao,Cử nhân,1,tp.hcm,2024-12-20,0.0,0.0,-5.86165409780695e+17,nhà phân tích dữ liệu
+677,Việclàm24h,Công Ty TNHH World Wave Culture Technology,Chuyên viên- nhân viên,Không yêu cầu,2,tp.hcm,2024-12-20,35000000.0,45000000.0,1.7149287928898068e+18,kỹ sư phần mềm
+678,Việclàm24h,Công Ty Cổ Phần Viễn Thông FPT,Chuyên viên- nhân viên,Trung cấp,0,bắc ninh,2024-12-20,8000000.0,13000000.0,11636736.0,chuyên viên hỗ trợ kỹ thuật
+681,Việclàm24h,Công Ty TNHH MTG Technology,Chuyên viên- nhân viên,Không yêu cầu,0,hà nội,2024-12-20,10000000.0,16000000.0,13021184.0,kỹ sư phần mềm
+682,Việclàm24h,Công Ty TNHH Phát Triển Công Nghệ Minh Hà,Chuyên viên- nhân viên,Trung học,0,tp.hcm,2024-12-20,7000000.0,12000000.0,9187328.0,chuyên viên hỗ trợ kỹ thuật
+683,Việclàm24h,Công Ty CP Đầu Tư Royal Dragon,Chuyên viên- nhân viên,Không yêu cầu,0,tp.hcm,2024-12-20,7000000.0,10000000.0,8339456.0,chuyên viên hỗ trợ kỹ thuật
+688,Việclàm24h,Công Ty TNHH Thiết Bị Issac,Chuyên viên- nhân viên,Không yêu cầu,0,hà nội,2024-12-19,7000000.0,12000000.0,10629120.0,chuyên viên hỗ trợ kỹ thuật
+689,Việclàm24h,Công Ty TNHH Thiết Bị Issac,Chuyên viên- nhân viên,Không yêu cầu,0,hà nội,2024-12-19,9000000.0,13000000.0,10629120.0,chuyên viên hỗ trợ kỹ thuật
+690,Việclàm24h,Công Ty TNHH Thiết Bị Issac,Chuyên viên- nhân viên,Không yêu cầu,0,hà nội,2024-12-19,9000000.0,13000000.0,10629120.0,chuyên viên hỗ trợ kỹ thuật
+691,Việclàm24h,Công Ty TNHH Thiết Bị Issac,Chuyên viên- nhân viên,Không yêu cầu,0,hà nội,2024-12-19,9000000.0,13000000.0,10629120.0,chuyên viên hỗ trợ kỹ thuật
+693,Việclàm24h,Công Ty TNHH Cocreation Grass Corporation Việt Nam,Chuyên viên- nhân viên,Không yêu cầu,0,tây ninh,2024-12-19,9000000.0,12000000.0,10407936.0,công nghệ thông tin
+694,Việclàm24h,Công Ty Cổ Phần Công Nghệ Cao Ctech,Chuyên viên- nhân viên,Không yêu cầu,1,hà nội,2024-12-19,15000000.0,20000000.0,17526784.0,kỹ sư phần mềm
+695,Việclàm24h,Công Ty TNHH Thương Mại Và Dịch Vụ Nina,Chuyên viên- nhân viên,Không yêu cầu,0,tp.hcm,2024-12-19,7000000.0,15000000.0,11022336.0,chuyên viên tư vấn cntt
+698,Việclàm24h,Công Ty TNHH Công Nghệ Và Thương Mại Lifesup,Chuyên viên- nhân viên,Không yêu cầu,0,hà nội,2024-12-18,3000000.0,5000000.0,4026368.0,quản lý dự án
+699,Việclàm24h,Công Ty Tnhh Techcraft,Chuyên viên- nhân viên,Không yêu cầu,1,tp.hcm,2024-12-18,20000000.0,25000000.0,22474752.0,kỹ sư kiểm thử phần mềm
+702,Việclàm24h,Công Ty TNHH Gia Hòa,Chuyên viên- nhân viên,Cử nhân,2,bình thuận,2024-12-18,12000000.0,30000000.0,21024768.0,công nghệ thông tin
+705,Việclàm24h,Công Ty Cổ Phần Viễn Thông FPT,Chuyên viên- nhân viên,Trung cấp,0,tp.hcm,2024-12-17,8000000.0,20000000.0,13250560.0,kỹ thuật viên
+706,Việclàm24h,Công Ty TNHH Phát Triển Công Nghệ Minh Hà,Chuyên viên- nhân viên,Trung học,0,tp.hcm,2024-12-17,7000000.0,12000000.0,9187328.0,chuyên viên hỗ trợ kỹ thuật
+708,Việclàm24h,Haposoft,Chuyên viên- nhân viên,Không yêu cầu,0,hà nội,2024-12-17,10000000.0,20000000.0,15056896.0,kỹ sư kiểm thử phần mềm
+709,Việclàm24h,Công Ty TNHH Công Nghệ Dana Smart,Chuyên viên- nhân viên,Không yêu cầu,0,đà nẵng,2024-12-17,7000000.0,10000000.0,-1.4902465791513842e+19,chuyên viên hỗ trợ kỹ thuật
+710,Việclàm24h,Công Ty TNHH Máy Văn Phòng Hùng Minh,Chuyên viên- nhân viên,Trung cấp,0,hải phòng,2024-12-17,8000000.0,16000000.0,12062720.0,chuyên viên hỗ trợ kỹ thuật
+711,Việclàm24h,Công Ty TNHH Thiết Bị Minh Tâm,Chuyên viên- nhân viên,Không yêu cầu,1,hà nội,2024-12-17,15000000.0,18000000.0,9.126696859274568e+17,kỹ sư kiểm thử phần mềm
+714,Việclàm24h,Công Ty TNHH Itpl Việt Nam,Chuyên viên- nhân viên,Cử nhân,1,đà nẵng,2024-12-17,12000000.0,24000000.0,18038784.0,kỹ sư phần mềm
+715,Việclàm24h,Công Ty TNHH Electronic Tripod Việt Nam (Châu Đức),Quản lý nhóm- giám sát,Cử nhân,1,bà rịa - vũng tàu,2024-12-17,25000000.0,30000000.0,2.071312251104588e+19,kỹ sư hệ thống
+717,Việclàm24h,Công Ty Cổ Phần Viễn Thông FPT,Chuyên viên- nhân viên,Trung cấp,0,tp.hcm,2024-12-16,10000000.0,20000000.0,13578240.0,chuyên viên hỗ trợ kỹ thuật
+718,Việclàm24h,Công Ty TNHH Vietnam Concentrix Services,Chuyên viên- nhân viên,Cử nhân,2,tp.hcm,2024-12-16,15000000.0,20000000.0,17567744.0,kỹ sư phần mềm
+719,Việclàm24h,Công Ty TNHH Thương Mại Dịch Vụ Và Công Nghệ Anninh365,Chuyên viên- nhân viên,Trung học,0,hà nội,2024-12-16,10000000.0,20000000.0,15003648.0,chuyên viên hỗ trợ kỹ thuật
+720,Việclàm24h,Công Ty Cổ Phần Viễn Thông FPT,Chuyên viên- nhân viên,Cử nhân,2,tp.hcm,2024-12-16,20000000.0,40000000.0,22958080.0,kỹ sư phần mềm
+721,Việclàm24h,Công Ty Cổ Phần Giải Pháp Ngọn Sóng Mới,Chuyên viên- nhân viên,Không yêu cầu,0,hà nội,2024-12-16,13000000.0,20000000.0,16412672.0,kỹ sư học máy
+722,Việclàm24h,Công Ty TNHH Cocreation Grass Corporation Việt Nam,Chuyên viên- nhân viên,Cử nhân,0,tây ninh,2024-12-16,9000000.0,12000000.0,10911744.0,công nghệ thông tin
+723,Việclàm24h,Công Ty Cổ Phần Viễn Thông FPT,Chuyên viên- nhân viên,Trung cấp,0,tp.hcm,2024-12-16,10000000.0,15000000.0,13250560.0,kỹ thuật viên
+724,Việclàm24h,Công Ty Cổ Phần Viễn Thông FPT,Chuyên viên- nhân viên,Trung cấp,0,tây ninh,2024-12-16,9000000.0,15000000.0,12021760.0,chuyên viên hỗ trợ kỹ thuật
+726,Việclàm24h,Công Ty TNHH Tin Học Viễn Thông Đăng Hậu,Chuyên viên- nhân viên,Không yêu cầu,0,khánh hòa,2024-12-15,5000000.0,10000000.0,7483392.0,chuyên viên hỗ trợ kỹ thuật
+727,Việclàm24h,Công Ty TNHH Tích Hợp Hệ Thống Nht,Chuyên viên- nhân viên,Cử nhân,0,kiên giang,2024-12-14,12000000.0,18000000.0,2.294154473485697e+18,công nghệ thông tin
+728,Việclàm24h,Công Ty TNHH Điện Tử Streamax (Việt Nam),Chuyên viên- nhân viên,Không yêu cầu,2,bắc ninh,2024-12-14,15000000.0,25000000.0,20029440.0,kỹ sư học máy
+729,Việclàm24h,Công Ty TNHH Điện Tử Streamax (Việt Nam),Chuyên viên- nhân viên,Không yêu cầu,2,bắc ninh,2024-12-14,15000000.0,30000000.0,27824128.0,kỹ sư phần mềm
+730,Việclàm24h,Công Ty TNHH Điện Tử Streamax (Việt Nam),Chuyên viên- nhân viên,Không yêu cầu,2,bắc ninh,2024-12-14,25000000.0,35000000.0,24748032.0,công nghệ thông tin
+731,Việclàm24h,Công Ty TNHH Công Nghệ Viet Star,Chuyên viên- nhân viên,Trung cấp,0,hà nội,2024-12-13,7000000.0,20000000.0,13545472.0,chuyên viên hỗ trợ kỹ thuật
+732,Việclàm24h,Công Ty Cổ Phần Tập Đoàn Techhub,Cộng tác viên,Không yêu cầu,0,hà nội,2024-12-13,3000000.0,10000000.0,6483968.0,nhà thiết kế
+733,Việclàm24h,Công Ty Cổ Phần A.R.T,Chuyên viên- nhân viên,Cử nhân,0,hà nội,2024-12-13,7000000.0,11000000.0,9023488.0,chuyên viên hỗ trợ kỹ thuật
+734,Việclàm24h,Thanh Mai Digital,Chuyên viên- nhân viên,Không yêu cầu,0,tp.hcm,2024-12-13,7000000.0,20000000.0,5.145178936088089e+18,kỹ thuật viên
+735,Việclàm24h,Công Ty CP Chứng Khoán Fpt,Chuyên viên- nhân viên,Không yêu cầu,0,hà nội,2024-12-13,10000000.0,20000000.0,14974976.0,kỹ sư cơ sở dữ liệu
+736,Việclàm24h,Công Ty CP Chứng Khoán Fpt,Chuyên viên- nhân viên,Không yêu cầu,2,hà nội,2024-12-13,10000000.0,20000000.0,3.0195893289491415e+18,kỹ sư phần mềm
+737,Việclàm24h,Công Ty CP Chứng Khoán Fpt,Chuyên viên- nhân viên,Không yêu cầu,0,hà nội,2024-12-13,10000000.0,20000000.0,15003648.0,vận hành
+738,Việclàm24h,Chi Nhánh Hải Dương - Công Ty Cổ Phần Viễn Thông Fpt,Chuyên viên- nhân viên,Không yêu cầu,0,hải dương,2024-12-13,10000000.0,15000000.0,11513856.0,chuyên viên hỗ trợ kỹ thuật
+739,Việclàm24h,Công Ty Cổ Phần Viễn Thông FPT,Chuyên viên- nhân viên,Không yêu cầu,0,hải dương,2024-12-13,10000000.0,15000000.0,11505664.0,chuyên viên hỗ trợ kỹ thuật
+740,Việclàm24h,Chi Nhánh Hải Dương - Công Ty Cổ Phần Viễn Thông Fpt,Chuyên viên- nhân viên,Không yêu cầu,0,hải dương,2024-12-13,9000000.0,12000000.0,11513856.0,chuyên viên hỗ trợ kỹ thuật
+741,Việclàm24h,Văn Phòng Đại Diện Công Ty Cổ Phần Goku Việt Nam,Chuyên viên- nhân viên,Cử nhân,1,tp.hcm,2024-12-13,10000000.0,20000000.0,14991360.0,kỹ sư phần mềm
+742,Việclàm24h,Công Ty Cổ Phần Viễn Thông FPT,Chuyên viên- nhân viên,Không yêu cầu,0,hải dương,2024-12-13,9000000.0,12000000.0,11505664.0,chuyên viên hỗ trợ kỹ thuật
+743,Việclàm24h,Công ty Cổ Phần Đầu Tư Công Nghệ HACOM,Chuyên viên- nhân viên,Không yêu cầu,0,hà nội,2024-12-13,12000000.0,15000000.0,3.6015949752193024e+16,chuyên viên hỗ trợ kỹ thuật
+745,Việclàm24h,Công Ty Cổ Phần Công Nghệ Mobiwork Việt Nam,Chuyên viên- nhân viên,Không yêu cầu,0,hà nội,2024-12-12,8000000.0,20000000.0,14110720.0,kỹ sư phần mềm
+747,Việclàm24h,Công Ty TNHH Vicenter Việt Nam,Chuyên viên- nhân viên,Cử nhân,0,hà nội,2024-12-11,2000000.0,6000000.0,3944448.0,nhà thiết kế
+748,Việclàm24h,Công Ty Cổ Phần Tập Đoàn Đầu Tư Klb,Chuyên viên- nhân viên,Cử nhân,2,hà nội,2024-12-11,12000000.0,15000000.0,13545472.0,kỹ sư hệ thống
+749,Việclàm24h,Công Ty Cổ Phần Viễn Thông FPT,Chuyên viên- nhân viên,Không yêu cầu,1,tp.hcm,2024-12-11,15000000.0,30000000.0,20201472.0,kỹ sư phần mềm
+750,Việclàm24h,Công Ty TNHH Bảo Dưỡng Toàn Cầu,Chuyên viên- nhân viên,Không yêu cầu,0,hải phòng,2024-12-11,7500000.0,11000000.0,9228288.0,kỹ thuật viên bảo trì & sửa chữa máy atm
+753,Việclàm24h,Công Ty TNHH Phát Triển Công Nghệ Minh Hà,Chuyên viên- nhân viên,Trung học,0,tp.hcm,2024-12-11,7000000.0,12000000.0,9187328.0,chuyên viên hỗ trợ kỹ thuật
+754,Việclàm24h,Công Ty TNHH Phát Triển Công Nghệ Minh Hà,Chuyên viên- nhân viên,Trung học,0,tp.hcm,2024-12-11,7000000.0,12000000.0,9187328.0,chuyên viên hỗ trợ kỹ thuật
+756,Việclàm24h,Công Ty Cổ Phần Viễn Thông FPT,Cộng tác viên,Không yêu cầu,0,vĩnh long,2024-12-11,500000.0,1000000.0,745472.0,công nghệ thông tin
+757,Việclàm24h,Công Ty TNHH XD-TM&pt Công Nghệ Số Việt Nam,Chuyên viên- nhân viên,Không yêu cầu,1,thanh hóa,2024-12-10,7500000.0,9000000.0,8282112.0,chuyên viên hỗ trợ kỹ thuật
+759,Việclàm24h,Công Ty TNHH Dịch Vụ Thương Mại Và Bất Động Sản Đăng Khoa,Chuyên viên- nhân viên,Trung cấp,0,hà nội,2024-12-10,8000000.0,12000000.0,9998336.0,chuyên viên hỗ trợ kỹ thuật
+760,Việclàm24h,Công Ty Cổ Phần Sách Mcbooks,Chuyên viên- nhân viên,Trung học,0,hà nội,2024-12-10,10000000.0,12000000.0,10993664.0,chuyên viên hỗ trợ kỹ thuật
+761,Việclàm24h,Công Ty Cổ Phần Công Nghệ W.H.Y Soft,Quản lý nhóm- giám sát,Không yêu cầu,2,tp.hcm,2024-12-10,25000000.0,30000000.0,27684864.0,kỹ sư hệ thống
+762,Việclàm24h,Công Ty Cổ Phần Viễn Thông FPT,Chuyên viên- nhân viên,Trung cấp,0,đà nẵng,2024-12-10,8000000.0,15000000.0,12214272.0,chuyên viên hỗ trợ kỹ thuật
+763,Việclàm24h,Công Ty Luật TNHH Collectius Cms Lawfirm,Chuyên viên- nhân viên,Không yêu cầu,0,tp.hcm,2024-12-10,20000000.0,25000000.0,22482944.0,kỹ sư phần mềm
+764,Việclàm24h,Chi Nhánh Công Ty Cổ Phần Vật Tư Công Nghiệp Bambo,Chuyên viên- nhân viên,Không yêu cầu,0,hà nội,2024-12-10,8000000.0,10000000.0,8798208.0,chuyên viên hỗ trợ kỹ thuật
+766,Việclàm24h,Công Ty TNHH Thương Mại Và Dược Phẩm Hoàng Hà,Chuyên viên- nhân viên,Cử nhân,0,phú thọ,2024-12-10,8000000.0,12000000.0,9998336.0,kỹ sư hệ thống
+767,Việclàm24h,Công Ty Cổ Phần Viễn Thông Act Miền Nam,Chuyên viên- nhân viên,Không yêu cầu,0,lâm đồng,2024-12-10,7000000.0,8000000.0,7528448.0,chuyên viên hỗ trợ kỹ thuật
+768,Việclàm24h,Công Ty Cổ Phần Thương Mại Và Dịch Vụ Thành Phố Mới,Chuyên viên- nhân viên,Không yêu cầu,0,bình dương,2024-12-10,10000000.0,15000000.0,12505088.0,chuyên viên hỗ trợ kỹ thuật
+769,Việclàm24h,Công Ty TNHH China Mobile International (Việt Nam),Chuyên viên- nhân viên,Cử nhân,2,hà nội,2024-12-09,20000000.0,50000000.0,1.061970239892319e+19,chuyên viên tư vấn cntt
+771,Việclàm24h,Công Ty Luật TNHH Collectius Cms Lawfirm,Chuyên viên- nhân viên,Không yêu cầu,0,tp.hcm,2024-12-09,20000000.0,25000000.0,22482944.0,kỹ sư phần mềm
+773,Việclàm24h,Công Ty Cổ Phần Dịch Vụ Phần Mềm Aries,Chuyên viên- nhân viên,Không yêu cầu,2,hà nội,2024-12-09,80000000.0,120000000.0,1.7149287928863089e+18,công nghệ thông tin
+774,Việclàm24h,Công Ty TNHH Thương Mại Và Dịch Vụ Công Nghệ Dns,Chuyên viên- nhân viên,Cử nhân,0,bắc ninh,2024-12-09,7000000.0,15000000.0,9838592.0,chuyên viên hỗ trợ kỹ thuật
+774,Việclàm24h,Công Ty TNHH Thương Mại Và Dịch Vụ Công Nghệ Dns,Chuyên viên- nhân viên,Cử nhân,0,hà nội,2024-12-09,7000000.0,15000000.0,11358208.0,chuyên viên hỗ trợ kỹ thuật
+774,Việclàm24h,Công Ty TNHH Thương Mại Và Dịch Vụ Công Nghệ Dns,Chuyên viên- nhân viên,Cử nhân,0,tp.hcm,2024-12-09,7000000.0,15000000.0,11776000.0,chuyên viên hỗ trợ kỹ thuật
+775,Việclàm24h,Công Ty Cổ Phần Viễn Thông FPT,Chuyên viên- nhân viên,Trung cấp,0,tp.hcm,2024-12-09,8000000.0,20000000.0,13578240.0,chuyên viên hỗ trợ kỹ thuật
+776,Việclàm24h,Công Ty TNHH Cocreation Grass Corporation Việt Nam,Chuyên viên- nhân viên,Cử nhân,0,tây ninh,2024-12-09,9000000.0,12000000.0,9658368.0,chuyên viên hỗ trợ kỹ thuật
+779,Việclàm24h,Công Ty Cổ Phần Dịch Vụ Và Công Nghệ Dina,Chuyên viên- nhân viên,Cử nhân,1,hà nội,2024-12-09,10000000.0,15000000.0,12509184.0,kỹ thuật triển khai
+780,Việclàm24h,Công Ty TNHH KD Quốc Tế,Quản lý cấp cao,Không yêu cầu,2,thái nguyên,2024-12-09,0.0,0.0,-1.9685663316350648e+18,kỹ sư hệ thống
+780,Việclàm24h,Công Ty TNHH KD Quốc Tế,Quản lý cấp cao,Không yêu cầu,2,hà nội,2024-12-09,0.0,0.0,1.1287633830987284e+18,kỹ sư hệ thống
+781,Việclàm24h,Công Ty TNHH Kỹ Thuật Và Công Nghệ Phương Vũ,Chuyên viên- nhân viên,Trung cấp,0,tp.hcm,2024-12-09,8000000.0,15000000.0,11493376.0,chuyên viên hỗ trợ kỹ thuật
+782,Việclàm24h,Công Ty TNHH Winstar Media,Chuyên viên- nhân viên,Cử nhân,0,nghệ an,2024-12-09,7000000.0,10000000.0,-1.9831220008827249e+18,công nghệ thông tin
+784,Việclàm24h,Công Ty Cổ Phần Viễn Thông FPT,Chuyên viên- nhân viên,Cử nhân,0,hải dương,2024-12-07,13000000.0,15000000.0,13979648.0,kỹ sư mạng
+785,Việclàm24h,Công Ty CP Nông Nghiệp Trường Hải,Quản lý cấp cao,Không yêu cầu,3,gia lai,2024-12-07,0.0,0.0,8.318608196265224e+18,chuyên viên tư vấn cntt
+786,Việclàm24h,Công Ty CP Nông Nghiệp Trường Hải,Chuyên viên- nhân viên,Không yêu cầu,1,gia lai,2024-12-07,10000000.0,20000000.0,14995456.0,công nghệ thông tin
+788,Việclàm24h,Công Ty TNHH Cocreation Grass Corporation Việt Nam,Chuyên viên- nhân viên,Cử nhân,0,tây ninh,2024-12-07,9000000.0,12000000.0,9658368.0,chuyên viên hỗ trợ kỹ thuật
+789,Việclàm24h,Công Ty Cổ Phần Viễn Thông FPT,Chuyên viên- nhân viên,Không yêu cầu,2,tp.hcm,2024-12-06,50000000.0,80000000.0,14651392.0,kỹ sư học máy
+791,Việclàm24h,Công Ty Cổ Phần Az Technologies,Quản lý nhóm- giám sát,Cử nhân,1,tp.hcm,2024-12-06,10000000.0,20000000.0,15007744.0,công nghệ thông tin
+792,Việclàm24h,Công Ty Cổ Phần Az Technologies,Chuyên viên- nhân viên,Cử nhân,0,tp.hcm,2024-12-06,3000000.0,4000000.0,3485696.0,công nghệ thông tin
+793,Việclàm24h,Công Ty Tnhh Công Nghệ Và Dịch Vụ Gia Phát,Chuyên viên- nhân viên,Cử nhân,0,hà nội,2024-12-06,8000000.0,15000000.0,11456512.0,chuyên viên hỗ trợ kỹ thuật
+794,Việclàm24h,Công Ty TNHH Phát Triển Thương Mại Tnt,Chuyên viên- nhân viên,Không yêu cầu,0,hải phòng,2024-12-06,7000000.0,15000000.0,10956800.0,chuyên viên hỗ trợ kỹ thuật
+795,Việclàm24h,Công Ty Cổ Phần Viễn Thông FPT,Chuyên viên- nhân viên,Trung cấp,0,phú thọ,2024-12-06,9000000.0,13000000.0,11010048.0,chuyên viên hỗ trợ kỹ thuật
+796,Việclàm24h,Công Ty TNHH Cocreation Grass Corporation Việt Nam,Chuyên viên- nhân viên,Không yêu cầu,0,tây ninh,2024-12-06,9000000.0,12000000.0,10407936.0,công nghệ thông tin
+797,Việclàm24h,Công Ty Cổ Phần Ứng Dụng Công Nghệ Kỹ Thuật Số,Chuyên viên- nhân viên,Không yêu cầu,0,hà nội,2024-12-06,10000000.0,16000000.0,-1.3153235540845416e+19,chuyên viên hỗ trợ kỹ thuật
+798,Việclàm24h,Khách Hàng Của Việc Làm 24H,Chuyên viên- nhân viên,Không yêu cầu,2,đồng nai,2024-12-05,10000000.0,12000000.0,12869632.0,kỹ sư hệ thống
+799,Việclàm24h,Công Ty Cổ Phần Mobifos,Chuyên viên- nhân viên,Không yêu cầu,0,hà nội,2024-12-05,10000000.0,13000000.0,11497472.0,nhà thiết kế
+800,Việclàm24h,Công Ty Cổ Phần Thiết Bị Và Khoa Học Kỹ Thuật Đại Nam,Quản lý cấp trung,Không yêu cầu,2,hà nội,2024-12-05,15000000.0,20000000.0,17518592.0,trưởng phòng kỹ thuật thiết kế vi điện tử
+801,Việclàm24h,Công Ty Cổ Phần Vinasimex,Chuyên viên- nhân viên,Không yêu cầu,0,hà nội,2024-12-05,10000000.0,20000000.0,8.750186852739291e+18,nhà thiết kế
+802,Việclàm24h,Công Ty TNHH Công Nghệ Hogi Việt Nam,Chuyên viên- nhân viên,Không yêu cầu,0,hà nội,2024-12-05,10000000.0,15000000.0,-3.399629865393742e+18,kỹ sư phần mềm
+804,Việclàm24h,Công Ty Cổ Phần Sản Xuất Và Bảo Dưỡng Thiết Bị Hàng Không,Chuyên viên- nhân viên,Cử nhân,1,hà nội,2024-12-05,9000000.0,15000000.0,12062720.0,công nghệ thông tin
+805,Việclàm24h,Công Ty Cổ Phần Viễn Thông FPT,Chuyên viên- nhân viên,Cử nhân,0,tây ninh,2024-12-04,8000000.0,13000000.0,14553088.0,kỹ sư mạng
+806,Việclàm24h,Công Ty Cổ Phần Funtap,Quản lý cấp trung,Không yêu cầu,2,hà nội,2024-12-04,30000000.0,40000000.0,2.690057421822845e+19,relationship manager
+808,Việclàm24h,Công Ty TNHH Thương Mại Và Phát Triển Dịch Vụ Kỹ Thuật (Escom),Chuyên viên- nhân viên,Trung cấp,0,hà nội,2024-12-04,8000000.0,20000000.0,13959168.0,chuyên viên tư vấn cntt
+809,Việclàm24h,Công Ty Cổ Phần Viễn Thông FPT,Chuyên gia,Cử nhân,1,tp.hcm,2024-12-04,30000000.0,35000000.0,32501760.0,kỹ sư phần mềm
+810,Việclàm24h,Công Ty Cổ Phần Viễn Thông FPT,Chuyên gia,Cử nhân,1,tp.hcm,2024-12-04,30000000.0,35000000.0,32501760.0,kỹ sư phần mềm
+812,Việclàm24h,Công Ty Cổ Phần Trường Học Công Nghệ Mindx,Quản lý nhóm- giám sát,Không yêu cầu,0,hà nội,2024-12-04,18000000.0,25000000.0,21454848.0,r&d k12 coding & robotics team leader
+813,Việclàm24h,Công Ty Cổ Phần Thh Decor,Chuyên viên- nhân viên,Không yêu cầu,0,hưng yên,2024-12-04,10000000.0,15000000.0,12509184.0,chuyên viên hỗ trợ kỹ thuật
+814,Việclàm24h,Công Ty Cổ Phần Chứng Khoán Asean,Chuyên viên- nhân viên,Không yêu cầu,1,hà nội,2024-12-03,10000000.0,30000000.0,20148224.0,kỹ sư phần mềm
+815,Việclàm24h,Công Ty TNHH Công Nghệ Và Phần Mềm Trí Dũng,Chuyên viên- nhân viên,Cử nhân,0,hà nội,2024-12-03,8000000.0,15000000.0,11550720.0,chuyên viên hỗ trợ kỹ thuật
+816,Việclàm24h,Công Ty Cổ Phần Tập Đoàn Giải Pháp Sao Mai,Chuyên viên- nhân viên,Không yêu cầu,0,hà nội,2024-12-03,20000000.0,30000000.0,24997888.0,kỹ sư phần mềm
+820,Việclàm24h,Công Ty TNHH Suzuverse Việt Nam,Chuyên viên- nhân viên,Cử nhân,3,hà nội,2024-12-03,30000000.0,70000000.0,1.7149287928921375e+18,kỹ sư phần mềm
+821,Việclàm24h,Công Ty TNHH Công Nghệ Và Truyền Thông Vnditech,Chuyên viên- nhân viên,Không yêu cầu,0,hà nội,2024-12-03,15000000.0,25000000.0,19890176.0,kỹ sư phần mềm
+823,Việclàm24h,Văn Phòng Đại Diện Công Ty Cổ Phần Dịch Vụ Công Nghệ Tsc Việt Nam Tại Bắc Giang,Chuyên viên- nhân viên,Không yêu cầu,1,vĩnh phúc,2024-12-03,10000000.0,20000000.0,14983168.0,kỹ sư hệ thống
+824,Việclàm24h,Công Ty TNHH Kimei Global,Chuyên viên- nhân viên,Không yêu cầu,1,tp.hcm,2024-12-03,30000000.0,50000000.0,1.7149287928875663e+18,kỹ sư phần mềm
+826,Việclàm24h,Chi Nhánh Công Ty TNHH Hoàng Kim Precision,Chuyên viên- nhân viên,Cử nhân,1,tp.hcm,2024-12-03,15000000.0,18000000.0,16506880.0,kỹ sư phần mềm
+827,Việclàm24h,Công Ty TNHH Công Nghệ Altek,Chuyên viên- nhân viên,Không yêu cầu,0,đồng tháp,2024-12-03,6000000.0,10000000.0,8003584.0,kỹ sư kiểm thử phần mềm
+829,Việclàm24h,Công ty Cổ phần Dịch vụ Công nghệ TSC Việt Nam,Chuyên viên- nhân viên,Cử nhân,1,hà nội,2024-12-02,12000000.0,20000000.0,18055168.0,kỹ sư hệ thống
+830,Việclàm24h,Công ty Cổ phần Dịch vụ Công nghệ TSC Việt Nam,Chuyên viên- nhân viên,Cử nhân,0,hà nội,2024-12-02,12000000.0,25000000.0,15814656.0,kỹ sư hệ thống
+833,Việclàm24h,Công ty Cổ phần Dịch vụ Công nghệ TSC Việt Nam,Chuyên viên- nhân viên,Cử nhân,1,hà nội,2024-12-02,10000000.0,15000000.0,12517376.0,kỹ thuật triển khai
+834,Việclàm24h,Công Ty TNHH Andvina,Chuyên viên- nhân viên,Không yêu cầu,1,đà nẵng,2024-12-02,15000000.0,30000000.0,1.5971052615748405e+19,kỹ sư phần mềm
+835,Việclàm24h,Công Ty TNHH Một Thành Viên Wacontre,Chuyên viên- nhân viên,Cử nhân,1,tp.hcm,2024-12-02,20000000.0,40000000.0,29958144.0,kỹ sư phần mềm
+836,Việclàm24h,Công Ty Cổ Phần Cung Cứng Công Nghệ & Giải Pháp Bepos Việt Nam,Chuyên viên- nhân viên,Không yêu cầu,1,hà nội,2024-12-02,13000000.0,16000000.0,14565376.0,công nghệ thông tin
+837,Việclàm24h,Công Ty Cổ Phần Phần Mềm Nhúng Nata,Chuyên viên- nhân viên,Cử nhân,1,hà nội,2024-12-02,20000000.0,30000000.0,24698880.0,kỹ sư phần mềm
+838,Việclàm24h,Công Ty Cổ Phần Thương Mại Công Nghệ Số Topsmart,Chuyên viên- nhân viên,Cử nhân,0,tp.hcm,2024-12-24,7000000.0,10000000.0,5.110589268984019e+19,kỹ sư phần mềm
+840,Việclàm24h,Công Ty Cổ Phần Funtap,Cộng tác viên,Không yêu cầu,0,hà nội,2024-12-04,8000000.0,15000000.0,11554816.0,vận hành
+841,Việclàm24h,Công Ty TNHH Transcosmos Việt Nam,Chuyên gia,Cử nhân,1,tp.hcm,2024-12-13,18000000.0,25000000.0,21532672.0,kỹ sư phần mềm
+842,Việclàm24h,Ngân Hàng TMCP Việt Nam Thương Tín,Chuyên viên- nhân viên,Cử nhân,0,vĩnh phúc,2024-12-02,8000000.0,12000000.0,10006528.0,công nghệ thông tin
+843,Việclàm24h,Công Ty TNHH Thương Mại & Sản Xuất Nệm Mousse Liên Á,Chuyên viên- nhân viên,Không yêu cầu,2,tp.hcm,2024-12-11,25000000.0,30000000.0,27525120.0,chuyên viên bảo mật thông tin
+844,Việclàm24h,Khách Hàng Của Việc Làm 24H,Chuyên viên- nhân viên,Không yêu cầu,1,đồng nai,2024-12-05,12000000.0,13000000.0,10629120.0,kỹ sư hệ thống
+846,Việclàm24h,Công Ty TNHH Stickley International,Chuyên viên- nhân viên,Không yêu cầu,2,bình dương,2024-12-18,20000000.0,30000000.0,25014272.0,kỹ sư phần mềm
+847,Việclàm24h,Công Ty TNHH Rochdale Spears,Chuyên viên- nhân viên,Không yêu cầu,1,bình dương,2024-12-12,10000000.0,50000000.0,29958144.0,chuyên viên bảo mật thông tin
+848,Việclàm24h,Công Ty Cổ Phần Viễn Thông FPT,Chuyên viên- nhân viên,Trung cấp,0,tp.hcm,2024-12-09,10000000.0,20000000.0,13578240.0,chuyên viên hỗ trợ kỹ thuật
+849,Việclàm24h,Chi nhánh 8 - Công Ty TNHH Truyền Hình Cáp Saigontourist,Chuyên viên- nhân viên,Không yêu cầu,0,tp.hcm,2024-12-07,7000000.0,10000000.0,8482816.0,chuyên viên hỗ trợ kỹ thuật
+850,Việclàm24h,Công Ty Cổ Phần Dịch Vụ Công Nghệ Tsc Việt Nam - Chi Nhánh Hải Dương,Chuyên viên- nhân viên,Cử nhân,1,hà nội,2024-12-03,10000000.0,25000000.0,17522688.0,kỹ sư phần mềm
+851,Việclàm24h,Công ty Cổ phần Dịch vụ Công nghệ TSC Việt Nam,Chuyên viên- nhân viên,Cử nhân,1,hà nội,2024-12-02,10000000.0,25000000.0,18087936.0,kỹ sư phần mềm
+855,Việclàm24h,Công Ty TNHH TM Và DV Tin Học Anh Phương,Chuyên viên- nhân viên,Trung cấp,0,tp.hcm,2024-12-24,8000000.0,12000000.0,9949184.0,chuyên viên hỗ trợ kỹ thuật
+856,Việclàm24h,Công Ty Cổ Phần Dayone Asia,Chuyên viên- nhân viên,Không yêu cầu,2,tp.hcm,2024-12-23,15000000.0,20000000.0,-2.7000276631296635e+19,nhà phân tích dữ liệu
+857,Việclàm24h,Công Ty TNHH Thương Mại Và Vận Tải Phương Anh,Chuyên viên- nhân viên,Không yêu cầu,0,hà nội,2024-12-23,8000000.0,10000000.0,9121792.0,công nghệ thông tin
+859,Việclàm24h,Công Ty TNHH Phát Triển Công Nghệ Minh Hà,Chuyên viên- nhân viên,Trung học,0,tp.hcm,2024-12-12,7000000.0,12000000.0,9187328.0,chuyên viên hỗ trợ kỹ thuật
+860,Việclàm24h,Công Ty TNHH Bảo Dưỡng Công Nghệ Toàn Cầu VN,Chuyên viên- nhân viên,Cử nhân,0,tp.hcm,2024-12-10,15000000.0,18000000.0,16474112.0,công nghệ thông tin
+861,Việclàm24h,"NETMARKS VIETNAM CO., LTD",Chuyên viên- nhân viên,Không yêu cầu,0,hà nội,2024-12-09,8000000.0,13000000.0,10547200.0,chuyên viên hỗ trợ kỹ thuật
+862,Việclàm24h,Công Ty Cổ Phần Viễn Thông FPT,Chuyên viên- nhân viên,Cử nhân,0,tp.hcm,2024-12-06,10000000.0,20000000.0,14143488.0,chuyên viên hỗ trợ kỹ thuật
+864,Việclàm24h,Văn Phòng Đại Diện Công Ty Cổ Phần Dịch Vụ Công Nghệ Tsc Việt Nam Tại Hưng Yên,Chuyên viên- nhân viên,Cử nhân,1,hà nội,2024-12-03,12000000.0,20000000.0,15958016.0,kỹ sư hệ thống
+865,Việclàm24h,Công Ty TNHH MTV Dịch Vụ Số Chuyên Nghiệp,Chuyên viên- nhân viên,Cử nhân,1,hà nội,2024-12-03,7000000.0,15000000.0,4.622000808365732e+18,công nghệ thông tin
+866,Việclàm24h,Chi Nhánh Công Ty TNHH Hoàng Kim Precision,Chuyên viên- nhân viên,Cử nhân,1,tp.hcm,2024-12-03,15000000.0,18000000.0,16506880.0,kỹ sư phần mềm
+867,Việclàm24h,Trung tâm đào tạo thiết kế ColorME,Chuyên viên- nhân viên,Không yêu cầu,0,hà nội,2024-12-02,12000000.0,15000000.0,-9.079251604366213e+17,kỹ sư phần mềm
+868,Việclàm24h,Công Ty Cổ Phần Phát Triển Công Nghệ Ngày Đêm,Chuyên viên- nhân viên,Không yêu cầu,0,hà nội,2024-12-02,8000000.0,15000000.0,11485184.0,chuyên viên hỗ trợ kỹ thuật
+869,Việclàm24h,Văn Phòng Đại Diện Công Ty Cổ Phần Dịch Vụ Công Nghệ Tsc Việt Nam Tại Vĩnh Phúc,Chuyên viên- nhân viên,Cử nhân,1,hà nội,2024-12-02,10000000.0,25000000.0,17518592.0,kỹ sư phần mềm
+870,Việclàm24h,Công Ty Cổ Phần Linh Kiện Và Mực In Sài Gòn,Chuyên viên- nhân viên,Trung cấp,0,tp.hcm,2024-12-17,8000000.0,15000000.0,11468800.0,chuyên viên hỗ trợ kỹ thuật
+871,Vietnamwork,HYUNDAI Kefico,Mới Tốt Nghiệp,Không yêu cầu,2,hà nội,2024-12-02,0.0,0.0,-4.4464551147953766e+17,kỹ sư phần mềm
+872,Vietnamwork,Navigos Group,Nhân viên,Không yêu cầu,3,hồ chí minh,2024-12-02,30000000.0,62000000.0,-4.0989440183677256e+18,kỹ sư phần mềm
+873,Vietnamwork,1C Vietnam LLC,Nhân viên,Không yêu cầu,1,hà nội,2024-12-04,0.0,0.0,-1.36949907711488e+18,mới chuyên viên triển khai phần mềm
+874,Vietnamwork,Prudential Vietnam Assurance,Trưởng phòng,Không yêu cầu,1,hồ chí minh,2024-12-05,0.0,0.0,1.1287633830915973e+18,nhà phân tích dữ liệu
+875,Vietnamwork,"Danieli – Industrielle Beteiligung Co., Ltd",Nhân viên,Không yêu cầu,2,hồ chí minh,2024-12-03,0.0,0.0,-4.098944018372342e+18,kỹ sư mạng
+876,Vietnamwork,Netcompany,Mới Tốt Nghiệp,Không yêu cầu,0,hồ chí minh,2024-12-02,0.0,0.0,-4.4464551148355174e+17,kỹ sư phần mềm
+877,Vietnamwork,Athena Studio,Nhân viên,Không yêu cầu,0,hồ chí minh,2024-12-11,0.0,0.0,-1.367466103869522e+18,mới mobile game research assistant
+878,Vietnamwork,Navigos Group,Nhân viên,Không yêu cầu,3,hồ chí minh,2024-12-23,30000000.0,50000000.0,-4.0989440183677256e+18,kỹ sư phần mềm
+879,Vietnamwork,Công Ty Cổ Phần Giải Pháp Gene,Nhân viên,Không yêu cầu,0,hồ chí minh,2024-12-09,0.0,0.0,-4.098944018387366e+18,nhà khoa học dữ liệu
+880,Vietnamwork,"Nexon Networks Vina Co. Ltd,",Nhân viên,Không yêu cầu,0,hồ chí minh,2024-12-24,0.0,0.0,-1.3694990771166536e+18,mới qa game tester
+881,Vietnamwork,Công Ty TNHH Công Nghệ Huawei Việt Nam,Mới Tốt Nghiệp,Không yêu cầu,0,hà nội,2024-12-19,0.0,0.0,2.2847994297737748e+18,excellent management trainee
+882,Vietnamwork,Navigos Group,Nhân viên,Không yêu cầu,2,hồ chí minh,2024-11-29,30000000.0,45000000.0,4.177434193474093e+18,nhà thiết kế
+883,Vietnamwork,LG Electronics Development Vietnam Company Limited,Nhân viên,Không yêu cầu,0,đà nẵng,2024-11-29,20000000.0,62000000.0,-4.0989440183758643e+18,kỹ sư phần mềm
+884,Vietnamwork,LG Electronics R&D Vietnam,Mới Tốt Nghiệp,Không yêu cầu,0,hà nội,2024-12-03,0.0,55000000.0,-4.446455114840187e+17,kỹ sư phần mềm
+885,Vietnamwork,LG Electronics R&D Vietnam,Mới Tốt Nghiệp,Không yêu cầu,2,hà nội,2024-12-03,0.0,55000000.0,-4.4464551147953766e+17,kỹ sư phần mềm
+886,Vietnamwork,NAB Innovation Centre Vietnam,Nhân viên,Không yêu cầu,1,hà nội,2024-12-02,0.0,0.0,-1.36949907711488e+18,associate
+888,Vietnamwork,VINFAST TRADING AND PRODUCTION JSC,Nhân viên,Không yêu cầu,3,hà nội,2024-12-20,0.0,0.0,-1.369499077110399e+18,plm maintenance senior
+888,Vietnamwork,VINFAST TRADING AND PRODUCTION JSC,Nhân viên,Không yêu cầu,3,hải phòng,2024-12-20,0.0,0.0,-1.369499077107757e+18,plm maintenance senior
+890,Vietnamwork,"Công Ty Cổ Phần Công Nghệ Thông Tin, Viễn Thông Và Tự Động Hoá Dầu Khí",Nhân viên,Không yêu cầu,2,hà nội,2024-12-13,0.0,0.0,8.857432061070547e+18,chuyên viên bảo mật thông tin
+891,Vietnamwork,Hanacans JSC,Nhân viên,Không yêu cầu,0,bắc ninh,2024-12-09,20000000.0,25000000.0,22478848.0,công nghệ thông tin
+891,Vietnamwork,Hanacans JSC,Nhân viên,Không yêu cầu,0,hà nội,2024-12-09,20000000.0,25000000.0,24002560.0,công nghệ thông tin
+892,Vietnamwork,Công Ty Cổ Phần Nhà An Toàn,Nhân viên,Không yêu cầu,0,hà nội,2024-12-24,12000000.0,18000000.0,14909440.0,chuyên viên hỗ trợ kỹ thuật
+893,Vietnamwork,Công Ty Cổ Phần Công Nghệ Thẻ Nacencomm,Nhân viên,Không yêu cầu,2,hà nội,2024-12-27,0.0,0.0,-4.098944018370437e+18,kỹ sư phần mềm
+894,Vietnamwork,Toyota Financial Services Vietnam,Nhân viên,Không yêu cầu,2,hồ chí minh,2024-12-13,0.0,0.0,-4.0989440183730504e+18,công nghệ thông tin
+896,Vietnamwork,Công Ty TNHH Công Nghệ Huawei Việt Nam,Nhân viên,Không yêu cầu,0,hà nội,2024-12-12,0.0,0.0,-4.098944018374918e+18,kỹ sư phần mềm
+897,Vietnamwork,Athena Studio,Nhân viên,Không yêu cầu,3,hồ chí minh,2024-12-09,20000000.0,30000000.0,4.179467166723465e+18,nhà thiết kế
+898,Vietnamwork,Công Ty Cổ Phần Chứng Khoán Vndirect,Nhân viên,Không yêu cầu,2,hà nội,2024-12-23,0.0,0.0,-4.098944018373513e+18,công nghệ thông tin
+899,Vietnamwork,"Emers Vietnam Co., Ltd",Nhân viên,Không yêu cầu,2,hồ chí minh,2024-12-26,0.0,0.0,-4.0989440183742996e+18,chuyên viên hỗ trợ kỹ thuật
+900,Vietnamwork,VNG Corporation,Mới Tốt Nghiệp,Không yêu cầu,0,hồ chí minh,2024-12-05,0.0,0.0,-4.446455114859233e+17,kỹ sư mạng
+901,Vietnamwork,Công Ty Cổ Phần Synnex FPT,Nhân viên,Không yêu cầu,2,hà nội,2024-12-26,0.0,0.0,-4.098944018370437e+18,kỹ sư phần mềm
+903,Vietnamwork,SAPP Academy,Nhân viên,Không yêu cầu,1,hà nội,2024-12-26,13000000.0,25000000.0,18903040.0,kỹ sư phần mềm
+905,Vietnamwork,TIKI Company Limited,Nhân viên,Không yêu cầu,2,hồ chí minh,2024-12-05,0.0,0.0,-4.098944018369966e+18,kỹ sư phần mềm
+906,Vietnamwork,ITECHWX COMPANY LIMITED,Nhân viên,Không yêu cầu,0,hồ chí minh,2024-12-05,20000000.0,24000000.0,21917696.0,kỹ sư phần mềm
+908,Vietnamwork,Công ty Cổ phần Logistics Hàng không (ALS),Nhân viên,Không yêu cầu,0,hà nội,2024-12-10,12000000.0,16000000.0,14008320.0,chuyên viên hỗ trợ kỹ thuật
+909,Vietnamwork,"Framas Footwear Technologies Co., LTD",Nhân viên,Không yêu cầu,0,đồng nai,2024-12-24,0.0,0.0,-4.098944018374476e+18,kỹ sư phần mềm
+910,Vietnamwork,Công Ty TNHH Bảo Hiểm Nhân Thọ Generali Việt Nam,Nhân viên,Không yêu cầu,2,hồ chí minh,2024-12-02,0.0,0.0,-1.3694990771121725e+18,operational transformation supervisor
+912,Vietnamwork,Công Ty Cổ Phần HDV Mobisoft,Nhân viên,Không yêu cầu,1,hà nội,2024-12-23,0.0,50000000.0,-4.0989440183726776e+18,kỹ sư phần mềm
+913,Vietnamwork,Công Ty TNHH Sorimachi Việt Nam,Giám Đốc và Cấp Cao Hơn,Không yêu cầu,3,hồ chí minh,2024-12-23,0.0,0.0,3.8582083243592663e+18,giám đốc kỹ thuật
+914,Vietnamwork,FPT Software,Trưởng phòng,Không yêu cầu,3,hồ chí minh,2024-12-09,0.0,75000000.0,3.8582083243592663e+18,nhà phát triển web
+915,Vietnamwork,Công Ty TNHH Công Nghệ Và Giải Pháp Phần Mềm Crossian,Nhân viên,Không yêu cầu,0,hà nội,2024-12-09,0.0,0.0,-4.0989440183803126e+18,nhà phân tích dữ liệu
+916,Vietnamwork,Unilever Vietnam,Nhân viên,Không yêu cầu,0,hồ chí minh,2024-12-09,15000000.0,17000000.0,15937536.0,data controller & plant admin
+917,Vietnamwork,Simpson Strong-Tie Vietnam Company Limited,Nhân viên,Không yêu cầu,2,hồ chí minh,2024-12-09,0.0,0.0,-4.098944018369999e+18,kỹ sư hệ thống
+920,Vietnamwork,Athena Studio,Nhân viên,Không yêu cầu,0,hồ chí minh,2024-12-19,10000000.0,12000000.0,-4.0969110451318047e+18,kỹ sư kiểm thử phần mềm
+922,Vietnamwork,"Toshiba Software Development (Vietnam) CO., LTD",Mới Tốt Nghiệp,Không yêu cầu,0,hà nội,2024-12-20,3300000.0,10000000.0,6598656.0,on job training for ai
+923,Vietnamwork,"First Trust ACPA Vietnam CO., LTD",Nhân viên,Không yêu cầu,0,hà nội,2024-12-18,0.0,0.0,-4.098944018374947e+18,kỹ sư hệ thống
+924,Vietnamwork,Arctx Solution LLC,Nhân viên,Không yêu cầu,0,hà nội,2024-12-27,0.0,0.0,-4.098944018374918e+18,kỹ sư phần mềm
+927,Vietnamwork,Acclime Vietnam,Nhân viên,Không yêu cầu,0,hồ chí minh,2024-12-27,0.0,0.0,-4.0989440183787807e+18,chuyên viên hỗ trợ kỹ thuật
+929,Vietnamwork,Kinderworld International Group (Singapore International School),Nhân viên,Không yêu cầu,0,đà nẵng,2024-12-06,0.0,0.0,-4.098944018375893e+18,kỹ sư hệ thống
+930,Vietnamwork,Công Ty Cổ Phần Phân Phối Quốc Tế,Nhân viên,Không yêu cầu,0,hồ chí minh,2024-12-06,0.0,0.0,-2.5203581771703267e+19,kỹ sư phần mềm
+931,Vietnamwork,"Mizuho Bank, Ltd. - HCMC Branch",Nhân viên,Không yêu cầu,0,hồ chí minh,2024-12-06,0.0,0.0,-4.0989440183775314e+18,công nghệ thông tin
+932,Vietnamwork,Công Ty TNHH CJ Olivenetworks VINA,Nhân viên,Không yêu cầu,0,hồ chí minh,2024-12-06,0.0,0.0,-4.098944018374447e+18,kỹ sư phần mềm
+933,Vietnamwork,Ngân Hàng Thương Mại Cổ Phần Quân Đội - MB,Nhân viên,Không yêu cầu,1,hà nội,2024-12-04,0.0,0.0,-4.098944018377167e+18,kỹ sư kiểm thử phần mềm
+934,Vietnamwork,PwC (Vietnam) Ltd.,Mới Tốt Nghiệp,Không yêu cầu,0,hà nội,2024-12-04,0.0,0.0,2.2847994297737748e+18,associate
+935,Vietnamwork,Ngân hàng Lộc Phát Việt Nam LPBank,Nhân viên,Không yêu cầu,2,hà nội,2024-12-05,0.0,0.0,-4.098944018373513e+18,công nghệ thông tin
+936,Vietnamwork,Ernst & Young Vietnam Limited (EY Vietnam),Nhân viên,Không yêu cầu,2,hà nội,2024-12-05,0.0,0.0,-4.098944018373513e+18,công nghệ thông tin
+937,Vietnamwork,C.E.O,Nhân viên,Không yêu cầu,2,hồ chí minh,2024-12-04,0.0,0.0,-4.0989440183753605e+18,nhà phân tích dữ liệu
+937,Vietnamwork,C.E.O,Nhân viên,Không yêu cầu,2,hà nội,2024-12-04,0.0,0.0,-4.0989440183758316e+18,nhà phân tích dữ liệu
+939,Vietnamwork,Trường THCS Và THPT Đinh Thiện Lý ( Lawrence S.ting School ),Nhân viên,Không yêu cầu,2,hồ chí minh,2024-12-04,0.0,0.0,-4.0989440183730504e+18,công nghệ thông tin
+941,Vietnamwork,"Japan Awaits Co., Ltd.",Nhân viên,Không yêu cầu,3,quốc tế,2024-12-03,57000000.0,67000000.0,-7.196273733101994e+18,kỹ sư phần mềm
+942,Vietnamwork,Lotte Center Hanoi,Trưởng phòng,Không yêu cầu,2,hà nội,2024-12-03,0.0,0.0,3.858208324356559e+18,planning manager
+943,Vietnamwork,Bosch Global Software Technologies Company Limited,Trưởng phòng,Không yêu cầu,3,hồ chí minh,2024-12-03,0.0,0.0,1.1287633830983885e+18,công nghệ thông tin
+944,Vietnamwork,Coats Phong Phu,Nhân viên,Không yêu cầu,3,hồ chí minh,2024-12-13,0.0,0.0,-4.0989440183677256e+18,kỹ sư phần mềm
+946,Vietnamwork,Ngân Hàng Thương Mại Cổ Phần Thịnh Vượng Và Phát Triển (PGBANK),Nhân viên,Không yêu cầu,0,hà nội,2024-12-03,12000000.0,37000000.0,24457216.0,chuyên viên cao cấp phát triển ứng dụng
+947,Vietnamwork,Emasi Group of Bilingual International Schools,Nhân viên,Không yêu cầu,1,hồ chí minh,2024-12-03,0.0,0.0,-4.0989440183722066e+18,kỹ sư phần mềm
+948,Vietnamwork,Puwell Cloud Tech Limited,Thực tập sinh/Sinh viên,Không yêu cầu,0,hồ chí minh,2024-12-03,3000000.0,5000000.0,4018176.0,kỹ sư phần mềm
+949,Vietnamwork,Public Bank Securities Vietnam Company Limited (PBSV),Nhân viên,Không yêu cầu,2,hà nội,2024-12-02,0.0,0.0,-4.098944018370437e+18,kỹ sư phần mềm
+950,Vietnamwork,Công Ty Cổ Phần Chứng Khoán Việt Thành,Nhân viên,Không yêu cầu,2,hồ chí minh,2024-12-23,0.0,0.0,-4.098944018369999e+18,kỹ sư hệ thống
+951,Vietnamwork,Stimulai,Thực tập sinh/Sinh viên,Không yêu cầu,0,hà nội,2024-12-11,20000000.0,37000000.0,-3.6227920730388726e+18,kỹ sư phần mềm
+952,Vietnamwork,ASIA INGREDIENTS GROUP,Trưởng phòng,Không yêu cầu,3,hồ chí minh,2024-12-11,0.0,0.0,1.4085139462542453e+19,chuyên viên bảo mật thông tin
+953,Vietnamwork,Taixin Printing Vina,Trưởng phòng,Không yêu cầu,3,hà nội,2024-12-11,25000000.0,62000000.0,3.8582083243587994e+18,nhà phát triển web
+954,Vietnamwork,ILA Vietnam,Nhân viên,Không yêu cầu,1,hồ chí minh,2024-12-11,0.0,0.0,-4.0989440183722066e+18,kỹ sư phần mềm
+955,Vietnamwork,Công Ty Cổ Phần Phân Phối Quốc Tế,Nhân viên,Không yêu cầu,0,hồ chí minh,2024-12-11,3000000.0,12000000.0,7487488.0,nhân viên hạ tầng
+956,Vietnamwork,Công Ty TNHH Summit Polymers Vietnam,Nhân viên,Không yêu cầu,2,hồ chí minh,2024-12-11,0.0,0.0,-4.0989440183730504e+18,công nghệ thông tin
+957,Vietnamwork,Công Ty TNHH Sản Xuất Và Kinh Doanh Vinfast - Thành Viên Của Vingroup,Thực tập sinh/Sinh viên,Không yêu cầu,0,hà nội,2024-12-11,0.0,5000000.0,3.167487281231241e+18,công nghệ thông tin
+957,Vietnamwork,Công Ty TNHH Sản Xuất Và Kinh Doanh Vinfast - Thành Viên Của Vingroup,Thực tập sinh/Sinh viên,Không yêu cầu,0,hải phòng,2024-12-11,0.0,5000000.0,3.167487281233883e+18,công nghệ thông tin
+958,Vietnamwork,Công ty Cổ phần Chứng khoán Bảo Việt,Nhân viên,Không yêu cầu,0,hồ chí minh,2024-12-11,17000000.0,30000000.0,23924736.0,chuyên viên bảo mật thông tin
+958,Vietnamwork,Công ty Cổ phần Chứng khoán Bảo Việt,Nhân viên,Không yêu cầu,0,hà nội,2024-12-11,17000000.0,30000000.0,23457792.0,chuyên viên bảo mật thông tin
+959,Careerviet,Công ty TNHH Sài Gòn Stec,Nhân viên,Không yêu cầu,1,bình dương,2024-12-15,15000000.0,23000000.0,19021824.0,kỹ sư phần mềm
+960,Careerviet,CÔNG TY CỔ PHẦN THIẾT KẾ VÀ QUẢN LÝ KỸ THUẬT IMP,Nhân viên,Không yêu cầu,1,bình dương,2024-12-28,11000000.0,15000000.0,12984320.0,kỹ sư phần mềm
+962,Careerviet,Vietnamese-German University (VGU),Nhân viên,Không yêu cầu,2,bình dương,2024-12-20,20000000.0,30000000.0,25378816.0,kỹ sư hệ thống
+963,Careerviet,Vietnamese-German University (VGU),Nhân viên,Không yêu cầu,2,bình dương,2024-12-20,20000000.0,30000000.0,25411584.0,kỹ sư phần mềm
+964,Careerviet,Công ty Omron Healthcare Manufacturing Việt Nam,Trưởng nhóm / Giám sát,Không yêu cầu,2,bình dương,2024-12-26,0.0,0.0,-4.664999581813047e+18,kỹ sư học máy
+965,Careerviet,CÔNG TY TNHH CRYSTAL ELEGANCE TEXTILES VIỆT NAM,Trưởng nhóm / Giám sát,Không yêu cầu,2,bình dương,2024-12-25,0.0,0.0,-4.664999581805253e+18,kỹ sư phần mềm
+966,Careerviet,Wanek Furniture,Nhân viên,Không yêu cầu,2,bình dương,2024-12-25,0.0,0.0,-4.0989440183700275e+18,kỹ sư hệ thống
+967,Careerviet,Công ty TNHH Omron Healthcare Manufacturing Việt Nam,Nhân viên,Không yêu cầu,1,bình dương,2024-12-23,0.0,0.0,-4.0989440183722394e+18,kỹ sư phần mềm
+968,Careerviet,Công ty TNHH Omron Healthcare Manufacturing Việt Nam,Nhân viên,Không yêu cầu,2,bình dương,2024-12-23,0.0,0.0,-4.098944018369999e+18,kỹ sư phần mềm
+969,Careerviet,Wipro Consumer Care Vietnam,Nhân viên,Không yêu cầu,1,bình dương,2024-12-22,0.0,0.0,-4.0989440183722394e+18,kỹ sư phần mềm
+970,Careerviet,CÔNG TY TNHH GUNZETAL (VIỆT NAM),Nhân viên,Không yêu cầu,1,bình dương,2024-12-19,15000000.0,20000000.0,-1.3792363497148019e+19,kỹ sư phần mềm
+971,Careerviet,Vietnamese-German University (VGU),Nhân viên,Không yêu cầu,1,bình dương,2024-12-19,15000000.0,25000000.0,18837504.0,chuyên viên hỗ trợ kỹ thuật
+972,Careerviet,Công Ty TNHH PMAS,Nhân viên,Không yêu cầu,3,bình dương,2024-12-18,0.0,0.0,-4.0989440183731487e+18,nhà phân tích dữ liệu
+973,Careerviet,Liên Hiệp HTX Thương Mại TPHCM - SAIGON CO.OP,Nhân viên,Không yêu cầu,0,bình dương,2024-12-17,0.0,0.0,-1.3694990771166822e+18,nhân viên vi tính kho trung tâm phân phối bình dương
+974,Careerviet,Ngân Hàng TMCP Tiên Phong (TPBank),Nhân viên,Không yêu cầu,2,hà nội,2024-12-18,0.0,0.0,-4.098944018370466e+18,kỹ sư hệ thống
+975,Careerviet,Ngân Hàng TMCP Tiên Phong (TPBank),Nhân viên,Không yêu cầu,2,hà nội,2024-12-18,0.0,0.0,8.857432061070547e+18,chuyên viên bảo mật thông tin
+976,Careerviet,Ngân Hàng TMCP Tiên Phong (TPBank),Mới tốt nghiệp,Không yêu cầu,0,hà nội,2024-12-18,0.0,0.0,2.3634661588249993e+19,chuyên viên bảo mật thông tin
+977,Careerviet,Ngân Hàng TMCP Tiên Phong (TPBank),Nhân viên,Không yêu cầu,2,hà nội,2024-12-18,0.0,0.0,-1.3694990771126395e+18,chuyên viên cao cấp phân tích cảnh báo sớm và giám sát hệ thống
+978,Careerviet,Ngân Hàng TMCP Tiên Phong (TPBank),Nhân viên,Không yêu cầu,2,hà nội,2024-12-17,0.0,0.0,-4.098944018373513e+18,công nghệ thông tin
+980,Careerviet,Công ty TNHH Greystone Data Systems Việt Nam,Nhân viên,Không yêu cầu,0,hồ chí minh,2024-12-16,10000000.0,25000000.0,16871424.0,kỹ sư phần mềm
+981,Careerviet,Bảo mật,Mới tốt nghiệp,Không yêu cầu,0,hà nội,2024-12-16,14000000.0,24000000.0,18989056.0,kỹ sư triển khai kỹ thuật
+982,Careerviet,Teamwork Vietnam Ltd,Nhân viên,Không yêu cầu,3,hồ chí minh,2024-12-16,0.0,0.0,-2.368200313319699e+19,kỹ sư phần mềm
+983,Careerviet,NGÂN HÀNG TMCP KỸ THƯƠNG VIỆT NAM (TECHCOMBANK),Nhân viên,Không yêu cầu,3,hà nội,2024-12-16,0.0,0.0,-1.369499077110399e+18,chuyên gia hoạch định dữ liệu
+984,Careerviet,Teamwork Vietnam Ltd,Nhân viên,Không yêu cầu,3,hồ chí minh,2024-12-15,0.0,0.0,-1.4777229527163695e+19,chuyên viên tư vấn cntt
+985,Careerviet,Công ty TNHH Sài Gòn Stec,Nhân viên,Không yêu cầu,1,bình dương,2024-12-15,15000000.0,23000000.0,19021824.0,kỹ sư phần mềm
+986,Careerviet,CÔNG TY TNHH SKYLAB INNOGRAM VIỆT NAM,Nhân viên,Không yêu cầu,0,hồ chí minh,2024-12-13,0.0,0.0,-4.098944018374447e+18,kỹ sư phần mềm
+987,Careerviet,CÔNG TY TNHH SKYLAB INNOGRAM VIỆT NAM,Nhân viên,Không yêu cầu,2,hồ chí minh,2024-12-13,0.0,0.0,-4.098944018369966e+18,kỹ sư phần mềm
+988,Careerviet,Công Ty Tài Chính TNHH MB SHINSEI (MCREDIT),Nhân viên,Không yêu cầu,3,hà nội,2024-12-07,0.0,0.0,-4.098944018373591e+18,nhà phân tích dữ liệu
+989,Careerviet,Panasonic R&D Center Vietnam,Nhân viên,Không yêu cầu,2,hà nội,2024-12-25,0.0,0.0,-4.098944018370437e+18,kỹ sư phần mềm
+990,Careerviet,Panasonic R&D Center Vietnam,Nhân viên,Không yêu cầu,1,hà nội,2024-12-25,0.0,0.0,-4.0989440183726776e+18,kỹ sư phần mềm
+992,Careerviet,CÔNG TY CỔ PHẦN TẬP ĐOÀN CÔNG NGHỆ OMMANI,Nhân viên,Không yêu cầu,1,hà nội,2024-12-28,12000000.0,15000000.0,13410304.0,công nghệ thông tin
+993,Careerviet,Công ty Cổ phần CANIFA,Nhân viên,Không yêu cầu,1,hà nội,2024-12-28,8000000.0,16000000.0,2.7294449412839055e+18,nhân viên phân tích nghiệp vụ erp
+994,Careerviet,Công Ty Cổ Phần Đầu tư Hoàng Đạo,Nhân viên,Không yêu cầu,1,hồ chí minh,2024-12-28,0.0,0.0,-4.09894401837654e+18,chuyên viên hỗ trợ kỹ thuật
+995,Careerviet,Công Ty CP Vàng Bạc Đá Quý Phú Nhuận - PNJ,Nhân viên,Không yêu cầu,3,hồ chí minh,2024-12-28,0.0,0.0,-4.09894401837312e+18,nhà phân tích dữ liệu
+996,Careerviet,Ngân Hàng TMCP Việt Nam Thịnh Vượng - VPBANK,Nhân viên,Không yêu cầu,3,hồ chí minh,2024-12-28,0.0,0.0,-1.369499077109932e+18,chuyên gia thiết kế hệ thống cntt
+998,Careerviet,Ngân Hàng TMCP Sài Gòn - Hà Nội ( SHB ),Nhân viên,Không yêu cầu,3,hà nội,2024-12-28,0.0,0.0,-4.098944018373591e+18,nhà phân tích dữ liệu
+999,Careerviet,Ngân Hàng TMCP Sài Gòn - Hà Nội ( SHB ),Nhân viên,Không yêu cầu,3,hà nội,2024-12-28,0.0,0.0,-4.098944018373591e+18,nhà phân tích dữ liệu
+1001,Careerviet,CÔNG TY CỔ PHẦN THIẾT KẾ VÀ QUẢN LÝ KỸ THUẬT IMP,Nhân viên,Không yêu cầu,1,bình dương,2024-12-28,11000000.0,15000000.0,12984320.0,kỹ sư phần mềm
+1002,Careerviet,CÔNG TY CỔ PHẦN KINH DOANH F88,Nhân viên,Không yêu cầu,3,hà nội,2024-12-28,0.0,0.0,2.7294449412902257e+18,chuyên viên chính vận hành
+1003,Careerviet,CÔNG TY TNHH TRANSCOSMOS VIỆT NAM,Trưởng nhóm / Giám sát,Không yêu cầu,1,hồ chí minh,2024-12-28,25000000.0,35000000.0,29990912.0,kỹ sư phần mềm
+1004,Careerviet,CÔNG TY TNHH MEDRING VIỆT NAM INTERNATIONAL,Trưởng nhóm / Giám sát,Không yêu cầu,3,hà nội,2024-12-28,40000000.0,65000000.0,-4.664999581803454e+18,kỹ sư phần mềm
+1006,Careerviet,"MrVina Technology Co.,ltd",Nhân viên,Không yêu cầu,3,hồ chí minh,2024-12-28,0.0,0.0,-4.0989440183677256e+18,kỹ sư phần mềm
+1007,Careerviet,Công ty Cổ phần Tập đoàn Meey Land,Giám đốc,Không yêu cầu,3,hà nội,2024-12-28,70000000.0,100000000.0,3.8582083243587994e+18,giám đốc trung tâm công nghệ blockchain
+1008,Careerviet,Vietmap - Công ty Cổ phần Ứng Dụng Bản Đồ Việt,Nhân viên,Không yêu cầu,1,hà nội,2024-12-28,10000000.0,15000000.0,12529664.0,chuyên viên hỗ trợ kỹ thuật
+1009,Careerviet,Công ty CP IIG Việt Nam,Nhân viên,Không yêu cầu,2,hà nội,2024-12-28,15000000.0,25000000.0,20082688.0,kỹ sư phần mềm
+1010,Careerviet,Yes4All Trading Services Company Limited,Quản lý,Không yêu cầu,3,hồ chí minh,2024-12-28,0.0,0.0,3.8582083243592663e+18,head of data
+1011,Careerviet,CÔNG TY CỔ PHẦN KINH DOANH F88,Nhân viên,Không yêu cầu,2,hà nội,2024-12-27,25000000.0,50000000.0,30187520.0,kỹ sư phần mềm
+1013,Careerviet,CÔNG TY TNHH TM DV XUẤT NHẬP KHẨU NAM THẮNG,Nhân viên,Không yêu cầu,0,hồ chí minh,2024-12-20,7000000.0,15000000.0,11030528.0,chuyên viên hỗ trợ kỹ thuật
+1015,Careerviet,Công ty Cổ phần Kim Long Motor Huế,Nhân viên,Không yêu cầu,1,thừa thiên- huế,2024-12-20,10000000.0,30000000.0,8.010033589580354e+18,chuyên viên hệ thống số hóa
+1016,Careerviet,Ngân Hàng TMCP Quân Đội,Nhân viên,Không yêu cầu,2,hà nội,2024-12-20,0.0,0.0,-1.3694990771126395e+18,nhà phát triển web
+1018,Careerviet,Ngân Hàng TMCP Quân Đội,Nhân viên,Không yêu cầu,2,hà nội,2024-12-20,0.0,0.0,-4.0989440183749263e+18,kỹ sư kiểm thử phần mềm
+1020,Careerviet,Ngân Hàng TMCP Quân Đội,Nhân viên,Không yêu cầu,2,hà nội,2024-12-20,0.0,0.0,-4.098944018370466e+18,kỹ sư hệ thống
+1021,Careerviet,Ngân Hàng TMCP Quân Đội,Nhân viên,Không yêu cầu,2,hà nội,2024-12-20,0.0,0.0,-4.098944018370466e+18,kỹ sư hệ thống
+1022,Careerviet,Hệ thống Y tế Thu Cúc,Nhân viên,Không yêu cầu,1,hà nội,2024-12-20,0.0,0.0,-4.0989440183727063e+18,kỹ sư hệ thống
+1023,Careerviet,PERSOLKELLY Vietnam,Nhân viên,Không yêu cầu,2,hồ chí minh,2024-12-20,20000000.0,30000000.0,25182208.0,công nghệ thông tin
+1024,Careerviet,Ngân Hàng TMCP Tiên Phong (TPBank),Nhân viên,Không yêu cầu,3,hà nội,2024-12-20,0.0,0.0,8.857432061072787e+18,chuyên viên bảo mật thông tin
+1025,Careerviet,Ngân Hàng TMCP Tiên Phong (TPBank),Nhân viên,Không yêu cầu,2,hà nội,2024-12-20,0.0,0.0,-4.098944018370466e+18,kỹ sư hệ thống
+1026,Careerviet,Vietnamese-German University (VGU),Nhân viên,Không yêu cầu,2,bình dương,2024-12-20,20000000.0,30000000.0,25378816.0,kỹ sư hệ thống
+1027,Careerviet,Vietnamese-German University (VGU),Nhân viên,Không yêu cầu,2,bình dương,2024-12-20,20000000.0,30000000.0,25411584.0,kỹ sư phần mềm
+1029,Careerviet,Công ty TNHH Greystone Data Systems Việt Nam,Nhân viên,Không yêu cầu,1,hồ chí minh,2024-12-20,12000000.0,25000000.0,19111936.0,kỹ sư phần mềm
+1030,Careerviet,CÔNG TY CỔ PHẦN TẬP ĐOÀN IVI,Nhân viên,Không yêu cầu,1,hà nội,2024-12-20,15000000.0,20000000.0,17596416.0,kỹ sư hệ thống
+1031,Careerviet,Công ty Omron Healthcare Manufacturing Việt Nam,Trưởng nhóm / Giám sát,Không yêu cầu,2,bình dương,2024-12-26,0.0,0.0,-4.664999581813047e+18,kỹ sư học máy
+1032,Careerviet,DHG,Nhân viên,Không yêu cầu,1,hà nội,2024-12-26,12000000.0,15000000.0,13570048.0,chuyên viên hỗ trợ kỹ thuật
+1033,Careerviet,Ngân Hàng TMCP Quân Đội,Nhân viên,Không yêu cầu,3,hà nội,2024-12-26,0.0,0.0,-4.0989440183682253e+18,kỹ sư hệ thống
+1034,Careerviet,CÔNG TY CỔ PHẦN KINH DOANH F88,Quản lý,Không yêu cầu,3,hà nội,2024-12-26,0.0,0.0,7.957152342759424e+18,trưởng phòng an toàn thông tin
+1035,Careerviet,Ngân hàng TMCP Việt Á – VietABank,Nhân viên,Không yêu cầu,3,hà nội,2024-12-26,0.0,0.0,1.2552534589873224e+19,quản lý dự án
+1036,Careerviet,LOTTE FINANCE VIETNAM,Nhân viên,Không yêu cầu,1,hà nội,2024-12-25,15000000.0,25000000.0,19951616.0,công nghệ thông tin
+1038,Careerviet,Ngân Hàng TMCP Quân Đội,Nhân viên,Không yêu cầu,0,hà nội,2024-12-26,0.0,0.0,-4.098944018374947e+18,kỹ sư hệ thống
+1039,Careerviet,Ngân Hàng TMCP Quân Đội,Nhân viên,Không yêu cầu,0,hà nội,2024-12-26,0.0,0.0,4.805829587658379e+18,chuyên viên tư vấn cntt
+1040,Careerviet,Ngân Hàng TMCP Việt Nam Thịnh Vượng - VPBANK,Nhân viên,Không yêu cầu,3,hà nội,2024-12-26,0.0,0.0,-4.0989440183811113e+18,nhà khoa học dữ liệu
+1042,Careerviet,Ngân Hàng TMCP Sài Gòn - Hà Nội ( SHB ),Nhân viên,Không yêu cầu,3,hà nội,2024-12-26,0.0,0.0,-4.0989440183681966e+18,kỹ sư phần mềm
+1043,Careerviet,Ngân Hàng TMCP Sài Gòn - Hà Nội ( SHB ),Nhân viên,Không yêu cầu,3,hà nội,2024-12-26,0.0,0.0,-4.098944018373591e+18,nhà phân tích dữ liệu
+1046,Careerviet,CÔNG TY CỔ PHẦN KINH DOANH F88,Nhân viên,Không yêu cầu,3,hà nội,2024-12-26,0.0,0.0,27942912.0,kỹ sư kiểm thử phần mềm
+1047,Careerviet,Ngân Hàng TMCP Việt Nam Thịnh Vượng - VPBANK,Nhân viên,Không yêu cầu,3,hà nội,2024-12-26,0.0,0.0,-4.0989440183811113e+18,nhà khoa học dữ liệu
+1049,Careerviet,CÔNG TY TNHH ĐẦU TƯ VÀ TƯ VẤN EUREKA,Nhân viên,Không yêu cầu,0,hà nội,2024-12-26,10000000.0,25000000.0,17457152.0,nhân viên tester
+1051,Careerviet,Ngân Hàng TMCP Tiên Phong (TPBank),Nhân viên,Không yêu cầu,1,hà nội,2024-12-19,0.0,0.0,-4.0989440183726776e+18,kỹ sư phần mềm
+1052,Careerviet,Ngân Hàng TMCP Tiên Phong (TPBank),Nhân viên,Không yêu cầu,2,hà nội,2024-12-19,0.0,0.0,-4.098944018373513e+18,công nghệ thông tin
+1054,Careerviet,Ngân Hàng TMCP Tiên Phong (TPBank),Quản lý,Không yêu cầu,3,hà nội,2024-12-19,0.0,0.0,1.1287633830979256e+18,công nghệ thông tin
+1055,Careerviet,Ngân Hàng TMCP Tiên Phong (TPBank),Nhân viên,Không yêu cầu,2,hà nội,2024-12-19,0.0,0.0,-4.098944018370437e+18,kỹ sư phần mềm
+1056,Careerviet,Tổng Công ty Cổ phần Công trình Viettel,Quản lý,Không yêu cầu,2,hà nội,2024-12-19,50000000.0,0.0,3.858208324356559e+18,chuyên viên cao cấp an toàn thông tin
+1057,Careerviet,Ngân Hàng TMCP Việt Nam Thịnh Vượng - VPBANK,Nhân viên,Không yêu cầu,3,hà nội,2024-12-19,0.0,0.0,-4.0989440183682253e+18,kỹ sư hệ thống
+1058,Careerviet,Ngân Hàng TMCP Tiên Phong (TPBank),Nhân viên,Không yêu cầu,2,hà nội,2024-12-19,0.0,0.0,-4.098944018373513e+18,công nghệ thông tin
+1059,Careerviet,Teamwork Vietnam Ltd,Mới tốt nghiệp,Không yêu cầu,0,hồ chí minh,2024-12-19,11000000.0,16000000.0,13504512.0,chuyên viên tư vấn cntt
+1060,Careerviet,Bảo mật,Nhân viên,Không yêu cầu,2,hồ chí minh,2024-12-19,0.0,0.0,-4.374231613028414e+19,công nghệ thông tin
+1061,Careerviet,FE CREDIT,Nhân viên,Không yêu cầu,1,hồ chí minh,2024-12-19,17000000.0,37000000.0,26996736.0,công nghệ thông tin
+1063,Careerviet,NGÂN HÀNG TMCP KỸ THƯƠNG VIỆT NAM (TECHCOMBANK),Nhân viên,Không yêu cầu,3,hà nội,2024-12-19,0.0,0.0,8.857432061072787e+18,chuyên viên bảo mật thông tin
+1064,Careerviet,Công ty Cổ phần Bảo Tín Mạnh Hải,Nhân viên,Không yêu cầu,3,hà nội,2024-12-26,14000000.0,18000000.0,16039936.0,nhà phân tích dữ liệu
+1065,Careerviet,CÔNG TY TNHH POLYTEX FAR EASTERN (VIỆT NAM),Nhân viên,Không yêu cầu,3,hồ chí minh,2024-12-26,0.0,0.0,-4.0989440183677256e+18,kỹ sư phần mềm
+1066,Careerviet,Tổng công ty Xây dựng số 1 – CTCP,Nhân viên,Không yêu cầu,2,hồ chí minh,2024-12-26,0.0,0.0,-1.3694990771121725e+18,chuyên viên ứng dụng ai
+1068,Careerviet,Chương trình Học viện Công nghệ BKACAD,Nhân viên,Không yêu cầu,0,hà nội,2024-12-25,20000000.0,60000000.0,-4.098944018374947e+18,kỹ sư hệ thống
+1069,Careerviet,CÔNG TY CỔ PHẦN CÔNG NGHỆ AMZ,Nhân viên,Không yêu cầu,3,hà nội,2024-12-25,8000000.0,15000000.0,11657216.0,kỹ sư phần mềm
+1070,Careerviet,"CAPI CREATIVE Co., Ltd",Nhân viên,Không yêu cầu,1,hà nội,2024-12-25,10000000.0,18000000.0,13254656.0,nhà thiết kế
+1071,Careerviet,"CAPI CREATIVE Co., Ltd",Nhân viên,Không yêu cầu,1,hà nội,2024-12-25,10000000.0,15000000.0,13254656.0,nhà thiết kế
+1072,Careerviet,CÔNG TY CP CÔNG NGHỆ QI,Nhân viên,Không yêu cầu,2,hồ chí minh,2024-12-25,12000000.0,17000000.0,14446592.0,kỹ sư phần mềm
+1073,Careerviet,TKG Taekwang Vina,Nhân viên,Không yêu cầu,1,cần thơ,2024-12-25,10000000.0,16000000.0,-6.581056538633273e+18,công nghệ thông tin
+1074,Careerviet,Bảo mật,Trưởng nhóm / Giám sát,Không yêu cầu,3,hồ chí minh,2024-12-25,40000000.0,60000000.0,-4.430837169371408e+19,kỹ sư phần mềm
+1075,Careerviet,Bảo mật,Nhân viên,Không yêu cầu,2,hồ chí minh,2024-12-25,35000000.0,50000000.0,-4.374231613028106e+19,kỹ sư phần mềm
+1076,Careerviet,Synopsys Vietnam,Nhân viên,Không yêu cầu,3,hà nội,2024-12-25,30000000.0,50000000.0,-4.0989440183681966e+18,kỹ sư phần mềm
+1078,Careerviet,Công ty Cổ phần đầu tư phát triển máy Việt Nam,Quản lý,Không yêu cầu,3,hà nội,2024-12-25,0.0,0.0,1.0033536989134297e+19,chuyên viên tư vấn cntt
+1079,Careerviet,Công ty Cổ phần Kim Long Motor Huế,Nhân viên,Không yêu cầu,1,thừa thiên- huế,2024-12-25,0.0,0.0,8.010033589580354e+18,chuyên viên hệ thống số hóa
+1080,Careerviet,CÔNG TY CỔ PHẦN CHỨNG KHOÁN ASEAN,Quản lý,Không yêu cầu,3,hà nội,2024-12-25,0.0,0.0,3.8582083243587994e+18,technical leader/ manager
+1081,Careerviet,Tổng Công ty Cổ phần Bảo hiểm Ngân hàng Đầu tư và Phát triển Việt Nam (BIC),Nhân viên,Không yêu cầu,2,hà nội,2024-12-25,15000000.0,30000000.0,22523904.0,công nghệ thông tin
+1082,Careerviet,BellSystem24-Việt Nam,Nhân viên,Không yêu cầu,0,hồ chí minh,2024-12-25,8000000.0,15000000.0,-2.5711851526272848e+19,chuyên viên tư vấn cntt
+1086,Careerviet,Ngân Hàng TMCP Việt Nam Thịnh Vượng - VPBANK,Nhân viên,Không yêu cầu,3,hà nội,2024-12-25,0.0,0.0,-1.369499077110399e+18,chuyên viên cao cấp phân tích nghiệp vụ
+1087,Careerviet,NGÂN HÀNG TMCP KỸ THƯƠNG VIỆT NAM (TECHCOMBANK),Nhân viên,Không yêu cầu,3,hà nội,2024-12-25,0.0,0.0,-1.369499077110399e+18,chuyên viên cao cấp nguồn lực công nghệ
+1090,Careerviet,"Un-Available LTD Co.,",Nhân viên,Không yêu cầu,1,hồ chí minh,2024-12-24,0.0,0.0,-1.369499077114413e+18,junior data assistant
+1091,Careerviet,Công ty Cổ phần CANIFA,Nhân viên,Không yêu cầu,2,hà nội,2024-12-24,16000000.0,30000000.0,22958080.0,nhà phân tích dữ liệu
+1092,Careerviet,Công Ty TNHH Maker Sixty Four,Nhân viên,Không yêu cầu,2,long an,2024-12-24,0.0,0.0,-4.098944018375422e+18,nhà phân tích dữ liệu
+1093,Careerviet,CÔNG TY TNHH Y TẾ H PLUS,Nhân viên,Không yêu cầu,0,hà nội,2024-12-24,10000000.0,15000000.0,-2.9575221580935086e+18,chuyên viên hỗ trợ kỹ thuật
+1094,Careerviet,Công ty TNHH Logistics Sinovitrans,Nhân viên,Không yêu cầu,1,hải phòng,2024-12-24,0.0,0.0,-4.0989440183743693e+18,chuyên viên hỗ trợ kỹ thuật
+1095,Careerviet,Công Ty Cổ Phần Tập Đoàn Đèo Cả,Nhân viên,Không yêu cầu,3,hồ chí minh,2024-12-24,10000000.0,15000000.0,12443648.0,kỹ sư hệ thống
+1096,Careerviet,CÔNG TY CP THƯƠNG MẠI - DỊCH VỤ SAO NAM AN,Nhân viên,Không yêu cầu,3,hồ chí minh,2024-12-24,15000000.0,20000000.0,17301504.0,công nghệ thông tin
+1097,Careerviet,Công ty Cổ phần Kim Long Motor Huế,Nhân viên,Không yêu cầu,1,thừa thiên- huế,2024-12-24,10000000.0,20000000.0,8.010033589580354e+18,chuyên viên hệ thống số hóa
+1098,Careerviet,Công ty TNHH Onpoint,Nhân viên,Không yêu cầu,1,hồ chí minh,2024-12-24,0.0,0.0,-4.09894401837654e+18,chuyên viên hỗ trợ kỹ thuật
+1099,Careerviet,CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ THƯƠNG MẠI QUỐC TẾ ICOM,Trưởng nhóm / Giám sát,Không yêu cầu,3,hà nội,2024-12-24,0.0,0.0,-1.935554640545661e+18,teach lead be
+1100,Careerviet,CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ THƯƠNG MẠI QUỐC TẾ ICOM,Quản lý,Không yêu cầu,3,hà nội,2024-12-24,0.0,0.0,1.128763383100969e+18,kỹ sư hệ thống
+1101,Careerviet,Hệ thống Y tế Thu Cúc,Nhân viên,Không yêu cầu,1,hà nội,2024-12-24,0.0,0.0,-4.098944018377011e+18,chuyên viên hỗ trợ kỹ thuật
+1102,Careerviet,Tổng Công ty Cổ phần Công trình Viettel,Trưởng nhóm / Giám sát,Không yêu cầu,2,hà nội,2024-12-24,30000000.0,40000000.0,-4.664999581805695e+18,kỹ sư phần mềm
+1103,Careerviet,CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ THƯƠNG MẠI QUỐC TẾ ICOM,Trưởng nhóm / Giám sát,Không yêu cầu,3,hà nội,2024-12-24,0.0,0.0,-1.935554640545661e+18,teach lead mobile
+1104,Careerviet,Ngân Hàng TMCP Việt Nam Thịnh Vượng - VPBANK,Nhân viên,Không yêu cầu,3,hà nội,2024-12-24,0.0,0.0,-1.369499077110399e+18,chuyên viên cao cấp phân tích nghiệp vụ
+1107,Careerviet,CÔNG TY CỔ PHẦN CÔNG NGHỆ ISOFH,Nhân viên,Không yêu cầu,2,hà nội,2024-12-24,15000000.0,20000000.0,4.290429275209556e+18,kỹ sư mạng
+1108,Careerviet,Ngân Hàng TMCP Quân Đội,Nhân viên,Không yêu cầu,3,hà nội,2024-12-24,0.0,0.0,-1.369499077110399e+18,kiểm toán viên
+1111,Careerviet,Công Ty CP Vàng Bạc Đá Quý Phú Nhuận - PNJ,Quản lý,Không yêu cầu,3,hồ chí minh,2024-12-24,0.0,0.0,1.1287633830983885e+18,công nghệ thông tin
+1112,Careerviet,Công Ty CP Vàng Bạc Đá Quý Phú Nhuận - PNJ,Quản lý,Không yêu cầu,3,hồ chí minh,2024-12-24,0.0,0.0,1.12876338310144e+18,kỹ sư hệ thống
+1114,Careerviet,Công ty TNHH Bình Việt Đức (BIVID),Nhân viên,Không yêu cầu,2,hồ chí minh,2024-12-24,0.0,0.0,-4.098944018369966e+18,kỹ sư phần mềm
+1118,Careerviet,CÔNG TY CỔ PHẦN HASAKI BEAUTY & CLINIC,Nhân viên,Không yêu cầu,1,hồ chí minh,2024-12-24,15000000.0,20000000.0,17543168.0,kỹ sư phần mềm
+1121,Careerviet,Chương trình Học viện Công nghệ BKACAD,Sinh viên/ Thực tập sinh,Không yêu cầu,0,hà nội,2024-12-24,0.0,0.0,3.858208324352078e+18,nhân viên phát triển dự án ai cho tập đoàn hàng đầu tại mỹ
+1122,Careerviet,Chương trình Học viện Công nghệ BKACAD,Nhân viên,Không yêu cầu,0,hà nội,2024-12-24,20000000.0,60000000.0,-4.098944018374947e+18,kỹ sư hệ thống
+1124,Careerviet,CÔNG TY TNHH JOB HOUSE,Trưởng nhóm / Giám sát,Không yêu cầu,3,hồ chí minh,2024-12-24,75000000.0,100000000.0,-1.93555464054519e+18,servicenow technical leader cho công ty mới thành lập
+1125,Careerviet,CÔNG TY CỔ PHẦN Z HOLDING,Nhân viên,Không yêu cầu,2,hà nội,2024-12-23,20000000.0,40000000.0,-3.2108668513326633e+19,nhà phân tích dữ liệu
+1126,Careerviet,CÔNG TY CỔ PHẦN CHỨNG KHOÁN ASEAN,Nhân viên,Không yêu cầu,1,hà nội,2024-12-23,0.0,0.0,-4.0989440183757537e+18,công nghệ thông tin
+1127,Careerviet,Ngân hàng Thương mại Cổ phần Hàng Hải Việt Nam (MSB),Trưởng nhóm / Giám sát,Không yêu cầu,3,hà nội,2024-12-23,55000000.0,65000000.0,-4.664999581816365e+18,nhà khoa học dữ liệu
+1128,Careerviet,Công ty Cổ phần Chứng khoán Sài Gòn - Hà Nội,Nhân viên,Không yêu cầu,3,hà nội,2024-12-23,0.0,0.0,-4.098944018373591e+18,nhà phân tích dữ liệu
+1129,Careerviet,CÔNG TY CỔ PHẦN CHỨNG KHOÁN ASEAN,Nhân viên,Không yêu cầu,3,hà nội,2024-12-23,0.0,0.0,-4.09894401837253e+18,chuyên viên hỗ trợ kỹ thuật
+1131,Careerviet,Công Ty Cổ Phần Dịch vụ Công nghệ Tin Học HPT,Nhân viên,Không yêu cầu,0,hà nội,2024-12-23,10000000.0,15000000.0,1.0165493451971324e+19,cộng tác viên phân tích nghiệp vụ phần mềm
+1132,Careerviet,Công Ty Cổ Phần Dịch vụ Công nghệ Tin Học HPT,Nhân viên,Không yêu cầu,0,hà nội,2024-12-23,10000000.0,15000000.0,7.436048510709039e+18,kỹ sư kiểm thử phần mềm
+1133,Careerviet,Công Ty Cổ Phần Dịch vụ Công nghệ Tin Học HPT,Nhân viên,Không yêu cầu,0,hà nội,2024-12-23,10000000.0,15000000.0,12464128.0,cộng tác viên triển khai phần mềm ứng dụng
+1134,Careerviet,Ngân hàng TMCP Lộc Phát Việt Nam (LPBank),Nhân viên,Không yêu cầu,3,hà nội,2024-12-23,0.0,0.0,-1.369499077110399e+18,khối vận hành
+1135,Careerviet,HR Vietnam’s ESS Client,Trưởng nhóm / Giám sát,Không yêu cầu,3,hà nội,2024-12-23,0.0,0.0,2.1633893778500813e+18,technical leader
+1136,Careerviet,Công Ty Cổ Phần Đầu Tư K&G Việt Nam,Nhân viên,Không yêu cầu,2,hà nội,2024-12-23,12000000.0,20000000.0,8.038652332968421e+18,kỹ sư phần mềm
+1137,Careerviet,VCBS - Chung khoan VCB,Nhân viên,Không yêu cầu,2,hà nội,2024-12-23,0.0,0.0,-4.0989440183811236e+18,kỹ sư dữ liệu
+1139,Careerviet,CÔNG TY CỔ PHẦN DƯỢC PHẨM FPT LONG CHÂU,Trưởng nhóm / Giám sát,Không yêu cầu,2,hồ chí minh,2024-12-23,20000000.0,35000000.0,-1.7529163982784483e+19,kỹ sư phần mềm
+1140,Careerviet,Tập đoàn cơ khí công nghệ cao Siba,Nhân viên,Không yêu cầu,2,hồ chí minh,2024-12-23,0.0,0.0,-4.098944018369966e+18,kỹ sư phần mềm
+1141,Careerviet,Công ty TNHH Omron Healthcare Manufacturing Việt Nam,Nhân viên,Không yêu cầu,1,bình dương,2024-12-23,0.0,0.0,-4.0989440183722394e+18,kỹ sư phần mềm
+1142,Careerviet,HR Vietnam’s ESS Client,Nhân viên,Không yêu cầu,3,hà nội,2024-12-23,25000000.0,30000000.0,27545600.0,kỹ sư phần mềm
+1143,Careerviet,Diag,Nhân viên,Không yêu cầu,3,hồ chí minh,2024-12-23,60000000.0,80000000.0,-4.0989440183677256e+18,kỹ sư phần mềm
